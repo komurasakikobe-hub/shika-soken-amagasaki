@@ -6577,16 +6577,16 @@
       "日曜日: 10時00分～19時00分"
     ],
     "genre": "一般歯科",
-    "total_score": 60,
-    "reputation_score": 15,
-    "doctor_score": 15,
-    "equipment_score": 10,
-    "transparency_score": 10,
-    "activity_score": 5,
+    "total_score": 5,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
     "google_bonus": 5,
-    "clinic_score": 20,
-    "current": 55,
-    "potential": 56,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
     "reputation_tags": [
       "マンツーマン対応",
       "落ち着く空間",
@@ -6671,7 +6671,7 @@
     "catchphrase": "完全予約制のリラックス空間",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7160508,
     "longitude": 135.3856469,
     "location_source": "geocoding",
@@ -6700,7 +6700,12 @@
     "philosophy": "お客様お一人お一人に寄り添うサロン",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "lat": 34.7159264,
+    "lng": 135.3854203,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJ1aGzFG7uAGARjVGh60Ds5uQ": {
     "place_id": "ChIJ1aGzFG7uAGARjVGh60Ds5uQ",
@@ -6799,7 +6804,7 @@
     "catchphrase": "予約なしでも安心",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.714119,
     "longitude": 135.3851872,
     "location_source": "geocoding",
@@ -6820,7 +6825,12 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "lat": 34.71309,
+    "lng": 135.3866281,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJ4S7uow7vAGARyAHYUR25y74": {
     "place_id": "ChIJ4S7uow7vAGARyAHYUR25y74",
@@ -6893,7 +6903,7 @@
     "catchphrase": "",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7153141,
     "longitude": 135.4259318,
     "location_source": "geocoding",
@@ -6914,7 +6924,12 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "lat": 34.7149126,
+    "lng": 135.4265084,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJT0WAPmfvAGARZaS4AUKhd8c": {
     "place_id": "ChIJT0WAPmfvAGARZaS4AUKhd8c",
@@ -10815,7 +10830,7 @@
     "catchphrase": "評価が分かれる歯科医院",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.71812120000001,
     "longitude": 135.3841275,
     "location_source": "geocoding",
@@ -10836,7 +10851,12 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "lat": 34.7190604,
+    "lng": 135.3861929,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJ2wnLqG3uAGAR-6kqpPFJHBw": {
     "place_id": "ChIJ2wnLqG3uAGAR-6kqpPFJHBw",
@@ -10944,7 +10964,7 @@
     "catchphrase": "優しさあふれる歯科医院",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.717347,
     "longitude": 135.3858059,
     "location_source": "geocoding",
@@ -10965,7 +10985,12 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "lat": 34.7190604,
+    "lng": 135.3861929,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJFQ7hlRPuAGARS5HH1geKRWU": {
     "place_id": "ChIJFQ7hlRPuAGARS5HH1geKRWU",
@@ -11053,7 +11078,7 @@
     "catchphrase": "優しく丁寧な歯科医院",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.723723,
     "longitude": 135.387528,
     "location_source": "geocoding",
@@ -11074,7 +11099,12 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "lat": 34.7232324,
+    "lng": 135.3866947,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJr6Mze0DvAGARTUuJxCJni00": {
     "place_id": "ChIJr6Mze0DvAGARTUuJxCJni00",
@@ -11198,7 +11228,7 @@
     "catchphrase": "地域の思いやり歯科",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7176683,
     "longitude": 135.3963971,
     "location_source": "geocoding",
@@ -11246,7 +11276,12 @@
     "philosophy": "患者さんとの信頼関係を大切に",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "lat": 34.7339783,
+    "lng": 135.4064015,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJ6xWBHEXuAGARqGixRJlmiCE": {
     "place_id": "ChIJ6xWBHEXuAGARqGixRJlmiCE",
@@ -11372,7 +11407,7 @@
     "catchphrase": "気軽に通える町の歯医者",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7198922,
     "longitude": 135.4005002,
     "location_source": "geocoding",
@@ -11414,7 +11449,12 @@
     "philosophy": "気軽に行ける町の歯医者さん",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "lat": 34.7339783,
+    "lng": 135.4064015,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJa_BS90_uAGARc0mbjZQnfTI": {
     "place_id": "ChIJa_BS90_uAGARc0mbjZQnfTI",
@@ -11487,7 +11527,7 @@
     "catchphrase": "",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7194045,
     "longitude": 135.4029503,
     "location_source": "geocoding",
@@ -11508,7 +11548,12 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "lat": 34.7191209,
+    "lng": 135.4028126,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJByaAzFHuAGARXbdrTwDwE9c": {
     "place_id": "ChIJByaAzFHuAGARXbdrTwDwE9c",
@@ -11620,7 +11665,7 @@
     "catchphrase": "親切で信頼できる歯科医院",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7191011,
     "longitude": 135.4052656,
     "location_source": "geocoding",
@@ -11648,7 +11693,12 @@
     ],
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "lat": 34.7196636,
+    "lng": 135.4052623,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJAXROHkzuAGARO8qGdIcAO_8": {
     "place_id": "ChIJAXROHkzuAGARO8qGdIcAO_8",
@@ -11729,7 +11779,7 @@
     "catchphrase": "",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.724515,
     "longitude": 135.407556,
     "location_source": "geocoding",
@@ -11750,7 +11800,12 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "lat": 34.7245869,
+    "lng": 135.4083243,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJv3vPaU7uAGARI5qSOsQIz3U": {
     "place_id": "ChIJv3vPaU7uAGARI5qSOsQIz3U",
@@ -11823,7 +11878,7 @@
     "catchphrase": "",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.72195239999999,
     "longitude": 135.406326,
     "location_source": "geocoding",
@@ -11844,7 +11899,12 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "lat": 34.7218866,
+    "lng": 135.4067104,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJQ36bgU3uAGARumfZ5XVh9nI": {
     "place_id": "ChIJQ36bgU3uAGARumfZ5XVh9nI",
@@ -11917,7 +11977,7 @@
     "catchphrase": "",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7221814,
     "longitude": 135.4095225,
     "location_source": "geocoding",
@@ -11938,7 +11998,12 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "lat": 34.722022,
+    "lng": 135.4105717,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJvS9oI0_uAGARUd2FbonECtM": {
     "place_id": "ChIJvS9oI0_uAGARUd2FbonECtM",
@@ -12011,7 +12076,7 @@
     "catchphrase": "",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7230852,
     "longitude": 135.4045322,
     "location_source": "geocoding",
@@ -12032,7 +12097,12 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "lat": 34.723014,
+    "lng": 135.4063231,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJfdKYykjuAGAREnP_YH2aJM0": {
     "place_id": "ChIJfdKYykjuAGAREnP_YH2aJM0",
@@ -12053,16 +12123,16 @@
       "日曜日: 定休日"
     ],
     "genre": "一般歯科",
-    "total_score": 42,
-    "reputation_score": 20,
-    "doctor_score": 20,
+    "total_score": 2,
+    "reputation_score": 0,
+    "doctor_score": 0,
     "equipment_score": 0,
     "transparency_score": 0,
     "activity_score": 0,
     "google_bonus": 2,
     "clinic_score": 0,
-    "current": 40,
-    "potential": 48,
+    "current": 0,
+    "potential": 0,
     "reputation_tags": [
       "丁寧な対応",
       "予約混雑",
@@ -12139,7 +12209,7 @@
     "catchphrase": "丁寧な治療で安心感を",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7238979,
     "longitude": 135.4039752,
     "location_source": "geocoding",
@@ -12160,7 +12230,12 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "lat": 34.7241954,
+    "lng": 135.4037635,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJYY1OgFHuAGARI-GJjwB_TDk": {
     "place_id": "ChIJYY1OgFHuAGARI-GJjwB_TDk",
@@ -12241,7 +12316,7 @@
     "catchphrase": "",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.71879200000001,
     "longitude": 135.407336,
     "location_source": "geocoding",
@@ -12262,7 +12337,12 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "lat": 34.7194224,
+    "lng": 135.4079257,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJn_f0oVHuAGARSlHafV3iuB8": {
     "place_id": "ChIJn_f0oVHuAGARSlHafV3iuB8",
@@ -12470,7 +12550,7 @@
     "catchphrase": "地域に根ざした安心の歯科医療",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.718638,
     "longitude": 135.408334,
     "location_source": "geocoding",
@@ -12510,7 +12590,12 @@
     "philosophy": "地域に密着した医療を目指しております",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "lat": 34.7339783,
+    "lng": 135.4064015,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJ5yR84U3uAGAR72I7tR0UeT8": {
     "place_id": "ChIJ5yR84U3uAGAR72I7tR0UeT8",
@@ -12615,7 +12700,7 @@
     "catchphrase": "丁寧な歯科治療",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.72183889999999,
     "longitude": 135.4075659,
     "location_source": "geocoding",
@@ -12636,7 +12721,12 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "lat": 34.7219536,
+    "lng": 135.40867,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJIzUNdFLuAGAR78uI1Nolk10": {
     "place_id": "ChIJIzUNdFLuAGAR78uI1Nolk10",
@@ -12657,16 +12747,16 @@
       "日曜日: 定休日"
     ],
     "genre": "一般歯科",
-    "total_score": 82,
-    "reputation_score": 25,
-    "doctor_score": 20,
-    "equipment_score": 15,
-    "transparency_score": 10,
-    "activity_score": 10,
+    "total_score": 2,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
     "google_bonus": 2,
-    "clinic_score": 25,
-    "current": 80,
-    "potential": 78,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
     "reputation_tags": [
       "丁寧な治療",
       "清潔感",
@@ -12749,7 +12839,7 @@
     "catchphrase": "安心・丁寧な治療",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7213726,
     "longitude": 135.4088384,
     "location_source": "geocoding",
@@ -12778,7 +12868,12 @@
     "philosophy": "地域に密着したホームドクターを目指す",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "lat": 34.7214907,
+    "lng": 135.4084839,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJ49GrVVLuAGARh1nuyGURDn4": {
     "place_id": "ChIJ49GrVVLuAGARh1nuyGURDn4",
@@ -12859,7 +12954,7 @@
     "catchphrase": "",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7199727,
     "longitude": 135.4097081,
     "location_source": "geocoding",
@@ -12883,7 +12978,12 @@
     "q_excluded": false,
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "lat": 34.7339783,
+    "lng": 135.4064015,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJn3SgwlLuAGAR8dfp2E8jOY4": {
     "place_id": "ChIJn3SgwlLuAGAR8dfp2E8jOY4",
@@ -12999,7 +13099,7 @@
     "catchphrase": "技術と優しさの歯科医院",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7207824,
     "longitude": 135.4109576,
     "location_source": "geocoding",
@@ -13033,7 +13133,12 @@
     "philosophy": "口内全体のトータル・デンタル・ケア",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "lat": 34.7210718,
+    "lng": 135.4122025,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJlb_H2E7uAGAR1_7K84XcNeM": {
     "place_id": "ChIJlb_H2E7uAGAR1_7K84XcNeM",
@@ -13054,16 +13159,16 @@
       "日曜日: 定休日"
     ],
     "genre": "一般歯科",
-    "total_score": 77,
-    "reputation_score": 20,
-    "doctor_score": 20,
-    "equipment_score": 15,
-    "transparency_score": 10,
-    "activity_score": 10,
+    "total_score": 2,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
     "google_bonus": 2,
-    "clinic_score": 25,
-    "current": 75,
-    "potential": 78,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
     "reputation_tags": [
       "地域密着型",
       "丁寧な対応",
@@ -13148,7 +13253,7 @@
     "catchphrase": "安心して通える歯医者",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.72363170000001,
     "longitude": 135.4051874,
     "location_source": "geocoding",
@@ -13183,7 +13288,12 @@
     "philosophy": "患者様とのコミュニケーションを大切にし、安全・確実・丁寧な歯科治療を行う",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "lat": 34.7234491,
+    "lng": 135.4064927,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJlUYmZU3uAGARBUBmoIUw2WU": {
     "place_id": "ChIJlUYmZU3uAGARBUBmoIUw2WU",
@@ -13204,16 +13314,16 @@
       "日曜日: 定休日"
     ],
     "genre": "一般歯科",
-    "total_score": 79,
-    "reputation_score": 20,
-    "doctor_score": 20,
-    "equipment_score": 15,
-    "transparency_score": 10,
-    "activity_score": 12,
+    "total_score": 2,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
     "google_bonus": 2,
-    "clinic_score": 25,
-    "current": 77,
-    "potential": 78,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
     "reputation_tags": [
       "信頼できる",
       "子ども対応",
@@ -13310,7 +13420,7 @@
     "catchphrase": "心地よい歯科治療を提供",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.722779,
     "longitude": 135.410435,
     "location_source": "geocoding",
@@ -13345,7 +13455,12 @@
     "philosophy": "痛みが少なく、怖くない、心地よい空間とサービスを提供",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "lat": 34.7228739,
+    "lng": 135.4143997,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJwZOfyU7uAGARC4Ag2rkcXoU": {
     "place_id": "ChIJwZOfyU7uAGARC4Ag2rkcXoU",
@@ -13466,7 +13581,7 @@
     "catchphrase": "安心して通える歯科医院",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.72451579999999,
     "longitude": 135.4061718,
     "location_source": "geocoding",
@@ -13501,7 +13616,12 @@
     "philosophy": "患者さまの笑顔のための治療を提供いたします。",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "lat": 34.7249881,
+    "lng": 135.4046432,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJc9q29qvvAGARHT0ThGi1pNQ": {
     "place_id": "ChIJc9q29qvvAGARHT0ThGi1pNQ",
@@ -13615,7 +13735,7 @@
     "catchphrase": "矯正専門医院へようこそ！",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.71871359999999,
     "longitude": 135.4192293,
     "location_source": "geocoding",
@@ -13655,7 +13775,12 @@
     "philosophy": "患者さま一人ひとりのお口の状態に合わせた治療",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "lat": 34.7185061,
+    "lng": 135.4191153,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJDWtRGqzvAGARl-Elws95tQw": {
     "place_id": "ChIJDWtRGqzvAGARl-Elws95tQw",
@@ -13737,7 +13862,7 @@
     "catchphrase": "受付が疑問の医院",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.72137360000001,
     "longitude": 135.416436,
     "location_source": "geocoding",
@@ -13758,7 +13883,12 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "lat": 34.7228739,
+    "lng": 135.4143997,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJX8AsSKrvAGAR_BPwpaFrrw0": {
     "place_id": "ChIJX8AsSKrvAGAR_BPwpaFrrw0",
@@ -13831,7 +13961,7 @@
     "catchphrase": "",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7176813,
     "longitude": 135.4156713,
     "location_source": "geocoding",
@@ -13852,7 +13982,12 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "lat": 34.7166547,
+    "lng": 135.4159995,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJEdJj7KvvAGART8bkDUPL1is": {
     "place_id": "ChIJEdJj7KvvAGART8bkDUPL1is",
@@ -13953,7 +14088,7 @@
     "catchphrase": "丁寧で待たせない歯科医院",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.71971979999999,
     "longitude": 135.4158176,
     "location_source": "geocoding",
@@ -13974,7 +14109,12 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "lat": 34.7193017,
+    "lng": 135.4156293,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJc9q29qvvAGARthbeQdswtS4": {
     "place_id": "ChIJc9q29qvvAGARthbeQdswtS4",
@@ -13995,16 +14135,16 @@
       "日曜日: 定休日"
     ],
     "genre": "一般歯科",
-    "total_score": 77,
-    "reputation_score": 20,
-    "doctor_score": 20,
-    "equipment_score": 15,
-    "transparency_score": 10,
-    "activity_score": 10,
+    "total_score": 2,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
     "google_bonus": 2,
-    "clinic_score": 25,
-    "current": 75,
-    "potential": 78,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
     "reputation_tags": [
       "優しい先生",
       "治療が早い",
@@ -14089,7 +14229,7 @@
     "catchphrase": "安心して通える歯科医院",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.720342,
     "longitude": 135.4161726,
     "location_source": "geocoding",
@@ -14127,7 +14267,12 @@
     "philosophy": "できる限り歯を残し、抜かない方針",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "lat": 34.7202098,
+    "lng": 135.4160032,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJK3AeMCDvAGARjpq_g08tFYM": {
     "place_id": "ChIJK3AeMCDvAGARjpq_g08tFYM",
@@ -14244,7 +14389,7 @@
     "catchphrase": "優しさが伝わる歯科医院",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.71858359999999,
     "longitude": 135.4150029,
     "location_source": "geocoding",
@@ -14293,7 +14438,12 @@
     "philosophy": "痛みの少ない治療を前提に",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "lat": 34.7339783,
+    "lng": 135.4064015,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJ-yBW0gnvAGARzu1C5PQ5knY": {
     "place_id": "ChIJ-yBW0gnvAGARzu1C5PQ5knY",
@@ -14314,16 +14464,16 @@
       "日曜日: 定休日"
     ],
     "genre": "一般歯科",
-    "total_score": 67,
-    "reputation_score": 15,
-    "doctor_score": 15,
-    "equipment_score": 15,
-    "transparency_score": 10,
-    "activity_score": 10,
+    "total_score": 2,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
     "google_bonus": 2,
-    "clinic_score": 25,
-    "current": 65,
-    "potential": 66,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
     "reputation_tags": [
       "清潔感",
       "丁寧な接客",
@@ -14409,7 +14559,7 @@
     "catchphrase": "清潔で丁寧な歯科医院",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7185987,
     "longitude": 135.4192867,
     "location_source": "geocoding",
@@ -14447,7 +14597,12 @@
     "philosophy": "患者さまとのコミュニケーションを大切に",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "lat": 34.7339783,
+    "lng": 135.4064015,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJSfNeJwrvAGARBrA7UgnE1vY": {
     "place_id": "ChIJSfNeJwrvAGARBrA7UgnE1vY",
@@ -14551,7 +14706,7 @@
     "catchphrase": "あなたに寄り添う歯科医院",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.719341,
     "longitude": 135.426285,
     "location_source": "geocoding",
@@ -14586,7 +14741,12 @@
     "philosophy": "患者さまが望まれる結果を提供できる歯科医師でありたい",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "lat": 34.7196498,
+    "lng": 135.4267838,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJq6v5VkbvAGARo4HHPNSCO28": {
     "place_id": "ChIJq6v5VkbvAGARo4HHPNSCO28",
@@ -14607,16 +14767,16 @@
       "日曜日: 定休日"
     ],
     "genre": "一般歯科",
-    "total_score": 77,
-    "reputation_score": 20,
-    "doctor_score": 20,
-    "equipment_score": 15,
-    "transparency_score": 10,
-    "activity_score": 10,
+    "total_score": 2,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
     "google_bonus": 2,
-    "clinic_score": 25,
-    "current": 75,
-    "potential": 78,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
     "reputation_tags": [
       "子ども対応",
       "痛みへの配慮",
@@ -14710,7 +14870,7 @@
     "catchphrase": "痛くない歯医者、しげた歯科",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7209731,
     "longitude": 135.4282182,
     "location_source": "geocoding",
@@ -14748,7 +14908,12 @@
     "philosophy": "対話をしっかりとりながら納得していただける歯科治療を提供",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "lat": 34.7339783,
+    "lng": 135.4064015,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJUXnN_gvvAGARWvFcG1537OU": {
     "place_id": "ChIJUXnN_gvvAGARWvFcG1537OU",
@@ -14862,7 +15027,7 @@
     "catchphrase": "安心・親切な歯科医療",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7166443,
     "longitude": 135.4265574,
     "location_source": "geocoding",
@@ -14897,7 +15062,12 @@
     "philosophy": "患者様ひとりひとりに合わせたより良い歯科医療を提供",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "lat": 34.7178876,
+    "lng": 135.4280987,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJ5-XMDq_vAGARLRr0B3rZF9E": {
     "place_id": "ChIJ5-XMDq_vAGARLRr0B3rZF9E",
@@ -15118,7 +15288,7 @@
     "catchphrase": "",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.72354139999999,
     "longitude": 135.4328773,
     "location_source": "geocoding",
@@ -15139,7 +15309,12 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "lat": 34.7245753,
+    "lng": 135.4333158,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJgz0lQnHvAGARc7hWZzALTsQ": {
     "place_id": "ChIJgz0lQnHvAGARc7hWZzALTsQ",
@@ -15240,7 +15415,7 @@
     "catchphrase": "親子で通える歯科医院",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7200177,
     "longitude": 135.4365455,
     "location_source": "geocoding",
@@ -15264,7 +15439,12 @@
     "q_excluded": false,
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "lat": 34.7215337,
+    "lng": 135.4356069,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJpYA_yHbvAGARsy8ZHeBkJFg": {
     "place_id": "ChIJpYA_yHbvAGARsy8ZHeBkJFg",
@@ -15345,7 +15525,7 @@
     "catchphrase": "",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7216902,
     "longitude": 135.4369346,
     "location_source": "geocoding",
@@ -15366,7 +15546,12 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "lat": 34.7210215,
+    "lng": 135.438089,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJqRPzkHDvAGARcNf4u34TDu8": {
     "place_id": "ChIJqRPzkHDvAGARcNf4u34TDu8",
@@ -15439,7 +15624,7 @@
     "catchphrase": "",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7210381,
     "longitude": 135.4397199,
     "location_source": "geocoding",
@@ -15460,7 +15645,12 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "lat": 34.719474,
+    "lng": 135.4407152,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJUYkuTXDvAGARzd4E49VJJMQ": {
     "place_id": "ChIJUYkuTXDvAGARzd4E49VJJMQ",
@@ -15571,7 +15761,7 @@
     "catchphrase": "安心して通える歯科医院",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7188539,
     "longitude": 135.438155,
     "location_source": "geocoding",
@@ -15600,7 +15790,12 @@
     "philosophy": "口腔内から、心まで治せる歯科医院になる",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "lat": 34.7190174,
+    "lng": 135.4363481,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJ7Yr8nXrvAGARUXB1_LClflo": {
     "place_id": "ChIJ7Yr8nXrvAGARUXB1_LClflo",
@@ -15681,7 +15876,7 @@
     "catchphrase": "",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7198206,
     "longitude": 135.440419,
     "location_source": "geocoding",
@@ -15704,7 +15899,12 @@
     "q_is_dup": false,
     "q_excluded": false,
     "deep_fetched": true,
-    "deep_status": "fetch_fail"
+    "deep_status": "fetch_fail",
+    "lat": 34.719474,
+    "lng": 135.4407152,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJIZHjl3rvAGARJO7VFMXLrII": {
     "place_id": "ChIJIZHjl3rvAGARJO7VFMXLrII",
@@ -15819,7 +16019,7 @@
     "catchphrase": "丁寧で安心な歯科医院",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.71982360000001,
     "longitude": 135.4410346,
     "location_source": "geocoding",
@@ -15844,7 +16044,12 @@
     "philosophy": "健康的な口元で若々しい笑顔に！",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "lat": 34.719474,
+    "lng": 135.4407152,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJH6gwaHDvAGARICykYlqNBso": {
     "place_id": "ChIJH6gwaHDvAGARICykYlqNBso",
@@ -15929,7 +16134,7 @@
     "catchphrase": "患者想いの歯科医院",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7194383,
     "longitude": 135.4392235,
     "location_source": "geocoding",
@@ -15950,7 +16155,12 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "lat": 34.719474,
+    "lng": 135.4407152,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJqRPzkHDvAGAReBACbz22Wj8": {
     "place_id": "ChIJqRPzkHDvAGAReBACbz22Wj8",
@@ -16062,7 +16272,7 @@
     "catchphrase": "予防から始まる健康な歯の未来",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.72103800000001,
     "longitude": 135.439723,
     "location_source": "geocoding",
@@ -16105,7 +16315,12 @@
     "philosophy": "病気になる原因を一つずつ取り除くことが大事",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "lat": 34.719474,
+    "lng": 135.4407152,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJK3XRyGTvAGAR8eann-5Pe1Y": {
     "place_id": "ChIJK3XRyGTvAGAR8eann-5Pe1Y",
@@ -16186,7 +16401,7 @@
     "catchphrase": "",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.71946190000001,
     "longitude": 135.4436529,
     "location_source": "geocoding",
@@ -16207,7 +16422,12 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "lat": 34.7203706,
+    "lng": 135.4436946,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJeVkPZHfvAGAR3k933BfgLjk": {
     "place_id": "ChIJeVkPZHfvAGAR3k933BfgLjk",
@@ -16302,7 +16522,7 @@
     "catchphrase": "優しい歯科医院",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7237777,
     "longitude": 135.4400212,
     "location_source": "geocoding",
@@ -16323,7 +16543,12 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "lat": 34.7236406,
+    "lng": 135.4414197,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJzSzqF2LvAGARouJmDqWml-4": {
     "place_id": "ChIJzSzqF2LvAGARouJmDqWml-4",
@@ -17201,7 +17426,7 @@
     "catchphrase": "",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.731834,
     "longitude": 135.387195,
     "location_source": "geocoding",
@@ -17222,7 +17447,12 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "lat": 34.7325733,
+    "lng": 135.3890229,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJcwygvxnuAGARrFoxOv5rcMw": {
     "place_id": "ChIJcwygvxnuAGARrFoxOv5rcMw",
@@ -17325,7 +17555,7 @@
     "catchphrase": "痛みの少ない治療",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7318451,
     "longitude": 135.3899631,
     "location_source": "geocoding",
@@ -17358,7 +17588,12 @@
     "philosophy": "時間をかけた丁寧な治療と痛みの少ない治療",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "lat": 34.7325733,
+    "lng": 135.3890229,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJg8JrURbuAGAR3E69aSor6LU": {
     "place_id": "ChIJg8JrURbuAGAR3E69aSor6LU",
@@ -17452,7 +17687,7 @@
     "catchphrase": "親切な歯科医院",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7288754,
     "longitude": 135.3911563,
     "location_source": "geocoding",
@@ -17473,7 +17708,12 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "lat": 34.7278183,
+    "lng": 135.3923056,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJle_HBxfuAGARP5Ipmzy3w-c": {
     "place_id": "ChIJle_HBxfuAGARP5Ipmzy3w-c",
@@ -17546,7 +17786,7 @@
     "catchphrase": "",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7293596,
     "longitude": 135.3908687,
     "location_source": "geocoding",
@@ -17567,7 +17807,12 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "lat": 34.730065,
+    "lng": 135.390133,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJ1Ta5NQDvAGARKPq-sk8gAjw": {
     "place_id": "ChIJ1Ta5NQDvAGARKPq-sk8gAjw",
@@ -17640,7 +17885,7 @@
     "catchphrase": "",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7292201,
     "longitude": 135.3902037,
     "location_source": "geocoding",
@@ -17661,7 +17906,12 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "lat": 34.7272955,
+    "lng": 135.389395,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJ7Vgk-BXuAGARYDdLd6UmDqY": {
     "place_id": "ChIJ7Vgk-BXuAGARYDdLd6UmDqY",
@@ -17682,15 +17932,15 @@
       "日曜日: 定休日"
     ],
     "genre": "一般歯科",
-    "total_score": 22,
-    "reputation_score": 20,
+    "total_score": 2,
+    "reputation_score": 0,
     "doctor_score": 0,
     "equipment_score": 0,
     "transparency_score": 0,
     "activity_score": 0,
     "google_bonus": 2,
     "clinic_score": 0,
-    "current": 20,
+    "current": 0,
     "potential": 0,
     "reputation_tags": [
       "親切な対応",
@@ -17759,7 +18009,7 @@
     "catchphrase": "親切・迅速な歯科治療",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7272063,
     "longitude": 135.3932503,
     "location_source": "geocoding",
@@ -17780,7 +18030,10 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJ5wXMBEjuAGAR5FHRR9y2wTo": {
     "place_id": "ChIJ5wXMBEjuAGAR5FHRR9y2wTo",
@@ -17985,7 +18238,7 @@
     "catchphrase": "家族で通える優しい歯医者",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7291306,
     "longitude": 135.407488,
     "location_source": "geocoding",
@@ -18021,7 +18274,10 @@
     "philosophy": "予防治療に努めています",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJvab12zbuAGARRCnc93ylH9w": {
     "place_id": "ChIJvab12zbuAGARRCnc93ylH9w",
@@ -18042,16 +18298,16 @@
       "日曜日: 定休日"
     ],
     "genre": "一般歯科",
-    "total_score": 82,
-    "reputation_score": 20,
-    "doctor_score": 20,
-    "equipment_score": 15,
-    "transparency_score": 10,
-    "activity_score": 15,
+    "total_score": 2,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
     "google_bonus": 2,
-    "clinic_score": 25,
-    "current": 80,
-    "potential": 78,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
     "reputation_tags": [
       "親切丁寧",
       "高評価",
@@ -18146,7 +18402,7 @@
     "catchphrase": "親切な歯科治療",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7325512,
     "longitude": 135.4054621,
     "location_source": "geocoding",
@@ -18181,7 +18437,10 @@
     "philosophy": "患者さんひとりひとりの生活に寄り添った治療計画",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJgbvEX7PvAGARyfvolGlHuQQ": {
     "place_id": "ChIJgbvEX7PvAGARyfvolGlHuQQ",
@@ -18254,7 +18513,7 @@
     "catchphrase": "",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.728026,
     "longitude": 135.413292,
     "location_source": "geocoding",
@@ -18275,7 +18534,10 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJW88dX7XvAGARmfhFbDOVHag": {
     "place_id": "ChIJW88dX7XvAGARmfhFbDOVHag",
@@ -18369,7 +18631,7 @@
     "catchphrase": "安心のバリアフリー",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.73232,
     "longitude": 135.413103,
     "location_source": "geocoding",
@@ -18390,7 +18652,10 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJvavJD6XvAGARYTlXb7MJxoY": {
     "place_id": "ChIJvavJD6XvAGARYTlXb7MJxoY",
@@ -18514,7 +18779,7 @@
     "catchphrase": "あなたの歯のパートナー",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7313484,
     "longitude": 135.4325586,
     "location_source": "geocoding",
@@ -18564,7 +18829,10 @@
     "philosophy": "真に患者さんにとって役に立つために",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJmbxLRZjvAGARU9pno-uc07M": {
     "place_id": "ChIJmbxLRZjvAGARU9pno-uc07M",
@@ -18694,7 +18962,7 @@
     "catchphrase": "説明重視の歯科医院",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.730959,
     "longitude": 135.4327031,
     "location_source": "geocoding",
@@ -18742,7 +19010,10 @@
     "philosophy": "お口全体の健康管理",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJryV6mOPvAGARhch-13mUFg8": {
     "place_id": "ChIJryV6mOPvAGARhch-13mUFg8",
@@ -18763,16 +19034,16 @@
       "日曜日: 定休日"
     ],
     "genre": "一般歯科",
-    "total_score": 80,
-    "reputation_score": 20,
-    "doctor_score": 20,
-    "equipment_score": 15,
-    "transparency_score": 10,
-    "activity_score": 10,
+    "total_score": 5,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
     "google_bonus": 5,
-    "clinic_score": 25,
-    "current": 75,
-    "potential": 78,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
     "reputation_tags": [
       "清潔感",
       "丁寧な説明",
@@ -18859,7 +19130,7 @@
     "catchphrase": "患者に寄り添う歯科医院",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7282458,
     "longitude": 135.4306466,
     "location_source": "geocoding",
@@ -18907,7 +19178,10 @@
     "philosophy": "体の健康はお口の健康から",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJXSy9jgnvAGARJVL1-mDqCnU": {
     "place_id": "ChIJXSy9jgnvAGARJVL1-mDqCnU",
@@ -18928,16 +19202,16 @@
       "日曜日: 定休日"
     ],
     "genre": "一般歯科",
-    "total_score": 77,
-    "reputation_score": 20,
-    "doctor_score": 20,
-    "equipment_score": 15,
-    "transparency_score": 10,
-    "activity_score": 10,
+    "total_score": 2,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
     "google_bonus": 2,
-    "clinic_score": 25,
-    "current": 75,
-    "potential": 78,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
     "reputation_tags": [
       "親切なスタッフ",
       "痛みへの配慮",
@@ -19030,7 +19304,7 @@
     "catchphrase": "安心・優しい治療を提供",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7304825,
     "longitude": 135.430965,
     "location_source": "geocoding",
@@ -19070,7 +19344,10 @@
     "philosophy": "患者様ひとりひとりに寄り添った治療をします。",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJj6lCQIfvAGARYrGwW8RT7tc": {
     "place_id": "ChIJj6lCQIfvAGARYrGwW8RT7tc",
@@ -19091,16 +19368,16 @@
       "日曜日: 定休日"
     ],
     "genre": "一般歯科",
-    "total_score": 67,
-    "reputation_score": 10,
-    "doctor_score": 20,
-    "equipment_score": 15,
-    "transparency_score": 10,
-    "activity_score": 10,
+    "total_score": 2,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
     "google_bonus": 2,
-    "clinic_score": 25,
-    "current": 65,
-    "potential": 78,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
     "reputation_tags": [
       "治療のばらつき",
       "対応が丁寧",
@@ -19194,7 +19471,7 @@
     "catchphrase": "地域密着の丁寧な診療",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7305518,
     "longitude": 135.4319094,
     "location_source": "geocoding",
@@ -19246,7 +19523,10 @@
     "philosophy": "患者さまとのコミュニケーションを大事にする",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJjZ2wQ5nvAGARLwKTzw5wjEw": {
     "place_id": "ChIJjZ2wQ5nvAGARLwKTzw5wjEw",
@@ -19514,7 +19794,7 @@
     "catchphrase": "あなたのお口を守ります。",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7313492,
     "longitude": 135.4300399,
     "location_source": "geocoding",
@@ -19556,7 +19836,10 @@
     "philosophy": "患者様お一人おひとりを、自分の家族のように想うこと",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJo2CEvLXvAGAR8jClVScoNPY": {
     "place_id": "ChIJo2CEvLXvAGAR8jClVScoNPY",
@@ -19577,16 +19860,16 @@
       "日曜日: 定休日"
     ],
     "genre": "一般歯科",
-    "total_score": 68,
-    "reputation_score": 20,
-    "doctor_score": 10,
-    "equipment_score": 10,
-    "transparency_score": 10,
-    "activity_score": 10,
+    "total_score": 8,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
     "google_bonus": 8,
-    "clinic_score": 20,
-    "current": 60,
-    "potential": 44,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
     "reputation_tags": [
       "フレンドリーな受付",
       "定期通院推奨",
@@ -19671,7 +19954,7 @@
     "catchphrase": "通いやすいフレンドリーな歯科",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.73254229999999,
     "longitude": 135.4312349,
     "location_source": "geocoding",
@@ -19712,7 +19995,10 @@
     "philosophy": "関わる人すべてが幸せになれるように",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJHzltzJnvAGARXLHoE1H8hNs": {
     "place_id": "ChIJHzltzJnvAGARXLHoE1H8hNs",
@@ -19841,7 +20127,7 @@
     "catchphrase": "安心の歯科治療を提供",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.73258080000001,
     "longitude": 135.4332714,
     "location_source": "geocoding",
@@ -19870,7 +20156,10 @@
     "philosophy": "お口の健康の大切さを伝えること",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJpVsPVVTvAGARfLW5eylG-Rw": {
     "place_id": "ChIJpVsPVVTvAGARfLW5eylG-Rw",
@@ -19891,16 +20180,16 @@
       "日曜日: 9時00分～13時30分, 15時00分～20時00分"
     ],
     "genre": "一般歯科",
-    "total_score": 70,
-    "reputation_score": 15,
-    "doctor_score": 15,
-    "equipment_score": 15,
-    "transparency_score": 10,
-    "activity_score": 10,
+    "total_score": 5,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
     "google_bonus": 5,
-    "clinic_score": 25,
-    "current": 65,
-    "potential": 66,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
     "reputation_tags": [
       "治療の早さ",
       "丁寧な説明",
@@ -19987,7 +20276,7 @@
     "catchphrase": "安心して通える歯科医院",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7331148,
     "longitude": 135.431043,
     "location_source": "geocoding",
@@ -20024,7 +20313,10 @@
     "philosophy": "患者様一人一人に向き合い、最良の方法をご提案",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJFYaump3vAGARZpBylO6gyyU": {
     "place_id": "ChIJFYaump3vAGARZpBylO6gyyU",
@@ -20135,7 +20427,7 @@
     "catchphrase": "スタッフの対応に難あり",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.72653429999999,
     "longitude": 135.4374822,
     "location_source": "geocoding",
@@ -20171,7 +20463,10 @@
     "philosophy": "歯が悪くならないよう歯科医院に行く",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJhSrLB4HlAGAR-Ze-mBKSIpY": {
     "place_id": "ChIJhSrLB4HlAGAR-Ze-mBKSIpY",
@@ -22574,7 +22869,7 @@
     "catchphrase": "患者を大切にする歯科医院",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7357232,
     "longitude": 135.3869487,
     "location_source": "geocoding",
@@ -22616,7 +22911,10 @@
     "philosophy": "素敵な笑顔とおいしく食事ができることをめざして",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJO7ZtiuLxAGARUFeMuhPskG8": {
     "place_id": "ChIJO7ZtiuLxAGARUFeMuhPskG8",
@@ -22722,7 +23020,7 @@
     "catchphrase": "地域に寄り添う歯科医院",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7387476,
     "longitude": 135.3862609,
     "location_source": "geocoding",
@@ -22757,7 +23055,10 @@
     "philosophy": "いつまでもおいしく健康に",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJx5aDhBvuAGARfwQhljico44": {
     "place_id": "ChIJx5aDhBvuAGARfwQhljico44",
@@ -22830,7 +23131,7 @@
     "catchphrase": "",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.73309440000001,
     "longitude": 135.3866302,
     "location_source": "geocoding",
@@ -22851,7 +23152,10 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJpWsB1FvvAGARhZZbvlS3s3E": {
     "place_id": "ChIJpWsB1FvvAGARhZZbvlS3s3E",
@@ -22872,16 +23176,16 @@
       "日曜日: 定休日"
     ],
     "genre": "一般歯科",
-    "total_score": 85,
-    "reputation_score": 25,
-    "doctor_score": 20,
-    "equipment_score": 15,
-    "transparency_score": 10,
-    "activity_score": 10,
+    "total_score": 5,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
     "google_bonus": 5,
-    "clinic_score": 25,
-    "current": 80,
-    "potential": 78,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
     "reputation_tags": [
       "子ども対応",
       "優しさ",
@@ -22974,7 +23278,7 @@
     "catchphrase": "安心して通える歯科医院",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7343633,
     "longitude": 135.3932273,
     "location_source": "geocoding",
@@ -23011,7 +23315,10 @@
     "philosophy": "みんなが安心して通える歯科医院",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJ3QIqTCDuAGARZyKTr0VX57s": {
     "place_id": "ChIJ3QIqTCDuAGARZyKTr0VX57s",
@@ -23032,16 +23339,16 @@
       "日曜日: 定休日"
     ],
     "genre": "一般歯科",
-    "total_score": 74,
-    "reputation_score": 20,
-    "doctor_score": 20,
-    "equipment_score": 10,
-    "transparency_score": 12,
-    "activity_score": 10,
+    "total_score": 2,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
     "google_bonus": 2,
-    "clinic_score": 22,
-    "current": 72,
-    "potential": 68,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
     "reputation_tags": [
       "丁寧な説明",
       "優しい対応",
@@ -23124,7 +23431,7 @@
     "catchphrase": "安心して通える歯科医院",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7401022,
     "longitude": 135.3948061,
     "location_source": "geocoding",
@@ -23161,7 +23468,10 @@
     "philosophy": "家族みんなで通える歯科医院",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJbUFNe1_vAGARwPEQixq0yrg": {
     "place_id": "ChIJbUFNe1_vAGARwPEQixq0yrg",
@@ -23286,7 +23596,7 @@
     "catchphrase": "安心して通える歯科",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.73648349999999,
     "longitude": 135.3991516,
     "location_source": "geocoding",
@@ -23336,7 +23646,10 @@
     "philosophy": "一人ひとりのためになる医療を提供",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJpZ88GSTuAGARQtC6kib5Uzo": {
     "place_id": "ChIJpZ88GSTuAGARQtC6kib5Uzo",
@@ -23409,7 +23722,7 @@
     "catchphrase": "",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.73896599999999,
     "longitude": 135.399032,
     "location_source": "geocoding",
@@ -23430,7 +23743,10 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJzRt1WCTuAGARZV9ZFJpHWCE": {
     "place_id": "ChIJzRt1WCTuAGARZV9ZFJpHWCE",
@@ -23530,7 +23846,7 @@
     "catchphrase": "地域密着の歯科医院",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.737481,
     "longitude": 135.399704,
     "location_source": "geocoding",
@@ -23564,7 +23880,10 @@
     "philosophy": "地域のみなさまのかかりつけ医としての歯科医療を提供",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJFyp_7CbuAGARY9jFUYLdMrw": {
     "place_id": "ChIJFyp_7CbuAGARY9jFUYLdMrw",
@@ -23645,7 +23964,7 @@
     "catchphrase": "",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7406727,
     "longitude": 135.3994859,
     "location_source": "geocoding",
@@ -23666,7 +23985,10 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJwRN3giTuAGARuKrYjL7h2U8": {
     "place_id": "ChIJwRN3giTuAGARuKrYjL7h2U8",
@@ -23687,16 +24009,16 @@
       "日曜日: 定休日"
     ],
     "genre": "一般歯科",
-    "total_score": 45,
-    "reputation_score": 20,
-    "doctor_score": 20,
+    "total_score": 5,
+    "reputation_score": 0,
+    "doctor_score": 0,
     "equipment_score": 0,
     "transparency_score": 0,
     "activity_score": 0,
     "google_bonus": 5,
     "clinic_score": 0,
-    "current": 40,
-    "potential": 48,
+    "current": 0,
+    "potential": 0,
     "reputation_tags": [
       "信頼できる",
       "長年の患者",
@@ -23772,7 +24094,7 @@
     "catchphrase": "長年の信頼を受ける歯科医院",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.736218,
     "longitude": 135.3981552,
     "location_source": "geocoding",
@@ -23796,7 +24118,10 @@
     "q_excluded": false,
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJiyn22VvvAGARI5zFuISl3Ps": {
     "place_id": "ChIJiyn22VvvAGARI5zFuISl3Ps",
@@ -23817,16 +24142,16 @@
       "日曜日: 定休日"
     ],
     "genre": "一般歯科",
-    "total_score": 62,
-    "reputation_score": 15,
-    "doctor_score": 20,
-    "equipment_score": 10,
-    "transparency_score": 10,
-    "activity_score": 5,
+    "total_score": 2,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
     "google_bonus": 2,
-    "clinic_score": 20,
-    "current": 60,
-    "potential": 68,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
     "reputation_tags": [
       "親切な対応",
       "治療説明が丁寧",
@@ -23918,7 +24243,7 @@
     "catchphrase": "丁寧な治療で安心サポート",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.73747669999999,
     "longitude": 135.4001758,
     "location_source": "geocoding",
@@ -23965,7 +24290,10 @@
     "philosophy": "患者さまの気持ちに寄り添った丁寧な治療",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJUcQRqDzuAGAR3g7k0lv5xYQ": {
     "place_id": "ChIJUcQRqDzuAGAR3g7k0lv5xYQ",
@@ -23986,16 +24314,16 @@
       "日曜日: 定休日"
     ],
     "genre": "一般歯科",
-    "total_score": 80,
-    "reputation_score": 20,
-    "doctor_score": 20,
-    "equipment_score": 15,
-    "transparency_score": 10,
-    "activity_score": 10,
+    "total_score": 5,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
     "google_bonus": 5,
-    "clinic_score": 25,
-    "current": 75,
-    "potential": 78,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
     "reputation_tags": [
       "丁寧な治療",
       "痛みへの配慮",
@@ -24088,7 +24416,7 @@
     "catchphrase": "丁寧な治療、安心の対応",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.73385800000001,
     "longitude": 135.397996,
     "location_source": "geocoding",
@@ -24137,7 +24465,10 @@
     "philosophy": "一生涯のプラスになる歯科医療を提供",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJPewLnzbvAGARmezyx5cZ31M": {
     "place_id": "ChIJPewLnzbvAGARmezyx5cZ31M",
@@ -24158,16 +24489,16 @@
       "日曜日: 定休日"
     ],
     "genre": "一般歯科",
-    "total_score": 77,
-    "reputation_score": 20,
-    "doctor_score": 20,
-    "equipment_score": 15,
-    "transparency_score": 10,
-    "activity_score": 10,
+    "total_score": 2,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
     "google_bonus": 2,
-    "clinic_score": 25,
-    "current": 75,
-    "potential": 78,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
     "reputation_tags": [
       "親切なスタッフ",
       "小児歯科対応",
@@ -24254,7 +24585,7 @@
     "catchphrase": "あたたかい歯科医院",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.738624,
     "longitude": 135.3988075,
     "location_source": "geocoding",
@@ -24301,7 +24632,10 @@
     "philosophy": "地域の皆様に寄り添える場所でありたい",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJwU3otyXuAGARoec13mZBvXQ": {
     "place_id": "ChIJwU3otyXuAGARoec13mZBvXQ",
@@ -24410,7 +24744,7 @@
     "catchphrase": "通いやすさを重視",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7389788,
     "longitude": 135.4009569,
     "location_source": "geocoding",
@@ -24443,7 +24777,10 @@
     "philosophy": "患者さんと一緒に考えていく治療",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJYZftwiXuAGARZteoSEEKHn8": {
     "place_id": "ChIJYZftwiXuAGARZteoSEEKHn8",
@@ -24547,7 +24884,7 @@
     "catchphrase": "信頼の患者様のために",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7397725,
     "longitude": 135.4014902,
     "location_source": "geocoding",
@@ -24568,7 +24905,10 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJgTYHDTHuAGAREkd8Q8F9DPk": {
     "place_id": "ChIJgTYHDTHuAGAREkd8Q8F9DPk",
@@ -24589,16 +24929,16 @@
       "日曜日: 定休日"
     ],
     "genre": "一般歯科",
-    "total_score": 80,
-    "reputation_score": 20,
-    "doctor_score": 20,
-    "equipment_score": 15,
-    "transparency_score": 10,
-    "activity_score": 10,
+    "total_score": 5,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
     "google_bonus": 5,
-    "clinic_score": 25,
-    "current": 75,
-    "potential": 78,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
     "reputation_tags": [
       "優しい施術",
       "丁寧な対応",
@@ -24693,7 +25033,7 @@
     "catchphrase": "安心・丁寧な歯科治療",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7354206,
     "longitude": 135.406215,
     "location_source": "geocoding",
@@ -24731,7 +25071,10 @@
     "philosophy": "みんなを笑顔に",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJ9y3dLXrvAGARnt_qJzXOCaE": {
     "place_id": "ChIJ9y3dLXrvAGARnt_qJzXOCaE",
@@ -24752,16 +25095,16 @@
       "日曜日: 定休日"
     ],
     "genre": "一般歯科",
-    "total_score": 68,
-    "reputation_score": 20,
+    "total_score": 8,
+    "reputation_score": 0,
     "doctor_score": 0,
-    "equipment_score": 15,
-    "transparency_score": 10,
-    "activity_score": 15,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
     "google_bonus": 8,
-    "clinic_score": 25,
-    "current": 60,
-    "potential": 30,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
     "reputation_tags": [
       "子どもに優しい",
       "楽しい体験",
@@ -24843,7 +25186,7 @@
     "catchphrase": "楽しい歯医者体験",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.74063609999999,
     "longitude": 135.4091813,
     "location_source": "geocoding",
@@ -24884,7 +25227,10 @@
     "philosophy": "お子さまの明るい未来を創る歯科医院",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJJfPRccjvAGARi4xGebnT3wY": {
     "place_id": "ChIJJfPRccjvAGARi4xGebnT3wY",
@@ -24976,7 +25322,7 @@
     "catchphrase": "早くて痛くない治療",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.73762800000001,
     "longitude": 135.42101,
     "location_source": "geocoding",
@@ -24997,7 +25343,10 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJu9e9XMnvAGAR_TXDLiXUmno": {
     "place_id": "ChIJu9e9XMnvAGAR_TXDLiXUmno",
@@ -25107,7 +25456,7 @@
     "catchphrase": "全体を見て治療する歯科医院",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.737997,
     "longitude": 135.4173863,
     "location_source": "geocoding",
@@ -25136,7 +25485,10 @@
     "philosophy": "全体のバランスをみて、治療していく",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJMUe5hr3vAGARuz5jCbV2I1A": {
     "place_id": "ChIJMUe5hr3vAGARuz5jCbV2I1A",
@@ -25251,7 +25603,7 @@
     "catchphrase": "心地よい歯科医療を。",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.735333,
     "longitude": 135.427117,
     "location_source": "geocoding",
@@ -25297,7 +25649,10 @@
     "philosophy": "患者さん一人一人に寄り添い、ご家族のお口の健康を守る事をモットーにしています。",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJM6R_8r3vAGARmSN3pi_7ZeI": {
     "place_id": "ChIJM6R_8r3vAGARmSN3pi_7ZeI",
@@ -25409,7 +25764,7 @@
     "catchphrase": "親切丁寧な地域密着歯科",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.735118,
     "longitude": 135.430209,
     "location_source": "geocoding",
@@ -25446,7 +25801,10 @@
     "philosophy": "患者様の立場に立ち、やさしく・丁寧に・わかりやすく",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJ7WcHRJfvAGARlz6oDraEHS0": {
     "place_id": "ChIJ7WcHRJfvAGARlz6oDraEHS0",
@@ -25541,7 +25899,7 @@
     "catchphrase": "優しさが光る歯科医院",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.73441199999999,
     "longitude": 135.434804,
     "location_source": "geocoding",
@@ -25562,7 +25920,10 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJBXGRrpfvAGARL-LNSOcvkrk": {
     "place_id": "ChIJBXGRrpfvAGARL-LNSOcvkrk",
@@ -25669,7 +26030,7 @@
     "catchphrase": "夜遅くまで通える歯科医院",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7346287,
     "longitude": 135.4329371,
     "location_source": "geocoding",
@@ -25693,7 +26054,10 @@
     "q_excluded": false,
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJLR1svpfvAGAR9V_JJdPmpU0": {
     "place_id": "ChIJLR1svpfvAGAR9V_JJdPmpU0",
@@ -25766,7 +26130,7 @@
     "catchphrase": "",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7336063,
     "longitude": 135.4323379,
     "location_source": "geocoding",
@@ -25787,7 +26151,10 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJW7jBS0bxAGAR1OzlC9E-e8s": {
     "place_id": "ChIJW7jBS0bxAGAR1OzlC9E-e8s",
@@ -25808,15 +26175,15 @@
       "日曜日: 11時00分～21時00分"
     ],
     "genre": "一般歯科",
-    "total_score": 50,
-    "reputation_score": 22,
+    "total_score": 8,
+    "reputation_score": 0,
     "doctor_score": 0,
     "equipment_score": 0,
-    "transparency_score": 10,
-    "activity_score": 10,
+    "transparency_score": 0,
+    "activity_score": 0,
     "google_bonus": 8,
-    "clinic_score": 10,
-    "current": 42,
+    "clinic_score": 0,
+    "current": 0,
     "potential": 0,
     "reputation_tags": [
       "初めてのホワイトニング",
@@ -25895,7 +26262,7 @@
     "catchphrase": "安心して白い歯へ！",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7369356,
     "longitude": 135.4316945,
     "location_source": "geocoding",
@@ -25923,7 +26290,10 @@
     "philosophy": "白い歯であなたの印象を改善",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJrxZxLpbvAGARJ8ogfyBmjvo": {
     "place_id": "ChIJrxZxLpbvAGARJ8ogfyBmjvo",
@@ -25944,16 +26314,16 @@
       "日曜日: 定休日"
     ],
     "genre": "一般歯科",
-    "total_score": 80,
-    "reputation_score": 20,
-    "doctor_score": 20,
-    "equipment_score": 15,
-    "transparency_score": 10,
-    "activity_score": 10,
+    "total_score": 5,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
     "google_bonus": 5,
-    "clinic_score": 25,
-    "current": 75,
-    "potential": 78,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
     "reputation_tags": [
       "丁寧な説明",
       "インプラント治療",
@@ -26043,7 +26413,7 @@
     "catchphrase": "患者満足度日本一を目指す",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7345407,
     "longitude": 135.4315669,
     "location_source": "geocoding",
@@ -26080,7 +26450,10 @@
     "philosophy": "患者満足度日本一を目指す",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJ1XC4BJfvAGARdc5UnCTOzL0": {
     "place_id": "ChIJ1XC4BJfvAGARdc5UnCTOzL0",
@@ -26101,16 +26474,16 @@
       "日曜日: 定休日"
     ],
     "genre": "一般歯科",
-    "total_score": 74,
-    "reputation_score": 20,
-    "doctor_score": 15,
-    "equipment_score": 15,
-    "transparency_score": 10,
-    "activity_score": 12,
+    "total_score": 2,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
     "google_bonus": 2,
-    "clinic_score": 25,
-    "current": 72,
-    "potential": 66,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
     "reputation_tags": [
       "親切なスタッフ",
       "安心できる治療",
@@ -26194,7 +26567,7 @@
     "catchphrase": "安心して通える歯科医院",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7350386,
     "longitude": 135.4338754,
     "location_source": "geocoding",
@@ -26231,7 +26604,10 @@
     "philosophy": "当たり前の事を確実に行います。",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJ-ZMquJfvAGARG4qsUtc_XzI": {
     "place_id": "ChIJ-ZMquJfvAGARG4qsUtc_XzI",
@@ -26252,16 +26628,16 @@
       "日曜日: 定休日"
     ],
     "genre": "一般歯科",
-    "total_score": 82,
-    "reputation_score": 20,
-    "doctor_score": 20,
-    "equipment_score": 15,
-    "transparency_score": 12,
-    "activity_score": 10,
+    "total_score": 5,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
     "google_bonus": 5,
-    "clinic_score": 27,
-    "current": 77,
-    "potential": 78,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
     "reputation_tags": [
       "こどもの矯正",
       "専門医在籍",
@@ -26356,7 +26732,7 @@
     "catchphrase": "笑顔を支える矯正歯科",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7341129,
     "longitude": 135.4354067,
     "location_source": "geocoding",
@@ -26397,7 +26773,10 @@
     "philosophy": "患者さまと二人三脚で目指す、豊かな笑顔の未来",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJo3ozZgDvAGARdR4vkiTpNik": {
     "place_id": "ChIJo3ozZgDvAGARdR4vkiTpNik",
@@ -26496,7 +26875,7 @@
     "catchphrase": "安心して通える歯科",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7382269,
     "longitude": 135.4367137,
     "location_source": "geocoding",
@@ -26517,7 +26896,10 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJ6yBCKIXvAGAReE2DTrqXaaw": {
     "place_id": "ChIJ6yBCKIXvAGAReE2DTrqXaaw",
@@ -26614,7 +26996,7 @@
     "catchphrase": "痛みを最小限に抑える治療",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.73427609999999,
     "longitude": 135.4408928,
     "location_source": "geocoding",
@@ -26635,7 +27017,10 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJuQS-gI_vAGARrL7EwepSSDQ": {
     "place_id": "ChIJuQS-gI_vAGARrL7EwepSSDQ",
@@ -26708,7 +27093,7 @@
     "catchphrase": "",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.737209,
     "longitude": 135.442522,
     "location_source": "geocoding",
@@ -26729,7 +27114,10 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJHcONPoXvAGARE92R1PJBKnk": {
     "place_id": "ChIJHcONPoXvAGARE92R1PJBKnk",
@@ -26853,7 +27241,7 @@
     "catchphrase": "安心して通える歯科医院",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7353526,
     "longitude": 135.4413897,
     "location_source": "geocoding",
@@ -26896,7 +27284,10 @@
     "philosophy": "10年後の健康な口が、健康な身体をつくる",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJ7W6qj5PvAGARa-bUrkmE_7g": {
     "place_id": "ChIJ7W6qj5PvAGARa-bUrkmE_7g",
@@ -26969,7 +27360,7 @@
     "catchphrase": "",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.740223,
     "longitude": 135.436156,
     "location_source": "geocoding",
@@ -26990,7 +27381,10 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJ98OFxKDlAGARlAt8CxSB0_o": {
     "place_id": "ChIJ98OFxKDlAGARlAt8CxSB0_o",
@@ -27109,7 +27503,7 @@
     "catchphrase": "あなたの歯のパートナー",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.737198,
     "longitude": 135.456508,
     "location_source": "geocoding",
@@ -27133,7 +27527,10 @@
     "q_excluded": false,
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJa-18gp_lAGAReGQOETd_kNQ": {
     "place_id": "ChIJa-18gp_lAGAReGQOETd_kNQ",
@@ -27879,7 +28276,7 @@
     "catchphrase": "安心の治療、丁寧な対応",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7448246,
     "longitude": 135.3932423,
     "location_source": "geocoding",
@@ -27926,7 +28323,10 @@
     "philosophy": "より良い治療法を患者に十分に説明",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJRdSjUCbuAGARECi8w_O8ZmM": {
     "place_id": "ChIJRdSjUCbuAGARECi8w_O8ZmM",
@@ -28022,7 +28422,7 @@
     "catchphrase": "信頼の小児歯科",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7417623,
     "longitude": 135.4007675,
     "location_source": "geocoding",
@@ -28043,7 +28443,10 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJodJ1c9jxAGAREMK7sudWW_o": {
     "place_id": "ChIJodJ1c9jxAGAREMK7sudWW_o",
@@ -28150,7 +28553,7 @@
     "catchphrase": "患者の想いを尊重",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.745177,
     "longitude": 135.401434,
     "location_source": "geocoding",
@@ -28179,7 +28582,10 @@
     "philosophy": "患者さんの想いを尊重し、理想的なお口の健康を創り、守り続けていくこと",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJkVat3ijuAGARkQExdH5tXFA": {
     "place_id": "ChIJkVat3ijuAGARkQExdH5tXFA",
@@ -28267,7 +28673,7 @@
     "catchphrase": "信頼できる歯科医",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7428103,
     "longitude": 135.4048269,
     "location_source": "geocoding",
@@ -28288,7 +28694,10 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJfYb_x9jxAGARjCR588D9MM4": {
     "place_id": "ChIJfYb_x9jxAGARjCR588D9MM4",
@@ -28309,16 +28718,16 @@
       "日曜日: 定休日"
     ],
     "genre": "一般歯科",
-    "total_score": 83,
-    "reputation_score": 20,
-    "doctor_score": 20,
-    "equipment_score": 15,
-    "transparency_score": 10,
-    "activity_score": 10,
+    "total_score": 8,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
     "google_bonus": 8,
-    "clinic_score": 25,
-    "current": 75,
-    "potential": 78,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
     "reputation_tags": [
       "専門性が高い",
       "患者に寄り添う",
@@ -28411,7 +28820,7 @@
     "catchphrase": "歯で困らない人生を",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7446772,
     "longitude": 135.398749,
     "location_source": "geocoding",
@@ -28450,7 +28859,10 @@
     "philosophy": "患者様に合わせた最善の歯科治療を提案",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJW5rG2yzuAGARum50ZVs0X2U": {
     "place_id": "ChIJW5rG2yzuAGARum50ZVs0X2U",
@@ -28523,7 +28935,7 @@
     "catchphrase": "",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7429738,
     "longitude": 135.4115209,
     "location_source": "geocoding",
@@ -28544,7 +28956,10 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJle3orNTvAGARWYKIwY2YYPM": {
     "place_id": "ChIJle3orNTvAGARWYKIwY2YYPM",
@@ -28617,7 +29032,7 @@
     "catchphrase": "",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7457483,
     "longitude": 135.4122479,
     "location_source": "geocoding",
@@ -28638,7 +29053,10 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJT-MJUNTvAGARVGQLFA1TZj8": {
     "place_id": "ChIJT-MJUNTvAGARVGQLFA1TZj8",
@@ -28659,16 +29077,16 @@
       "日曜日: 定休日"
     ],
     "genre": "一般歯科",
-    "total_score": 83,
-    "reputation_score": 20,
-    "doctor_score": 20,
-    "equipment_score": 15,
-    "transparency_score": 10,
-    "activity_score": 10,
+    "total_score": 8,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
     "google_bonus": 8,
-    "clinic_score": 25,
-    "current": 75,
-    "potential": 78,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
     "reputation_tags": [
       "清潔な院内",
       "安心できる治療",
@@ -28753,7 +29171,7 @@
     "catchphrase": "歯を大切にするクリニック",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7483568,
     "longitude": 135.4150511,
     "location_source": "geocoding",
@@ -28789,7 +29207,10 @@
     "philosophy": "歯をできるだけ残す",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJoe7gItTvAGARre9OrmFglzA": {
     "place_id": "ChIJoe7gItTvAGARre9OrmFglzA",
@@ -28810,16 +29231,16 @@
       "日曜日: 定休日"
     ],
     "genre": "一般歯科",
-    "total_score": 70,
-    "reputation_score": 20,
-    "doctor_score": 20,
-    "equipment_score": 10,
-    "transparency_score": 10,
-    "activity_score": 5,
+    "total_score": 5,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
     "google_bonus": 5,
-    "clinic_score": 20,
-    "current": 65,
-    "potential": 68,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
     "reputation_tags": [
       "信頼できる",
       "アットホーム",
@@ -28905,7 +29326,7 @@
     "catchphrase": "信頼のある家族の歯科医",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.748619,
     "longitude": 135.4163282,
     "location_source": "geocoding",
@@ -28941,7 +29362,10 @@
     "philosophy": "患者様をど真ん中に置いた治療",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJQTtPw9DvAGARMqZsmhyAico": {
     "place_id": "ChIJQTtPw9DvAGARMqZsmhyAico",
@@ -28962,16 +29386,16 @@
       "日曜日: 定休日"
     ],
     "genre": "一般歯科",
-    "total_score": 67,
-    "reputation_score": 20,
-    "doctor_score": 20,
-    "equipment_score": 15,
-    "transparency_score": 10,
+    "total_score": 2,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
     "activity_score": 0,
     "google_bonus": 2,
-    "clinic_score": 25,
-    "current": 65,
-    "potential": 78,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
     "reputation_tags": [
       "丁寧な治療",
       "痛みへの配慮",
@@ -29061,7 +29485,7 @@
     "catchphrase": "痛みの少ない治療を提供",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.74806940000001,
     "longitude": 135.4197528,
     "location_source": "geocoding",
@@ -29099,7 +29523,10 @@
     "philosophy": "痛くない・丁寧で質の高い治療",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJRw4VsMLvAGAR1LpojlQHotQ": {
     "place_id": "ChIJRw4VsMLvAGAR1LpojlQHotQ",
@@ -29211,7 +29638,7 @@
     "catchphrase": "怖くない歯医者さん",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.748809,
     "longitude": 135.4303344,
     "location_source": "geocoding",
@@ -29243,7 +29670,10 @@
     "philosophy": "症状が出る前に予防に行く歯科医院",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJ1cjChSLvAGARKTfLAdXc6nI": {
     "place_id": "ChIJ1cjChSLvAGARKTfLAdXc6nI",
@@ -29264,16 +29694,16 @@
       "日曜日: 定休日"
     ],
     "genre": "一般歯科",
-    "total_score": 80,
-    "reputation_score": 20,
-    "doctor_score": 20,
-    "equipment_score": 15,
-    "transparency_score": 10,
-    "activity_score": 10,
+    "total_score": 5,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
     "google_bonus": 5,
-    "clinic_score": 25,
-    "current": 75,
-    "potential": 78,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
     "reputation_tags": [
       "親切な対応",
       "清潔感",
@@ -29369,7 +29799,7 @@
     "catchphrase": "痛みを抑えた治療",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.741844,
     "longitude": 135.442451,
     "location_source": "geocoding",
@@ -29413,7 +29843,10 @@
     "philosophy": "患者様一人ひとりのお口を生涯にわたって健康管理",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJAaxke4zlAGARn5eMTaPsBJ0": {
     "place_id": "ChIJAaxke4zlAGARn5eMTaPsBJ0",
@@ -29434,16 +29867,16 @@
       "日曜日: 9時00分～13時00分"
     ],
     "genre": "一般歯科",
-    "total_score": 80,
-    "reputation_score": 20,
-    "doctor_score": 20,
-    "equipment_score": 15,
-    "transparency_score": 10,
-    "activity_score": 10,
+    "total_score": 5,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
     "google_bonus": 5,
-    "clinic_score": 25,
-    "current": 75,
-    "potential": 78,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
     "reputation_tags": [
       "アットホーム",
       "家族向け",
@@ -29536,7 +29969,7 @@
     "catchphrase": "家族みんなで通える歯医者",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.74334249999999,
     "longitude": 135.4507813,
     "location_source": "geocoding",
@@ -29567,7 +30000,10 @@
     "philosophy": "お口の健康をサポートし笑顔の輪を広げます。",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJKeBmnfTvAGARwshnVfkbqgE": {
     "place_id": "ChIJKeBmnfTvAGARwshnVfkbqgE",
@@ -29665,7 +30101,7 @@
     "catchphrase": "麻酔に不安のある方はご注意を",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.74883519999999,
     "longitude": 135.4451213,
     "location_source": "geocoding",
@@ -29692,7 +30128,10 @@
     ],
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJz-3K7nLlAGAR-9DdIU6SxHA": {
     "place_id": "ChIJz-3K7nLlAGAR-9DdIU6SxHA",
@@ -30086,7 +30525,7 @@
     "catchphrase": "家族みんなで通える歯科医院",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7486066,
     "longitude": 135.3795354,
     "location_source": "geocoding",
@@ -30131,7 +30570,10 @@
     "philosophy": "患者さまのニーズにお応えする治療を行うこと",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJoaOWaezxAGARYG35CIuYje0": {
     "place_id": "ChIJoaOWaezxAGARYG35CIuYje0",
@@ -30152,16 +30594,16 @@
       "日曜日: 定休日"
     ],
     "genre": "一般歯科",
-    "total_score": 80,
-    "reputation_score": 20,
-    "doctor_score": 20,
-    "equipment_score": 15,
-    "transparency_score": 10,
-    "activity_score": 10,
+    "total_score": 5,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
     "google_bonus": 5,
-    "clinic_score": 25,
-    "current": 75,
-    "potential": 78,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
     "reputation_tags": [
       "優しい対応",
       "豊富な経験",
@@ -30255,7 +30697,7 @@
     "catchphrase": "心と体にやさしい治療",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.75513219999999,
     "longitude": 135.3890752,
     "location_source": "geocoding",
@@ -30288,7 +30730,10 @@
     "philosophy": "家族を診る気持ちで。心と体にやさしい歯科治療。",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJma0CyOnxAGAR9qvSXh2bGOE": {
     "place_id": "ChIJma0CyOnxAGAR9qvSXh2bGOE",
@@ -30403,7 +30848,7 @@
     "catchphrase": "安心して通える歯医者",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.752184,
     "longitude": 135.3922123,
     "location_source": "geocoding",
@@ -30445,7 +30890,10 @@
     "philosophy": "個人の咬み合わせに合った口腔の再現を重視",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJ187CNOjxAGARMcTOOudTnFc": {
     "place_id": "ChIJ187CNOjxAGARMcTOOudTnFc",
@@ -30518,7 +30966,7 @@
     "catchphrase": "",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7516795,
     "longitude": 135.3923938,
     "location_source": "geocoding",
@@ -30539,7 +30987,10 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJuTSg3-nxAGARAfgiMvDWLMQ": {
     "place_id": "ChIJuTSg3-nxAGARAfgiMvDWLMQ",
@@ -30560,16 +31011,16 @@
       "日曜日: 定休日"
     ],
     "genre": "一般歯科",
-    "total_score": 87,
-    "reputation_score": 25,
-    "doctor_score": 20,
-    "equipment_score": 15,
-    "transparency_score": 15,
-    "activity_score": 10,
+    "total_score": 2,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
     "google_bonus": 2,
-    "clinic_score": 30,
-    "current": 85,
-    "potential": 78,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
     "reputation_tags": [
       "信頼性",
       "説明が丁寧",
@@ -30652,7 +31103,7 @@
     "catchphrase": "安心の説明で信頼の治療。",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.75314700000001,
     "longitude": 135.393265,
     "location_source": "geocoding",
@@ -30686,7 +31137,10 @@
     "philosophy": "患者様目線に立った治療",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJWR6oDOnxAGARnDgc7jX09p8": {
     "place_id": "ChIJWR6oDOnxAGARnDgc7jX09p8",
@@ -30790,7 +31244,7 @@
     "catchphrase": "穏やかな凄腕歯科医",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7520658,
     "longitude": 135.390761,
     "location_source": "geocoding",
@@ -30811,7 +31265,10 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJ6V1sxunxAGAR6OeO6FOXIZU": {
     "place_id": "ChIJ6V1sxunxAGAR6OeO6FOXIZU",
@@ -30938,7 +31395,7 @@
     "catchphrase": "痛みをなくす、健康を保つ。",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.752292,
     "longitude": 135.3924411,
     "location_source": "geocoding",
@@ -30981,7 +31438,10 @@
     "philosophy": "しっかりと快適に噛めるようにお口の状態を回復させる",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJ187CNOjxAGARnWCionS0coI": {
     "place_id": "ChIJ187CNOjxAGARnWCionS0coI",
@@ -31097,7 +31557,7 @@
     "catchphrase": "生涯の健康を見守る歯科医院",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7516194,
     "longitude": 135.3923926,
     "location_source": "geocoding",
@@ -31143,7 +31603,10 @@
     "philosophy": "患者様に合わせた高品質かつ最適な治療",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJKXgZpBHxAGARQPa9iUzgfh0": {
     "place_id": "ChIJKXgZpBHxAGARQPa9iUzgfh0",
@@ -31398,7 +31861,7 @@
     "catchphrase": "安心して通える歯科医院",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.75090319999999,
     "longitude": 135.3920667,
     "location_source": "geocoding",
@@ -31439,7 +31902,10 @@
     "philosophy": "丁寧な治療をすること",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJfzH6TYzxAGARbntZLz0CQ58": {
     "place_id": "ChIJfzH6TYzxAGARbntZLz0CQ58",
@@ -31460,16 +31926,16 @@
       "日曜日: 定休日"
     ],
     "genre": "一般歯科",
-    "total_score": 78,
-    "reputation_score": 20,
-    "doctor_score": 15,
-    "equipment_score": 15,
-    "transparency_score": 10,
-    "activity_score": 10,
+    "total_score": 8,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
     "google_bonus": 8,
-    "clinic_score": 25,
-    "current": 70,
-    "potential": 66,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
     "reputation_tags": [
       "家族向け",
       "安心感",
@@ -31556,7 +32022,7 @@
     "catchphrase": "ママと子どものための歯科医院",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7511036,
     "longitude": 135.3926006,
     "location_source": "geocoding",
@@ -31594,7 +32060,10 @@
     "philosophy": "家族で安心して通える歯科医院",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJQzEOPujxAGARxxo5cZ-l_k4": {
     "place_id": "ChIJQzEOPujxAGARxxo5cZ-l_k4",
@@ -31713,7 +32182,7 @@
     "catchphrase": "患者に寄り添う歯科医院",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7507038,
     "longitude": 135.3924237,
     "location_source": "geocoding",
@@ -31752,7 +32221,10 @@
     "philosophy": "妥協せずに適切な歯科治療を提供する",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJe58nHOjxAGAR-MPFgJD7m-s": {
     "place_id": "ChIJe58nHOjxAGAR-MPFgJD7m-s",
@@ -31773,16 +32245,16 @@
       "日曜日: 定休日"
     ],
     "genre": "一般歯科",
-    "total_score": 80,
-    "reputation_score": 20,
-    "doctor_score": 20,
-    "equipment_score": 15,
-    "transparency_score": 10,
-    "activity_score": 10,
+    "total_score": 5,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
     "google_bonus": 5,
-    "clinic_score": 25,
-    "current": 75,
-    "potential": 78,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
     "reputation_tags": [
       "信頼できる",
       "経験豊富",
@@ -31876,7 +32348,7 @@
     "catchphrase": "個別対応の矯正専門医院",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.750712,
     "longitude": 135.393121,
     "location_source": "geocoding",
@@ -31916,7 +32388,10 @@
     "philosophy": "患者様とのコミュニケーション",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJWTbAEejxAGARzuXyYliFSoA": {
     "place_id": "ChIJWTbAEejxAGARzuXyYliFSoA",
@@ -31937,16 +32412,16 @@
       "日曜日: 定休日"
     ],
     "genre": "一般歯科",
-    "total_score": 77,
-    "reputation_score": 20,
-    "doctor_score": 20,
-    "equipment_score": 15,
-    "transparency_score": 10,
-    "activity_score": 10,
+    "total_score": 2,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
     "google_bonus": 2,
-    "clinic_score": 25,
-    "current": 75,
-    "potential": 78,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
     "reputation_tags": [
       "親切な対応",
       "安心感",
@@ -32040,7 +32515,7 @@
     "catchphrase": "笑顔があふれる毎日を！",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7502081,
     "longitude": 135.3925685,
     "location_source": "geocoding",
@@ -32086,7 +32561,10 @@
     "philosophy": "患者様の幸せに貢献",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJb2xNscLxAGARzncMB_Dg5Q4": {
     "place_id": "ChIJb2xNscLxAGARzncMB_Dg5Q4",
@@ -32107,16 +32585,16 @@
       "日曜日: 定休日"
     ],
     "genre": "一般歯科",
-    "total_score": 77,
-    "reputation_score": 20,
-    "doctor_score": 18,
-    "equipment_score": 15,
-    "transparency_score": 12,
-    "activity_score": 10,
+    "total_score": 2,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
     "google_bonus": 2,
-    "clinic_score": 27,
-    "current": 75,
-    "potential": 73,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
     "reputation_tags": [
       "優しい医師",
       "丁寧な対応",
@@ -32202,7 +32680,7 @@
     "catchphrase": "地域に寄り添う歯医者さん",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.750682,
     "longitude": 135.3942234,
     "location_source": "geocoding",
@@ -32240,7 +32718,10 @@
     "philosophy": "患者さまの笑顔のために",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJx9EMjUzxAGARQKDuydQ3Nro": {
     "place_id": "ChIJx9EMjUzxAGARQKDuydQ3Nro",
@@ -32364,7 +32845,7 @@
     "catchphrase": "安心と信頼の歯科医院",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7498879,
     "longitude": 135.3935269,
     "location_source": "geocoding",
@@ -32417,7 +32898,10 @@
     "philosophy": "天然歯の生涯維持",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJU7FCxu3xAGARI3ohttpM74o": {
     "place_id": "ChIJU7FCxu3xAGARI3ohttpM74o",
@@ -32438,16 +32922,16 @@
       "日曜日: 定休日"
     ],
     "genre": "一般歯科",
-    "total_score": 80,
-    "reputation_score": 20,
-    "doctor_score": 15,
-    "equipment_score": 18,
-    "transparency_score": 10,
-    "activity_score": 12,
+    "total_score": 5,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
     "google_bonus": 5,
-    "clinic_score": 28,
-    "current": 75,
-    "potential": 72,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
     "reputation_tags": [
       "清潔感がある",
       "丁寧な対応",
@@ -32534,7 +33018,7 @@
     "catchphrase": "清潔・丁寧な治療",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.75562679999999,
     "longitude": 135.3909667,
     "location_source": "geocoding",
@@ -32580,7 +33064,10 @@
     "philosophy": "患者さんの安心を第一に考えます",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJab7NeADxAGARDy7yPDhKYgg": {
     "place_id": "ChIJab7NeADxAGARDy7yPDhKYgg",
@@ -32653,7 +33140,7 @@
     "catchphrase": "",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7557146,
     "longitude": 135.3926504,
     "location_source": "geocoding",
@@ -32674,7 +33161,10 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJQa3bJt3xAGARqQmR6JPb1BM": {
     "place_id": "ChIJQa3bJt3xAGARqQmR6JPb1BM",
@@ -32695,15 +33185,15 @@
       "日曜日: 10時00分～14時00分, 15時00分～18時00分"
     ],
     "genre": "一般歯科",
-    "total_score": 25,
-    "reputation_score": 23,
+    "total_score": 2,
+    "reputation_score": 0,
     "doctor_score": 0,
     "equipment_score": 0,
     "transparency_score": 0,
     "activity_score": 0,
     "google_bonus": 2,
     "clinic_score": 0,
-    "current": 23,
+    "current": 0,
     "potential": 0,
     "reputation_tags": [
       "親切なスタッフ",
@@ -32776,7 +33266,7 @@
     "catchphrase": "安心・丁寧なデンタルケア",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7501589,
     "longitude": 135.3955546,
     "location_source": "geocoding",
@@ -32797,7 +33287,10 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJU5Yg9erxAGARkk2JfqY43DQ": {
     "place_id": "ChIJU5Yg9erxAGARkk2JfqY43DQ",
@@ -33014,7 +33507,7 @@
     "catchphrase": "家族みんなで通える歯医者",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7560867,
     "longitude": 135.3936078,
     "location_source": "geocoding",
@@ -33052,7 +33545,10 @@
     "philosophy": "美しい口元を手に入れることを目指す",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJjV6jucTxAGARYbUSzatpOsg": {
     "place_id": "ChIJjV6jucTxAGARYbUSzatpOsg",
@@ -33073,16 +33569,16 @@
       "日曜日: 定休日"
     ],
     "genre": "一般歯科",
-    "total_score": 52,
-    "reputation_score": 20,
-    "doctor_score": 20,
+    "total_score": 2,
+    "reputation_score": 0,
+    "doctor_score": 0,
     "equipment_score": 0,
-    "transparency_score": 10,
+    "transparency_score": 0,
     "activity_score": 0,
     "google_bonus": 2,
-    "clinic_score": 10,
-    "current": 50,
-    "potential": 48,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
     "reputation_tags": [
       "通いやすい",
       "優しい施術",
@@ -33162,7 +33658,7 @@
     "catchphrase": "あなたの身近な歯医者",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7532142,
     "longitude": 135.3990108,
     "location_source": "geocoding",
@@ -33191,7 +33687,10 @@
     "philosophy": "患者さまに負担が少ないスムーズな治療",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJgysfccTxAGARVZ8oTtN5lVw": {
     "place_id": "ChIJgysfccTxAGARVZ8oTtN5lVw",
@@ -33312,7 +33811,7 @@
     "catchphrase": "地域密着の歯科医療",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7552323,
     "longitude": 135.3984374,
     "location_source": "geocoding",
@@ -33359,7 +33858,10 @@
     "philosophy": "できるだけ歯を残す治療を行っています",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJzS9mQtDxAGARrox0Da1YPf0": {
     "place_id": "ChIJzS9mQtDxAGARrox0Da1YPf0",
@@ -33463,7 +33965,7 @@
     "catchphrase": "優しさが伝わる歯科医院",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7535026,
     "longitude": 135.4040477,
     "location_source": "geocoding",
@@ -33492,7 +33994,10 @@
     "philosophy": "抜かない・削らない・痛くない治療を目指します",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJ7cVo8dbxAGARixvLxWFRPUk": {
     "place_id": "ChIJ7cVo8dbxAGARixvLxWFRPUk",
@@ -33604,7 +34109,7 @@
     "catchphrase": "削らない、抜かない治療",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7495061,
     "longitude": 135.4059419,
     "location_source": "geocoding",
@@ -33652,7 +34157,10 @@
     "philosophy": "できるだけ歯を削らず、抜かない治療を目指す",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJNRvgf6HxAGARQo91VsHljfg": {
     "place_id": "ChIJNRvgf6HxAGARQo91VsHljfg",
@@ -33673,16 +34181,16 @@
       "日曜日: 定休日"
     ],
     "genre": "一般歯科",
-    "total_score": 81,
-    "reputation_score": 22,
-    "doctor_score": 20,
-    "equipment_score": 15,
-    "transparency_score": 12,
-    "activity_score": 10,
+    "total_score": 2,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
     "google_bonus": 2,
-    "clinic_score": 27,
-    "current": 79,
-    "potential": 78,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
     "reputation_tags": [
       "丁寧な対応",
       "地域密着",
@@ -33768,7 +34276,7 @@
     "catchphrase": "笑顔で迎える歯科医院",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7549706,
     "longitude": 135.4112744,
     "location_source": "geocoding",
@@ -33812,7 +34320,10 @@
     "philosophy": "患者様がきちんとご納得いただけた上で治療を進めること",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJy9PCsCruAGARbYu6LRYEHNc": {
     "place_id": "ChIJy9PCsCruAGARbYu6LRYEHNc",
@@ -33833,16 +34344,16 @@
       "日曜日: 定休日"
     ],
     "genre": "一般歯科",
-    "total_score": 82,
-    "reputation_score": 20,
-    "doctor_score": 20,
-    "equipment_score": 15,
-    "transparency_score": 10,
-    "activity_score": 12,
+    "total_score": 5,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
     "google_bonus": 5,
-    "clinic_score": 25,
-    "current": 77,
-    "potential": 78,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
     "reputation_tags": [
       "信頼性",
       "丁寧な診療",
@@ -33937,7 +34448,7 @@
     "catchphrase": "患者の健口寿命を延ばす",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7488589,
     "longitude": 135.4117225,
     "location_source": "geocoding",
@@ -33976,7 +34487,10 @@
     "philosophy": "歯科医院は健康になるために行くところ",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJeRIxbivwAGARrO1m7bbtfZk": {
     "place_id": "ChIJeRIxbivwAGARrO1m7bbtfZk",
@@ -34100,7 +34614,7 @@
     "catchphrase": "笑顔をつくる歯科医院",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7533449,
     "longitude": 135.4129771,
     "location_source": "geocoding",
@@ -34137,7 +34651,10 @@
     "philosophy": "美しい口元で素敵な笑顔を目指す",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJ603xGtbvAGARW0L6dZABbvA": {
     "place_id": "ChIJ603xGtbvAGARW0L6dZABbvA",
@@ -34158,15 +34675,15 @@
       "日曜日: 定休日"
     ],
     "genre": "一般歯科",
-    "total_score": 17,
-    "reputation_score": 15,
+    "total_score": 2,
+    "reputation_score": 0,
     "doctor_score": 0,
     "equipment_score": 0,
     "transparency_score": 0,
     "activity_score": 0,
     "google_bonus": 2,
     "clinic_score": 0,
-    "current": 15,
+    "current": 0,
     "potential": 0,
     "reputation_tags": [
       "地域密着型",
@@ -34234,7 +34751,7 @@
     "catchphrase": "安心して通える歯医者",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.75182189999999,
     "longitude": 135.4175625,
     "location_source": "geocoding",
@@ -34255,7 +34772,10 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJARXZXirwAGAR8WUPXEgT5pA": {
     "place_id": "ChIJARXZXirwAGAR8WUPXEgT5pA",
@@ -34348,7 +34868,7 @@
     "catchphrase": "予約なしで診療可！",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7522687,
     "longitude": 135.4146862,
     "location_source": "geocoding",
@@ -34369,7 +34889,10 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJUTliXivwAGARLulOBKXndrc": {
     "place_id": "ChIJUTliXivwAGARLulOBKXndrc",
@@ -34442,7 +34965,7 @@
     "catchphrase": "",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7544898,
     "longitude": 135.4132064,
     "location_source": "geocoding",
@@ -34463,7 +34986,10 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJqd-gmBTvAGARBDlOSbBZayk": {
     "place_id": "ChIJqd-gmBTvAGARBDlOSbBZayk",
@@ -34484,16 +35010,16 @@
       "日曜日: 定休日"
     ],
     "genre": "一般歯科",
-    "total_score": 37,
-    "reputation_score": 15,
-    "doctor_score": 20,
+    "total_score": 2,
+    "reputation_score": 0,
+    "doctor_score": 0,
     "equipment_score": 0,
     "transparency_score": 0,
     "activity_score": 0,
     "google_bonus": 2,
     "clinic_score": 0,
-    "current": 35,
-    "potential": 48,
+    "current": 0,
+    "potential": 0,
     "reputation_tags": [
       "丁寧な説明",
       "治療技術",
@@ -34568,7 +35094,7 @@
     "catchphrase": "丁寧が信条の歯科医院",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.751299,
     "longitude": 135.421212,
     "location_source": "geocoding",
@@ -34597,7 +35123,10 @@
     ],
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJq6BQaSrwAGAREvSXt1vWFvI": {
     "place_id": "ChIJq6BQaSrwAGAREvSXt1vWFvI",
@@ -34618,16 +35147,16 @@
       "日曜日: 10時00分～20時00分"
     ],
     "genre": "一般歯科",
-    "total_score": 81,
-    "reputation_score": 22,
-    "doctor_score": 20,
-    "equipment_score": 15,
-    "transparency_score": 12,
-    "activity_score": 10,
+    "total_score": 2,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
     "google_bonus": 2,
-    "clinic_score": 27,
-    "current": 79,
-    "potential": 78,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
     "reputation_tags": [
       "優しいスタッフ",
       "インプラント",
@@ -34718,7 +35247,7 @@
     "catchphrase": "優しさと信頼の歯科医院",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7513558,
     "longitude": 135.415556,
     "location_source": "geocoding",
@@ -34742,7 +35271,10 @@
     "q_excluded": false,
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJy42t9SrwAGARlxhmdl3F3NQ": {
     "place_id": "ChIJy42t9SrwAGARlxhmdl3F3NQ",
@@ -34763,16 +35295,16 @@
       "日曜日: 定休日"
     ],
     "genre": "一般歯科",
-    "total_score": 77,
-    "reputation_score": 20,
-    "doctor_score": 20,
-    "equipment_score": 15,
-    "transparency_score": 10,
-    "activity_score": 10,
+    "total_score": 2,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
     "google_bonus": 2,
-    "clinic_score": 25,
-    "current": 75,
-    "potential": 78,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
     "reputation_tags": [
       "患者本位",
       "地域密着",
@@ -34864,7 +35396,7 @@
     "catchphrase": "地域に根ざした歯科医院",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.752102,
     "longitude": 135.414374,
     "location_source": "geocoding",
@@ -34894,7 +35426,10 @@
     "philosophy": "すべての患者様により良い治療を!!",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJndH6yVTxAGARo4VGNxRLFgU": {
     "place_id": "ChIJndH6yVTxAGARo4VGNxRLFgU",
@@ -34915,16 +35450,16 @@
       "日曜日: 定休日"
     ],
     "genre": "一般歯科",
-    "total_score": 57,
-    "reputation_score": 15,
-    "doctor_score": 15,
-    "equipment_score": 10,
-    "transparency_score": 5,
-    "activity_score": 10,
+    "total_score": 2,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
     "google_bonus": 2,
-    "clinic_score": 15,
-    "current": 55,
-    "potential": 56,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
     "reputation_tags": [
       "丁寧な対応",
       "予約が取りづらい",
@@ -35016,7 +35551,7 @@
     "catchphrase": "丁寧な治療を提供",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.751824,
     "longitude": 135.4154466,
     "location_source": "geocoding",
@@ -35040,7 +35575,10 @@
     "q_excluded": false,
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJ6fR8NGDxAGARkFU0BTB136g": {
     "place_id": "ChIJ6fR8NGDxAGARkFU0BTB136g",
@@ -35162,7 +35700,7 @@
     "catchphrase": "安心・専門的な歯科治療",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.753424,
     "longitude": 135.4152293,
     "location_source": "geocoding",
@@ -35202,7 +35740,10 @@
     "philosophy": "患者様にとって最善と思われる治療を行って行きます",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJZeyAsyvwAGAR3LUvIXCy2CY": {
     "place_id": "ChIJZeyAsyvwAGAR3LUvIXCy2CY",
@@ -35223,16 +35764,16 @@
       "日曜日: 10時00分～17時30分"
     ],
     "genre": "一般歯科",
-    "total_score": 72,
-    "reputation_score": 20,
-    "doctor_score": 20,
-    "equipment_score": 10,
-    "transparency_score": 10,
-    "activity_score": 10,
+    "total_score": 2,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
     "google_bonus": 2,
-    "clinic_score": 20,
-    "current": 70,
-    "potential": 68,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
     "reputation_tags": [
       "親切な対応",
       "説明が丁寧",
@@ -35321,7 +35862,7 @@
     "catchphrase": "丁寧な矯正治療を提供",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7550226,
     "longitude": 135.4129514,
     "location_source": "geocoding",
@@ -35361,7 +35902,10 @@
     "philosophy": "安心できる標準的な矯正歯科治療を提供",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJyYYpRyjwAGARclScVdWnE48": {
     "place_id": "ChIJyYYpRyjwAGARclScVdWnE48",
@@ -35442,7 +35986,7 @@
     "catchphrase": "",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.754693,
     "longitude": 135.420076,
     "location_source": "geocoding",
@@ -35463,7 +36007,10 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJQ6P_H9jvAGARYTJf75JzFk8": {
     "place_id": "ChIJQ6P_H9jvAGARYTJf75JzFk8",
@@ -35484,16 +36031,16 @@
       "日曜日: 定休日"
     ],
     "genre": "一般歯科",
-    "total_score": 62,
-    "reputation_score": 25,
+    "total_score": 2,
+    "reputation_score": 0,
     "doctor_score": 0,
-    "equipment_score": 15,
-    "transparency_score": 10,
-    "activity_score": 10,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
     "google_bonus": 2,
-    "clinic_score": 25,
-    "current": 60,
-    "potential": 30,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
     "reputation_tags": [
       "優しい対応",
       "定期メンテナンス",
@@ -35577,7 +36124,7 @@
     "catchphrase": "家族みんなの安心歯科",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.75301020000001,
     "longitude": 135.4214556,
     "location_source": "geocoding",
@@ -35623,7 +36170,10 @@
     "philosophy": "地域の皆様に愛される歯科医院になるべく努めてまいります",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJ097njdvvAGARO79EeHY0qew": {
     "place_id": "ChIJ097njdvvAGARO79EeHY0qew",
@@ -35736,7 +36286,7 @@
     "catchphrase": "痛くない治療を目指す",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7510021,
     "longitude": 135.4257165,
     "location_source": "geocoding",
@@ -35765,7 +36315,10 @@
     "philosophy": "患者様に真に向き合った丁寧なカウンセリング",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJFSMxhNzvAGARcCrf3LVgT3E": {
     "place_id": "ChIJFSMxhNzvAGARcCrf3LVgT3E",
@@ -35786,16 +36339,16 @@
       "日曜日: 定休日"
     ],
     "genre": "一般歯科",
-    "total_score": 75,
-    "reputation_score": 20,
-    "doctor_score": 20,
-    "equipment_score": 10,
-    "transparency_score": 10,
-    "activity_score": 10,
+    "total_score": 5,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
     "google_bonus": 5,
-    "clinic_score": 20,
-    "current": 70,
-    "potential": 68,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
     "reputation_tags": [
       "清潔感",
       "優しさ",
@@ -35880,7 +36433,7 @@
     "catchphrase": "地域に愛される歯科クリニック",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7495071,
     "longitude": 135.426735,
     "location_source": "geocoding",
@@ -35915,7 +36468,10 @@
     "philosophy": "患者様とのコミュニケーションを大切にし、患者満足度日本一を目指す",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJAQDUBufvAGARMqVtFtNNvkU": {
     "place_id": "ChIJAQDUBufvAGARMqVtFtNNvkU",
@@ -36031,7 +36587,7 @@
     "catchphrase": "子どもと一緒に通える歯科",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7529554,
     "longitude": 135.4330209,
     "location_source": "geocoding",
@@ -36066,7 +36622,10 @@
     "philosophy": "患者さま目線の心地よい歯科医院作り",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJJ_pBMufvAGAR-FQ2EkTClu8": {
     "place_id": "ChIJJ_pBMufvAGAR-FQ2EkTClu8",
@@ -36087,16 +36646,16 @@
       "日曜日: 定休日"
     ],
     "genre": "一般歯科",
-    "total_score": 42,
-    "reputation_score": 20,
-    "doctor_score": 20,
+    "total_score": 2,
+    "reputation_score": 0,
+    "doctor_score": 0,
     "equipment_score": 0,
     "transparency_score": 0,
     "activity_score": 0,
     "google_bonus": 2,
     "clinic_score": 0,
-    "current": 40,
-    "potential": 48,
+    "current": 0,
+    "potential": 0,
     "reputation_tags": [
       "女医が優しい",
       "スピーディー",
@@ -36173,7 +36732,7 @@
     "catchphrase": "サクッと治療！",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7546293,
     "longitude": 135.4326863,
     "location_source": "geocoding",
@@ -36194,7 +36753,10 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJAfMqb-jvAGAR06CrSUHlplU": {
     "place_id": "ChIJAfMqb-jvAGAR06CrSUHlplU",
@@ -36320,7 +36882,7 @@
     "catchphrase": "矯正治療の専門家",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7495792,
     "longitude": 135.4326215,
     "location_source": "geocoding",
@@ -36354,7 +36916,10 @@
     "philosophy": "お口全体を「ゼロ」の状態に戻す",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJd0RBFd3vAGARlnigg0jyZKw": {
     "place_id": "ChIJd0RBFd3vAGARlnigg0jyZKw",
@@ -36455,7 +37020,7 @@
     "catchphrase": "優しさが際立つ歯科医院",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7502003,
     "longitude": 135.4297542,
     "location_source": "geocoding",
@@ -36476,7 +37041,10 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJJ5UacOjvAGARPDDQOktOfJE": {
     "place_id": "ChIJJ5UacOjvAGARPDDQOktOfJE",
@@ -36593,7 +37161,7 @@
     "catchphrase": "家族で通える歯医者",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7503218,
     "longitude": 135.4328545,
     "location_source": "geocoding",
@@ -36629,7 +37197,10 @@
     "philosophy": "患者様の「歯を守り、お口から健康に」",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJ8XF_HvLvAGAR7fug6H8VHuo": {
     "place_id": "ChIJ8XF_HvLvAGAR7fug6H8VHuo",
@@ -36720,7 +37291,7 @@
     "catchphrase": "残念な印象の医院",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7500971,
     "longitude": 135.4413105,
     "location_source": "geocoding",
@@ -36741,7 +37312,10 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJgdXHkPXvAGARosjjoRF1O6w": {
     "place_id": "ChIJgdXHkPXvAGARosjjoRF1O6w",
@@ -36835,7 +37409,7 @@
     "catchphrase": "安心して通える歯科医院",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.751866,
     "longitude": 135.448961,
     "location_source": "geocoding",
@@ -36856,7 +37430,10 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJgbp3dvXvAGARc_H_p27sMFA": {
     "place_id": "ChIJgbp3dvXvAGARc_H_p27sMFA",
@@ -36960,7 +37537,7 @@
     "catchphrase": "痛みを抑えた歯科治療",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.75109449999999,
     "longitude": 135.448611,
     "location_source": "geocoding",
@@ -36981,7 +37558,10 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJ59IGZ_bvAGAR1EOe5qVQfxY": {
     "place_id": "ChIJ59IGZ_bvAGAR1EOe5qVQfxY",
@@ -37092,7 +37672,7 @@
     "catchphrase": "子どものための専門歯科",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.75396200000001,
     "longitude": 135.4478321,
     "location_source": "geocoding",
@@ -37130,7 +37710,10 @@
     "philosophy": "お子さまの健康な成長を支える",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJUz8wHffvAGAR17TK43eiP-o": {
     "place_id": "ChIJUz8wHffvAGAR17TK43eiP-o",
@@ -37151,16 +37734,16 @@
       "日曜日: 定休日"
     ],
     "genre": "一般歯科",
-    "total_score": 35,
-    "reputation_score": 18,
+    "total_score": 2,
+    "reputation_score": 0,
     "doctor_score": 0,
-    "equipment_score": 15,
+    "equipment_score": 0,
     "transparency_score": 0,
     "activity_score": 0,
     "google_bonus": 2,
-    "clinic_score": 15,
-    "current": 33,
-    "potential": 30,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
     "reputation_tags": [
       "親切",
       "オシャレ",
@@ -37238,7 +37821,7 @@
     "catchphrase": "親切でオシャレな歯医者",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7548006,
     "longitude": 135.4468463,
     "location_source": "geocoding",
@@ -37259,7 +37842,10 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJ10P6H0fvAGARmEI0b239RyQ": {
     "place_id": "ChIJ10P6H0fvAGARmEI0b239RyQ",
@@ -37280,16 +37866,16 @@
       "日曜日: 定休日"
     ],
     "genre": "一般歯科",
-    "total_score": 79,
-    "reputation_score": 18,
-    "doctor_score": 22,
-    "equipment_score": 15,
-    "transparency_score": 12,
-    "activity_score": 10,
+    "total_score": 2,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
     "google_bonus": 2,
-    "clinic_score": 27,
-    "current": 77,
-    "potential": 83,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
     "reputation_tags": [
       "駅近",
       "高価格",
@@ -37374,7 +37960,7 @@
     "catchphrase": "アクセス良好、丁寧治療",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7518588,
     "longitude": 135.4470366,
     "location_source": "geocoding",
@@ -37415,7 +38001,10 @@
     "philosophy": "丁寧な説明をこころがけ、少しでも不安を取り除きたい",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJec5aL_TvAGARwLRwf3A-XDU": {
     "place_id": "ChIJec5aL_TvAGARwLRwf3A-XDU",
@@ -37530,7 +38119,7 @@
     "catchphrase": "安心して通える歯科医院",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.752185,
     "longitude": 135.4469,
     "location_source": "geocoding",
@@ -37558,7 +38147,10 @@
     "philosophy": "患者さまが心から納得・安心できる治療をお約束",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJtQPhfvbvAGARWTToCPeYBpU": {
     "place_id": "ChIJtQPhfvbvAGARWTToCPeYBpU",
@@ -37631,7 +38223,7 @@
     "catchphrase": "",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7530053,
     "longitude": 135.4476548,
     "location_source": "geocoding",
@@ -37652,7 +38244,10 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJjRB3FkzvAGARLJsvSpe9s4Y": {
     "place_id": "ChIJjRB3FkzvAGARLJsvSpe9s4Y",
@@ -37759,7 +38354,7 @@
     "catchphrase": "安心して通える歯科",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7519629,
     "longitude": 135.4484338,
     "location_source": "geocoding",
@@ -37780,7 +38375,10 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJ41Fmk_bvAGARcNcG1zZOLvA": {
     "place_id": "ChIJ41Fmk_bvAGARcNcG1zZOLvA",
@@ -37884,7 +38482,7 @@
     "catchphrase": "安心して通える歯科クリニック",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7532389,
     "longitude": 135.4465665,
     "location_source": "geocoding",
@@ -37905,7 +38503,10 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJBQ2lzmIJAWARJubtTfaoGK4": {
     "place_id": "ChIJBQ2lzmIJAWARJubtTfaoGK4",
@@ -37996,7 +38597,7 @@
     "catchphrase": "診断に疑問が残る医院",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.75218660000001,
     "longitude": 135.4485494,
     "location_source": "geocoding",
@@ -38017,7 +38618,10 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJX7H-6fXvAGARVyNch690WS8": {
     "place_id": "ChIJX7H-6fXvAGARVyNch690WS8",
@@ -38128,7 +38732,7 @@
     "catchphrase": "リラックスして治療を受けられる",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7524922,
     "longitude": 135.4486464,
     "location_source": "geocoding",
@@ -38163,7 +38767,10 @@
     "philosophy": "リラックスした気持ちで信頼関係の中で治療",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJQ0Zgod7vAGAR1szSJFXgyuQ": {
     "place_id": "ChIJQ0Zgod7vAGAR1szSJFXgyuQ",
@@ -38184,16 +38791,16 @@
       "日曜日: 定休日"
     ],
     "genre": "一般歯科",
-    "total_score": 42,
-    "reputation_score": 20,
-    "doctor_score": 20,
+    "total_score": 2,
+    "reputation_score": 0,
+    "doctor_score": 0,
     "equipment_score": 0,
     "transparency_score": 0,
     "activity_score": 0,
     "google_bonus": 2,
     "clinic_score": 0,
-    "current": 40,
-    "potential": 48,
+    "current": 0,
+    "potential": 0,
     "reputation_tags": [
       "優しいスタッフ",
       "丁寧な治療",
@@ -38273,7 +38880,7 @@
     "catchphrase": "優しさ溢れる歯科クリニック",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7516002,
     "longitude": 135.4492732,
     "location_source": "geocoding",
@@ -38313,7 +38920,10 @@
     "philosophy": "あなたの豊かで幸せな人生を歩むお手伝いができる医院",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJDV9BCPbvAGARENdfy7eNx3c": {
     "place_id": "ChIJDV9BCPbvAGARENdfy7eNx3c",
@@ -38436,7 +39046,7 @@
     "catchphrase": "安心のバリアフリー歯科",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7531426,
     "longitude": 135.449112,
     "location_source": "geocoding",
@@ -38472,7 +39082,10 @@
     "philosophy": "患者様に寄り添う歯科医院",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJy-gEe_bvAGARVkR-725H5QU": {
     "place_id": "ChIJy-gEe_bvAGARVkR-725H5QU",
@@ -38579,7 +39192,7 @@
     "catchphrase": "安心して通える歯科医院",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.754382,
     "longitude": 135.447886,
     "location_source": "geocoding",
@@ -38600,7 +39213,10 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJO2YtmELlAGARTVDWuWZon5s": {
     "place_id": "ChIJO2YtmELlAGARTVDWuWZon5s",
@@ -38986,7 +39602,7 @@
     "catchphrase": "地域に優しい歯科医院",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.758145,
     "longitude": 135.3789245,
     "location_source": "geocoding",
@@ -39022,7 +39638,10 @@
     "philosophy": "快適に生活を送るための治療",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJN4CDa5LxAGARiVuO2z4H8PM": {
     "place_id": "ChIJN4CDa5LxAGARiVuO2z4H8PM",
@@ -39127,7 +39746,7 @@
     "catchphrase": "優しさあふれる歯科医院",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7580906,
     "longitude": 135.3848867,
     "location_source": "geocoding",
@@ -39148,7 +39767,10 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJr02GrsHxAGARWtd0EXXHTTo": {
     "place_id": "ChIJr02GrsHxAGARWtd0EXXHTTo",
@@ -39169,16 +39791,16 @@
       "日曜日: 定休日"
     ],
     "genre": "一般歯科",
-    "total_score": 77,
-    "reputation_score": 20,
-    "doctor_score": 20,
-    "equipment_score": 15,
-    "transparency_score": 10,
-    "activity_score": 10,
+    "total_score": 2,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
     "google_bonus": 2,
-    "clinic_score": 25,
-    "current": 75,
-    "potential": 78,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
     "reputation_tags": [
       "丁寧な対応",
       "リニューアル済み",
@@ -39264,7 +39886,7 @@
     "catchphrase": "家族みんなの歯科医院",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7572234,
     "longitude": 135.3952917,
     "location_source": "geocoding",
@@ -39297,7 +39919,10 @@
     "philosophy": "歯の健康は、毎日笑顔で暮らすためにとても重要です。",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJ__8DsLjxAGARe3W_Q3SqlfQ": {
     "place_id": "ChIJ__8DsLjxAGARe3W_Q3SqlfQ",
@@ -39534,7 +40159,7 @@
     "catchphrase": "",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7603425,
     "longitude": 135.403677,
     "location_source": "geocoding",
@@ -39555,7 +40180,10 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJi35FqczxAGARbcjF9JY06dA": {
     "place_id": "ChIJi35FqczxAGARbcjF9JY06dA",
@@ -39749,16 +40377,16 @@
       "日曜日: 定休日"
     ],
     "genre": "一般歯科",
-    "total_score": 83,
-    "reputation_score": 20,
-    "doctor_score": 20,
-    "equipment_score": 15,
-    "transparency_score": 10,
-    "activity_score": 10,
+    "total_score": 8,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
     "google_bonus": 8,
-    "clinic_score": 25,
-    "current": 75,
-    "potential": 78,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
     "reputation_tags": [
       "丁寧な対応",
       "痛みに配慮",
@@ -39848,7 +40476,7 @@
     "catchphrase": "痛みを減らす歯科治療",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7581788,
     "longitude": 135.4114419,
     "location_source": "geocoding",
@@ -39887,7 +40515,10 @@
     "philosophy": "口福の追求〜阪神地域のむし歯と歯周病をなくす〜",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJpYLSI37xAGARk6I7y8pgZrQ": {
     "place_id": "ChIJpYLSI37xAGARk6I7y8pgZrQ",
@@ -40001,7 +40632,7 @@
     "catchphrase": "家族みんなで通える歯科医院",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7579984,
     "longitude": 135.4059268,
     "location_source": "geocoding",
@@ -40037,7 +40668,10 @@
     "philosophy": "なるべく抜かない・削らない",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJSyA5ks3xAGARm0hnimktJr4": {
     "place_id": "ChIJSyA5ks3xAGARm0hnimktJr4",
@@ -40058,16 +40692,16 @@
       "日曜日: 定休日"
     ],
     "genre": "一般歯科",
-    "total_score": 85,
-    "reputation_score": 20,
-    "doctor_score": 20,
-    "equipment_score": 15,
-    "transparency_score": 10,
-    "activity_score": 12,
+    "total_score": 8,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
     "google_bonus": 8,
-    "clinic_score": 25,
-    "current": 77,
-    "potential": 78,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
     "reputation_tags": [
       "治療の丁寧さ",
       "子ども対応",
@@ -40162,7 +40796,7 @@
     "catchphrase": "安心して通える歯医者",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7577953,
     "longitude": 135.4088581,
     "location_source": "geocoding",
@@ -40197,7 +40831,10 @@
     "philosophy": "笑顔のある人生の手助け",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJVc__mw_xAGARJk0ze-ntEKE": {
     "place_id": "ChIJVc__mw_xAGARJk0ze-ntEKE",
@@ -40218,16 +40855,16 @@
       "日曜日: 定休日"
     ],
     "genre": "一般歯科",
-    "total_score": 77,
-    "reputation_score": 20,
-    "doctor_score": 20,
-    "equipment_score": 15,
-    "transparency_score": 10,
-    "activity_score": 10,
+    "total_score": 2,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
     "google_bonus": 2,
-    "clinic_score": 25,
-    "current": 75,
-    "potential": 78,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
     "reputation_tags": [
       "子ども対応",
       "丁寧な説明",
@@ -40320,7 +40957,7 @@
     "catchphrase": "親子で安心の矯正",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7581852,
     "longitude": 135.4114387,
     "location_source": "geocoding",
@@ -40356,7 +40993,10 @@
     "philosophy": "安心な医療を提供したい",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJ368un431AGARGNy5O-BEC4U": {
     "place_id": "ChIJ368un431AGARGNy5O-BEC4U",
@@ -40516,16 +41156,16 @@
       "日曜日: 定休日"
     ],
     "genre": "一般歯科",
-    "total_score": 77,
-    "reputation_score": 20,
-    "doctor_score": 20,
-    "equipment_score": 15,
-    "transparency_score": 10,
-    "activity_score": 10,
+    "total_score": 2,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
     "google_bonus": 2,
-    "clinic_score": 25,
-    "current": 75,
-    "potential": 78,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
     "reputation_tags": [
       "信頼できる説明",
       "清潔感高い",
@@ -40620,7 +41260,7 @@
     "catchphrase": "安心・快適な歯科医院",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.76180809999999,
     "longitude": 135.4168064,
     "location_source": "geocoding",
@@ -40654,7 +41294,10 @@
     ],
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJKXrfeFXxAGARhuOsxfyj66o": {
     "place_id": "ChIJKXrfeFXxAGARhuOsxfyj66o",
@@ -40775,7 +41418,7 @@
     "catchphrase": "痛みを最小限に抑える歯科医院",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.76024960000001,
     "longitude": 135.420257,
     "location_source": "geocoding",
@@ -40825,7 +41468,10 @@
     "philosophy": "患者様の声にしっかりと耳を傾け、ニーズに応える医院を目指す",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJES5X3zHwAGARuu61Aa0Atqs": {
     "place_id": "ChIJES5X3zHwAGARuu61Aa0Atqs",
@@ -40923,7 +41569,7 @@
     "catchphrase": "安心できる歯医者さん",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7610531,
     "longitude": 135.4188978,
     "location_source": "geocoding",
@@ -40944,7 +41590,10 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJb0S1TS7wAGARkP4y5NiRMB8": {
     "place_id": "ChIJb0S1TS7wAGARkP4y5NiRMB8",
@@ -41017,7 +41666,7 @@
     "catchphrase": "",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.760303,
     "longitude": 135.418996,
     "location_source": "geocoding",
@@ -41038,7 +41687,10 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJy3XQHzLwAGARQUoTXXqqFCk": {
     "place_id": "ChIJy3XQHzLwAGARQUoTXXqqFCk",
@@ -41111,7 +41763,7 @@
     "catchphrase": "",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7618364,
     "longitude": 135.4168228,
     "location_source": "geocoding",
@@ -41132,7 +41784,10 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJyRW7lC7wAGARRfFW-Kide-A": {
     "place_id": "ChIJyRW7lC7wAGARRfFW-Kide-A",
@@ -41205,7 +41860,7 @@
     "catchphrase": "",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7582875,
     "longitude": 135.418009,
     "location_source": "geocoding",
@@ -41226,7 +41881,10 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJheSQNy_wAGARfiXOqs7sNSw": {
     "place_id": "ChIJheSQNy_wAGARfiXOqs7sNSw",
@@ -41350,7 +42008,7 @@
     "catchphrase": "丁寧な治療、安心の配慮",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.758506,
     "longitude": 135.4203715,
     "location_source": "geocoding",
@@ -41392,7 +42050,10 @@
     "philosophy": "患者さまにきちんと説明すること",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJ4fKv9TPwAGARgiQduE8zLyE": {
     "place_id": "ChIJ4fKv9TPwAGARgiQduE8zLyE",
@@ -41621,7 +42282,7 @@
     "catchphrase": "",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.763531,
     "longitude": 135.423098,
     "location_source": "geocoding",
@@ -41642,7 +42303,10 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJu1l-Q17xAGARluC5qV3dhfE": {
     "place_id": "ChIJu1l-Q17xAGARluC5qV3dhfE",
@@ -41663,16 +42327,16 @@
       "日曜日: 定休日"
     ],
     "genre": "一般歯科",
-    "total_score": 80,
-    "reputation_score": 20,
-    "doctor_score": 20,
-    "equipment_score": 15,
-    "transparency_score": 10,
-    "activity_score": 10,
+    "total_score": 5,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
     "google_bonus": 5,
-    "clinic_score": 25,
-    "current": 75,
-    "potential": 78,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
     "reputation_tags": [
       "清潔感",
       "優しさ",
@@ -41764,7 +42428,7 @@
     "catchphrase": "安心できる歯科医院",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7649529,
     "longitude": 135.4230916,
     "location_source": "geocoding",
@@ -41800,7 +42464,10 @@
     "philosophy": "患者様を『本当の家族』と思い治療を行う",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJ2x4dpuHvAGARHVaTi-NHpVw": {
     "place_id": "ChIJ2x4dpuHvAGARHVaTi-NHpVw",
@@ -41915,7 +42582,7 @@
     "catchphrase": "不安はあるが治療は受けられる",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.75790049999999,
     "longitude": 135.4339408,
     "location_source": "geocoding",
@@ -41948,7 +42615,10 @@
     "philosophy": "健康を維持するために早めの治療と予防が欠かせない",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJrw5_OODvAGAR_h81ghn80_4": {
     "place_id": "ChIJrw5_OODvAGAR_h81ghn80_4",
@@ -41969,16 +42639,16 @@
       "日曜日: 定休日"
     ],
     "genre": "一般歯科",
-    "total_score": 81,
-    "reputation_score": 20,
-    "doctor_score": 22,
-    "equipment_score": 15,
-    "transparency_score": 10,
-    "activity_score": 12,
+    "total_score": 2,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
     "google_bonus": 2,
-    "clinic_score": 25,
-    "current": 79,
-    "potential": 83,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
     "reputation_tags": [
       "優しさ",
       "技術力",
@@ -42067,7 +42737,7 @@
     "catchphrase": "患者目線の安心治療",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7581256,
     "longitude": 135.4326055,
     "location_source": "geocoding",
@@ -42115,7 +42785,10 @@
     "philosophy": "地域に根差した歯科医院を目指す",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJNylczSHwAGARPZSlpiwolgE": {
     "place_id": "ChIJNylczSHwAGARPZSlpiwolgE",
@@ -42188,7 +42861,7 @@
     "catchphrase": "",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7604841,
     "longitude": 135.4303836,
     "location_source": "geocoding",
@@ -42209,7 +42882,10 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJ1dmpAODvAGARBYdnsKq-Uek": {
     "place_id": "ChIJ1dmpAODvAGARBYdnsKq-Uek",
@@ -42312,7 +42988,7 @@
     "catchphrase": "迅速で安心の治療を提供",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.758212,
     "longitude": 135.430945,
     "location_source": "geocoding",
@@ -42333,7 +43009,10 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJH_XNzALwAGARm0x_m8bW048": {
     "place_id": "ChIJH_XNzALwAGARm0x_m8bW048",
@@ -42447,7 +43126,7 @@
     "catchphrase": "子供も安心して通える歯科",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.764323,
     "longitude": 135.440405,
     "location_source": "geocoding",
@@ -42474,7 +43153,10 @@
     ],
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJmSHcxFnlAGARN5QGCCEZ1QM": {
     "place_id": "ChIJmSHcxFnlAGARN5QGCCEZ1QM",
@@ -42684,7 +43366,7 @@
     "catchphrase": "患者思いの歯科医院",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.757804,
     "longitude": 135.447735,
     "location_source": "geocoding",
@@ -42705,7 +43387,10 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJJeAKCPnvAGARek4NI744MNI": {
     "place_id": "ChIJJeAKCPnvAGARek4NI744MNI",
@@ -42830,7 +43515,7 @@
     "catchphrase": "痛みを感じさせない歯科治療",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7592069,
     "longitude": 135.4468824,
     "location_source": "geocoding",
@@ -42870,7 +43555,10 @@
     "philosophy": "痛くない、怖くない歯科医院を目指しています",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJawG92vnvAGARV7SRYlH0hNY": {
     "place_id": "ChIJawG92vnvAGARV7SRYlH0hNY",
@@ -42986,7 +43674,7 @@
     "catchphrase": "通いやすい地域の歯科医",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.75740680000001,
     "longitude": 135.4468035,
     "location_source": "geocoding",
@@ -43022,7 +43710,10 @@
     "philosophy": "8020運動の達成を目標に質を重視した治療",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJY7NjAFflAGARDGJQJyDqVAM": {
     "place_id": "ChIJY7NjAFflAGARDGJQJyDqVAM",
@@ -43259,7 +43950,7 @@
     "catchphrase": "",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7576337,
     "longitude": 135.4553334,
     "location_source": "geocoding",
@@ -43280,7 +43971,10 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJee_4S0flAGAR-qGhasGdW8M": {
     "place_id": "ChIJee_4S0flAGAR-qGhasGdW8M",
@@ -43523,7 +44217,7 @@
     "catchphrase": "",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.77269279999999,
     "longitude": 135.3800858,
     "location_source": "geocoding",
@@ -43544,7 +44238,10 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJf2ThUgDxAGARlMN_LG3cnYM": {
     "place_id": "ChIJf2ThUgDxAGARlMN_LG3cnYM",
@@ -45686,16 +46383,16 @@
       "日曜日: 9時30分～13時30分, 14時30分～17時30分"
     ],
     "genre": "インプラント",
-    "total_score": 85,
-    "reputation_score": 20,
-    "doctor_score": 20,
-    "equipment_score": 18,
-    "transparency_score": 10,
-    "activity_score": 12,
+    "total_score": 5,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
     "google_bonus": 5,
-    "clinic_score": 28,
-    "current": 80,
-    "potential": 84,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
     "reputation_tags": [
       "親切",
       "便利な立地",
@@ -45790,7 +46487,7 @@
     "catchphrase": "心地よい歯科治療をあなたに",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7496398,
     "longitude": 135.3937439,
     "location_source": "geocoding",
@@ -45831,7 +46528,10 @@
     "philosophy": "精密検査・精密治療を第一に掲げ",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJr3A60MjvAGAROH-FEW68KVA": {
     "place_id": "ChIJr3A60MjvAGAROH-FEW68KVA",
@@ -45852,16 +46552,16 @@
       "日曜日: 定休日"
     ],
     "genre": "根管治療",
-    "total_score": 77,
-    "reputation_score": 20,
-    "doctor_score": 20,
-    "equipment_score": 15,
-    "transparency_score": 10,
-    "activity_score": 10,
+    "total_score": 2,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
     "google_bonus": 2,
-    "clinic_score": 25,
-    "current": 75,
-    "potential": 78,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
     "reputation_tags": [
       "待ち時間なし",
       "丁寧な説明",
@@ -45943,7 +46643,7 @@
     "catchphrase": "待たせない、清潔な医院",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.73142,
     "longitude": 135.411406,
     "location_source": "geocoding",
@@ -45973,7 +46673,10 @@
     "philosophy": "患者様が安心して通える歯科医院を提供",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJoXESRZ2PAGAR4zRsPemISpo": {
     "place_id": "ChIJoXESRZ2PAGAR4zRsPemISpo",
@@ -46503,7 +47206,7 @@
     "catchphrase": "",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.764109,
     "longitude": 135.441922,
     "location_source": "geocoding",
@@ -46524,7 +47227,10 @@
     "q_in_osaka": true,
     "q_is_salon": false,
     "q_is_dup": false,
-    "q_excluded": false
+    "q_excluded": false,
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJz1yUVfbvAGAROfiFDQ2dJSk": {
     "place_id": "ChIJz1yUVfbvAGAROfiFDQ2dJSk",
@@ -46545,16 +47251,16 @@
       "日曜日: 9時00分～13時00分"
     ],
     "genre": "訪問歯科",
-    "total_score": 83,
-    "reputation_score": 20,
-    "doctor_score": 20,
-    "equipment_score": 15,
-    "transparency_score": 10,
-    "activity_score": 10,
+    "total_score": 8,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
     "google_bonus": 8,
-    "clinic_score": 25,
-    "current": 75,
-    "potential": 78,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
     "reputation_tags": [
       "親切なスタッフ",
       "安心感",
@@ -46640,7 +47346,7 @@
     "catchphrase": "家族みんなの歯医者",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7548386,
     "longitude": 135.4475232,
     "location_source": "geocoding",
@@ -46694,7 +47400,10 @@
     "philosophy": "できるだけ抜かない・削らない、歯を残す治療",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJzdwyf7LvAGARq2NlbDW8ftM": {
     "place_id": "ChIJzdwyf7LvAGARq2NlbDW8ftM",
@@ -46707,15 +47416,15 @@
     "total_reviews": 6,
     "business_hours": [],
     "genre": "訪問歯科",
-    "total_score": 17,
+    "total_score": 2,
     "reputation_score": 0,
     "doctor_score": 0,
     "equipment_score": 0,
     "transparency_score": 0,
-    "activity_score": 15,
+    "activity_score": 0,
     "google_bonus": 2,
     "clinic_score": 0,
-    "current": 15,
+    "current": 0,
     "potential": 0,
     "reputation_tags": [],
     "reputation_summary": "尼崎市歯科医師会の情報は基本的な活動内容に限られ、具体的な評判は未記載です。",
@@ -46770,7 +47479,7 @@
     "catchphrase": "尼崎市の歯科医師が集結。",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7244618,
     "longitude": 135.4148065,
     "location_source": "geocoding",
@@ -46795,7 +47504,10 @@
     "philosophy": "地域住民の健康及び福祉の増進に寄与すること",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJsWUE9fHxAGAR-mBozQniEmk": {
     "place_id": "ChIJsWUE9fHxAGAR-mBozQniEmk",
@@ -46911,7 +47623,7 @@
     "catchphrase": "地域密着の通いやすい歯科医院",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7511521,
     "longitude": 135.3917209,
     "location_source": "geocoding",
@@ -46950,7 +47662,10 @@
     "philosophy": "自分自身や家族が受診したいと思える治療をすること",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJe5noGt7xAGARnEKh1N7MeO4": {
     "place_id": "ChIJe5noGt7xAGARnEKh1N7MeO4",
@@ -47059,7 +47774,7 @@
     "catchphrase": "高齢者と障がい者のための歯科医院",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7244628,
     "longitude": 135.4147778,
     "location_source": "geocoding",
@@ -47087,7 +47802,10 @@
     ],
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJOaWyDPbvAGARS5BLP8QwCXc": {
     "place_id": "ChIJOaWyDPbvAGARS5BLP8QwCXc",
@@ -47182,7 +47900,7 @@
     "catchphrase": "充実した医療サポート",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7212695,
     "longitude": 135.3961112,
     "location_source": "geocoding",
@@ -47216,7 +47934,10 @@
     ],
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJwfqt8oHxAGARC44zQ7zEXqI": {
     "place_id": "ChIJwfqt8oHxAGARC44zQ7zEXqI",
@@ -47237,16 +47958,16 @@
       "日曜日: 定休日"
     ],
     "genre": "障害者歯科",
-    "total_score": 87,
-    "reputation_score": 25,
-    "doctor_score": 25,
-    "equipment_score": 15,
-    "transparency_score": 10,
-    "activity_score": 10,
+    "total_score": 2,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
     "google_bonus": 2,
-    "clinic_score": 25,
-    "current": 85,
-    "potential": 90,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
     "reputation_tags": [
       "優しさ",
       "痛みの配慮",
@@ -47341,7 +48062,7 @@
     "catchphrase": "安心のリラックス治療",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.7447955,
     "longitude": 135.3935748,
     "location_source": "geocoding",
@@ -47382,7 +48103,10 @@
     "philosophy": "地域の皆様をはじめ、通院しやすい環境を整える",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   },
   "ChIJr5ypoTzwAGARylROXMDZAdc": {
     "place_id": "ChIJr5ypoTzwAGARylROXMDZAdc",
@@ -47489,7 +48213,7 @@
     "catchphrase": "安心して通える地域の歯医者",
     "label": "一般枠",
     "linked_articles": [],
-    "last_analyzed": "2026-07-08",
+    "last_analyzed": "2026-07-09",
     "latitude": 34.766181,
     "longitude": 135.424248,
     "location_source": "geocoding",
@@ -47520,6 +48244,9 @@
     "philosophy": "誰にでも安心して歯科治療を受けていただける医療機関",
     "deep_source": "official_site",
     "deep_fetched": true,
-    "deep_status": "ok"
+    "deep_status": "ok",
+    "equipment_stars": {},
+    "patient_fit": {},
+    "specialty_tags": []
   }
 }
