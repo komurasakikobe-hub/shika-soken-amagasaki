@@ -35431,5 +35431,2031 @@
     "label": "一般枠",
     "linked_articles": [],
     "last_analyzed": "2026-07-08"
+  },
+  "ChIJoaXcsUnlAGARKKD8Og7sg78": {
+    "place_id": "ChIJoaXcsUnlAGARKKD8Og7sg78",
+    "name": "曽根あらい歯科医院",
+    "address": "豊中市曽根西町１丁目１０−９ チサンマンション豊中曽根 1F",
+    "lat": 34.7687712,
+    "lng": 135.4669137,
+    "phone": "0120-118-463",
+    "url": "https://www.sone-araidental.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%9B%BD%E6%A0%B9%E3%81%82%E3%82%89%E3%81%84%E6%AD%AF%E7%A7%91%E5%8C%BB%E9%99%A2&query_place_id=ChIJoaXcsUnlAGARKKD8Og7sg78",
+    "rating": 4.8,
+    "total_reviews": 37,
+    "business_hours": [
+      "月曜日: 9時15分～12時30分, 14時00分～18時00分",
+      "火曜日: 9時15分～12時30分, 14時00分～18時00分",
+      "水曜日: 9時15分～12時30分, 14時00分～18時00分",
+      "木曜日: 9時15分～12時30分, 14時00分～18時00分",
+      "金曜日: 9時15分～12時30分, 14時00分～18時00分",
+      "土曜日: 定休日",
+      "日曜日: 定休日"
+    ],
+    "genre": "一般歯科",
+    "total_score": 85,
+    "reputation_score": 20,
+    "doctor_score": 20,
+    "equipment_score": 20,
+    "transparency_score": 10,
+    "activity_score": 10,
+    "google_bonus": 5,
+    "clinic_score": 30,
+    "current": 80,
+    "potential": 88,
+    "reputation_tags": [
+      "丁寧な対応",
+      "専門性",
+      "安心感"
+    ],
+    "reputation_summary": "丁寧な治療説明とスタッフの対応が評判。安心して通院できる医院です。",
+    "phrases": [
+      "先生も衛生士さんもとても丁寧な対応をしてくださるので治療への緊張も和らぎ説明もわかりやすく不安もなく治療に通うことができています！",
+      "他県から豊中市に引っ越ししてきたタイミングでかかりつけ医を新たに探さないといけないということでネットで検索して曽根あらい歯科医院さんへ通うことにしました",
+      "先生の説明がとても丁寧で分かりやすく、スタッフの皆さんの対応も素晴らしかったです",
+      "歯のクリーニングで初めて利用しました"
+    ],
+    "sources_analyzed": 2,
+    "patient_scores": {
+      "技術力": 90,
+      "説明力": 95,
+      "清潔感": 90,
+      "優しさ": 90,
+      "子ども対応": 80,
+      "痛みへの配慮": 85,
+      "待ち時間": 70
+    },
+    "doctor_name": "新井 宗秀",
+    "doctor_career": "国立大阪大学卒業後、難波診療所医長就任",
+    "doctor_evidence": [
+      "丁寧な説明が口コミで評価されています。",
+      "痛くない治療を心掛けています。"
+    ],
+    "doctor_stars": {
+      "専門性": 5,
+      "研究実績": 4,
+      "患者目線": 5,
+      "経験": 4
+    },
+    "case_analysis": {
+      "has_cases": true,
+      "difficult_cases": [
+        "重度歯周病",
+        "根管治療"
+      ],
+      "parts": [
+        "前歯",
+        "奥歯"
+      ],
+      "techniques": [
+        "マイクロスコープ治療",
+        "精密根管治療"
+      ]
+    },
+    "equipment_evidence": [
+      "最新のマイクロスコープとCTを完備しています。",
+      "CAD/CAMシステムを用いた治療を提供。"
+    ],
+    "transparency_evidence": [
+      "治療方針を分かりやすく説明しています。"
+    ],
+    "activity_evidence": [
+      "患者さんに寄り添った医療を目指しています。",
+      "診療内容をわかりやすく説明。"
+    ],
+    "workplace_stars": {
+      "教育制度": 4,
+      "働きやすさ": 4,
+      "衛生士定着率": 4,
+      "スタッフ教育": 4
+    },
+    "workplace_quality": "スタッフ教育が充実した職場環境",
+    "fit_for": [
+      "高齢者",
+      "インプラント",
+      "歯科恐怖症"
+    ],
+    "not_fit_for": [
+      "急患希望",
+      "夜しか通えない人"
+    ],
+    "best_patient_profile": "丁寧な説明を重視する方",
+    "not_recommended_profile": "夜間勤務の方",
+    "referral_to": [
+      "子どもに優しい医院",
+      "歯医者が怖い人",
+      "クリーニングを重視する方"
+    ],
+    "not_referral_to": [
+      "夜9時以降しか通えない人",
+      "急患希望の方"
+    ],
+    "ai_summary": "この医院は丁寧な治療と分かりやすい説明を求める方に向いています。一方、急患に対応が必要な方には他院も検討をお勧めします。",
+    "notable": true,
+    "notable_reason": "患者への配慮が非常に高くおすすめの医院です。",
+    "catchphrase": "歯の寿命にこだわる医院",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJa-8pNknlAGARXH1cJpC4NNg": {
+    "place_id": "ChIJa-8pNknlAGARXH1cJpC4NNg",
+    "name": "片岡歯科医院",
+    "address": "豊中市曽根南町２丁目４−５ ジュエルハイツ曽根３",
+    "lat": 34.7685102,
+    "lng": 135.4644356,
+    "phone": "06-6868-0777",
+    "url": "",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%89%87%E5%B2%A1%E6%AD%AF%E7%A7%91%E5%8C%BB%E9%99%A2&query_place_id=ChIJa-8pNknlAGARXH1cJpC4NNg",
+    "rating": 3,
+    "total_reviews": 1,
+    "business_hours": [
+      "月曜日: 9時00分～18時30分",
+      "火曜日: 9時00分～18時30分",
+      "水曜日: 定休日",
+      "木曜日: 9時00分～18時30分",
+      "金曜日: 9時00分～18時30分",
+      "土曜日: 9時00分～18時30分",
+      "日曜日: 定休日"
+    ],
+    "genre": "一般歯科",
+    "total_score": 20,
+    "reputation_score": 20,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
+    "google_bonus": 0,
+    "clinic_score": 0,
+    "current": 20,
+    "potential": 0,
+    "reputation_tags": [
+      "長年の信頼",
+      "安定した技術",
+      "地域密着"
+    ],
+    "reputation_summary": "20年以上通われている患者がいる安定した歯科医院です。",
+    "phrases": [
+      "20年以上通っている歯医者さんです"
+    ],
+    "sources_analyzed": 0,
+    "patient_scores": {
+      "技術力": 0,
+      "説明力": 0,
+      "清潔感": 0,
+      "優しさ": 0,
+      "子ども対応": 0,
+      "痛みへの配慮": 0,
+      "待ち時間": 0
+    },
+    "doctor_name": "",
+    "doctor_career": "",
+    "doctor_evidence": [],
+    "doctor_stars": {
+      "専門性": 0,
+      "研究実績": 0,
+      "患者目線": 0,
+      "経験": 0
+    },
+    "case_analysis": {
+      "has_cases": false,
+      "difficult_cases": [],
+      "parts": [],
+      "techniques": []
+    },
+    "equipment_evidence": [],
+    "transparency_evidence": [],
+    "activity_evidence": [],
+    "workplace_stars": {
+      "教育制度": 0,
+      "働きやすさ": 0,
+      "衛生士定着率": 0,
+      "スタッフ教育": 0
+    },
+    "workplace_quality": "",
+    "fit_for": [
+      "高齢者",
+      "安定した医院を求める人"
+    ],
+    "not_fit_for": [
+      "最新技術を重視する人",
+      "多忙で予約が取りづらい人"
+    ],
+    "best_patient_profile": "安心して治療を受けたい高齢者の方。",
+    "not_recommended_profile": "最新の治療法を希望する方。",
+    "referral_to": [
+      "安定した治療を求める人",
+      "高齢者",
+      "長年通う患者"
+    ],
+    "not_referral_to": [
+      "最新技術を望む人",
+      "予約が取りにくい人"
+    ],
+    "ai_summary": "この医院は長年通う信頼性を求める方に向いています。一方で、最新の技術を重視される方には他院も検討をお勧めします。",
+    "notable": true,
+    "notable_reason": "長年の信頼を築いている歯科医院です。",
+    "catchphrase": "安心の地域密着型歯科医院",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJ_2Hsh0zlAGARTNSD9qgEzYM": {
+    "place_id": "ChIJ_2Hsh0zlAGARTNSD9qgEzYM",
+    "name": "福岡歯科医院",
+    "address": "豊中市曽根西町２丁目５−２７",
+    "lat": 34.77126999999999,
+    "lng": 135.46342,
+    "phone": "06-4865-0122",
+    "url": "",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B2%A1%E6%AD%AF%E7%A7%91%E5%8C%BB%E9%99%A2&query_place_id=ChIJ_2Hsh0zlAGARTNSD9qgEzYM",
+    "rating": 0,
+    "total_reviews": 0,
+    "business_hours": [],
+    "genre": "一般歯科",
+    "total_score": 0,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
+    "google_bonus": 0,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
+    "reputation_tags": [],
+    "reputation_summary": "",
+    "phrases": [],
+    "sources_analyzed": 0,
+    "patient_scores": {
+      "技術力": 0,
+      "説明力": 0,
+      "清潔感": 0,
+      "優しさ": 0,
+      "子ども対応": 0,
+      "痛みへの配慮": 0,
+      "待ち時間": 0
+    },
+    "doctor_name": "",
+    "doctor_career": "",
+    "doctor_evidence": [],
+    "doctor_stars": {
+      "専門性": 0,
+      "研究実績": 0,
+      "患者目線": 0,
+      "経験": 0
+    },
+    "case_analysis": {
+      "has_cases": false,
+      "difficult_cases": [],
+      "parts": [],
+      "techniques": []
+    },
+    "equipment_evidence": [],
+    "transparency_evidence": [],
+    "activity_evidence": [],
+    "workplace_stars": {
+      "教育制度": 0,
+      "働きやすさ": 0,
+      "衛生士定着率": 0,
+      "スタッフ教育": 0
+    },
+    "workplace_quality": "",
+    "fit_for": [],
+    "not_fit_for": [],
+    "best_patient_profile": "",
+    "not_recommended_profile": "",
+    "referral_to": [],
+    "not_referral_to": [],
+    "ai_summary": "",
+    "notable": false,
+    "notable_reason": "",
+    "catchphrase": "",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJ6QFSL0zlAGARQU7fKhkhBXM": {
+    "place_id": "ChIJ6QFSL0zlAGARQU7fKhkhBXM",
+    "name": "くにえ歯科医院",
+    "address": "豊中市原田元町３丁目３−１４ サニーサイド曽根",
+    "lat": 34.768703,
+    "lng": 135.462131,
+    "phone": "06-6845-8617",
+    "url": "https://kunie-dcl.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%81%8F%E3%81%AB%E3%81%88%E6%AD%AF%E7%A7%91%E5%8C%BB%E9%99%A2&query_place_id=ChIJ6QFSL0zlAGARQU7fKhkhBXM",
+    "rating": 3,
+    "total_reviews": 2,
+    "business_hours": [],
+    "genre": "一般歯科",
+    "total_score": 75,
+    "reputation_score": 20,
+    "doctor_score": 20,
+    "equipment_score": 15,
+    "transparency_score": 10,
+    "activity_score": 10,
+    "google_bonus": 0,
+    "clinic_score": 25,
+    "current": 75,
+    "potential": 78,
+    "reputation_tags": [
+      "優しい女医",
+      "虫歯治療",
+      "リラックス治療"
+    ],
+    "reputation_summary": "女医の優しさを感じるリラックスした治療環境が評判です。",
+    "phrases": [
+      "とても物腰のやさしい女医先生で、リラックスして治療を受けられました",
+      "特に痛くはなかったが、虫歯だと言われたので治療しました"
+    ],
+    "sources_analyzed": 1,
+    "patient_scores": {
+      "技術力": 70,
+      "説明力": 70,
+      "清潔感": 80,
+      "優しさ": 90,
+      "子ども対応": 0,
+      "痛みへの配慮": 80,
+      "待ち時間": 0
+    },
+    "doctor_name": "不明",
+    "doctor_career": "不明",
+    "doctor_evidence": [
+      "優しい女医が治療を担当している",
+      "痛みが少ない治療を提供"
+    ],
+    "doctor_stars": {
+      "専門性": 3,
+      "研究実績": 0,
+      "患者目線": 4,
+      "経験": 0
+    },
+    "case_analysis": {
+      "has_cases": false,
+      "difficult_cases": [],
+      "parts": [],
+      "techniques": []
+    },
+    "equipment_evidence": [
+      "感染対策を実施している",
+      "高品質の医療機器を使用"
+    ],
+    "transparency_evidence": [
+      "マイナンバーカードでの情報確認が可能"
+    ],
+    "activity_evidence": [
+      "地域のかかりつけ医を目指す医療提供"
+    ],
+    "workplace_stars": {
+      "教育制度": 0,
+      "働きやすさ": 0,
+      "衛生士定着率": 0,
+      "スタッフ教育": 0
+    },
+    "workplace_quality": "",
+    "fit_for": [
+      "女性",
+      "高齢者",
+      "歯科恐怖症"
+    ],
+    "not_fit_for": [
+      "夜しか通えない人"
+    ],
+    "best_patient_profile": "リラックスして治療を受けたい方",
+    "not_recommended_profile": "夜にしか通えない方",
+    "referral_to": [
+      "歯医者が怖い人",
+      "小さな子どもがいる人",
+      "優しい対応を求める人"
+    ],
+    "not_referral_to": [
+      "夜9時以降しか通えない人",
+      "痛みを嫌う人"
+    ],
+    "ai_summary": "この医院は、優しい女医によるリラックスした治療を希望する方に向いています。一方、夜間に通院が必要な方には他院をおすすめします。",
+    "notable": false,
+    "notable_reason": "",
+    "catchphrase": "優しい治療で安心感を",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJtePOckvlAGARQOxBuQuiwlY": {
+    "place_id": "ChIJtePOckvlAGARQOxBuQuiwlY",
+    "name": "松本歯科医院",
+    "address": "豊中市曽根西町３丁目７−３",
+    "lat": 34.772453,
+    "lng": 135.465084,
+    "phone": "06-6841-8270",
+    "url": "",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%9D%BE%E6%9C%AC%E6%AD%AF%E7%A7%91%E5%8C%BB%E9%99%A2&query_place_id=ChIJtePOckvlAGARQOxBuQuiwlY",
+    "rating": 3,
+    "total_reviews": 2,
+    "business_hours": [],
+    "genre": "一般歯科",
+    "total_score": 0,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
+    "google_bonus": 0,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
+    "reputation_tags": [
+      "悪評",
+      "危険",
+      "不信"
+    ],
+    "reputation_summary": "絶対に避けるべきとの口コミが寄せられています。",
+    "phrases": [
+      "絶対辞めておいた方がいい"
+    ],
+    "sources_analyzed": 0,
+    "patient_scores": {
+      "技術力": 0,
+      "説明力": 0,
+      "清潔感": 0,
+      "優しさ": 0,
+      "子ども対応": 0,
+      "痛みへの配慮": 0,
+      "待ち時間": 0
+    },
+    "doctor_name": "",
+    "doctor_career": "",
+    "doctor_evidence": [],
+    "doctor_stars": {
+      "専門性": 0,
+      "研究実績": 0,
+      "患者目線": 0,
+      "経験": 0
+    },
+    "case_analysis": {
+      "has_cases": false,
+      "difficult_cases": [],
+      "parts": [],
+      "techniques": []
+    },
+    "equipment_evidence": [],
+    "transparency_evidence": [],
+    "activity_evidence": [],
+    "workplace_stars": {
+      "教育制度": 0,
+      "働きやすさ": 0,
+      "衛生士定着率": 0,
+      "スタッフ教育": 0
+    },
+    "workplace_quality": "",
+    "fit_for": [],
+    "not_fit_for": [],
+    "best_patient_profile": "",
+    "not_recommended_profile": "",
+    "referral_to": [],
+    "not_referral_to": [
+      "信頼できる医療を求める人",
+      "良好な口コミを重視する人"
+    ],
+    "ai_summary": "この医院は、信頼できないとの口コミがあり、避けた方が良いかもしれません。他の医院も検討することをお勧めします。",
+    "notable": false,
+    "notable_reason": "",
+    "catchphrase": "絶対に避けるべき歯科医院",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJ3SiXrEvlAGAR_nHpNXxLiIY": {
+    "place_id": "ChIJ3SiXrEvlAGAR_nHpNXxLiIY",
+    "name": "かおる歯科クリニック",
+    "address": "豊中市曽根西町３丁目５−１",
+    "lat": 34.7721407,
+    "lng": 135.4662135,
+    "phone": "06-6152-8557",
+    "url": "https://www.kaoru-dc.net/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%81%8B%E3%81%8A%E3%82%8B%E6%AD%AF%E7%A7%91%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF&query_place_id=ChIJ3SiXrEvlAGAR_nHpNXxLiIY",
+    "rating": 3.8,
+    "total_reviews": 5,
+    "business_hours": [],
+    "genre": "一般歯科",
+    "total_score": 72,
+    "reputation_score": 15,
+    "doctor_score": 20,
+    "equipment_score": 15,
+    "transparency_score": 12,
+    "activity_score": 10,
+    "google_bonus": 0,
+    "clinic_score": 27,
+    "current": 72,
+    "potential": 78,
+    "reputation_tags": [
+      "丁寧な対応",
+      "小児歯科",
+      "説明重視"
+    ],
+    "reputation_summary": "治療が丁寧で信頼できるが、施術に不安を感じる声も多い。",
+    "phrases": [
+      "子供の治療でお世話になっています",
+      "とても丁寧に説明してくださいました",
+      "治療の説明がなかったり、施術が雑だったりで通うのをやめました",
+      "とても親切丁寧にご対応頂き、",
+      "とても丁寧な先生で信頼、安心できる"
+    ],
+    "sources_analyzed": 1,
+    "patient_scores": {
+      "技術力": 70,
+      "説明力": 75,
+      "清潔感": 80,
+      "優しさ": 85,
+      "子ども対応": 90,
+      "痛みへの配慮": 70,
+      "待ち時間": 55
+    },
+    "doctor_name": "不明",
+    "doctor_career": "不明",
+    "doctor_evidence": [
+      "日本小児歯科学会専門医",
+      "治療前の説明を重視"
+    ],
+    "doctor_stars": {
+      "専門性": 4,
+      "研究実績": 3,
+      "患者目線": 4,
+      "経験": 4
+    },
+    "case_analysis": {
+      "has_cases": false,
+      "difficult_cases": [],
+      "parts": [],
+      "techniques": []
+    },
+    "equipment_evidence": [
+      "最新の器具を導入していると記載",
+      "設備面での配慮あり"
+    ],
+    "transparency_evidence": [
+      "治療の流れやコストを事前に説明する方針"
+    ],
+    "activity_evidence": [
+      "学会参加などで専門性を高めている"
+    ],
+    "workplace_stars": {
+      "教育制度": 4,
+      "働きやすさ": 3,
+      "衛生士定着率": 3,
+      "スタッフ教育": 4
+    },
+    "workplace_quality": "優れた教育制度が魅力的",
+    "fit_for": [
+      "子ども",
+      "家族連れ",
+      "予防歯科"
+    ],
+    "not_fit_for": [
+      "急患希望",
+      "夜しか通えない人"
+    ],
+    "best_patient_profile": "小さな子どもがいる家族",
+    "not_recommended_profile": "急いで治療を希望する人",
+    "referral_to": [
+      "子どもがいる家庭",
+      "丁寧な治療を求める人",
+      "歯科恐怖症の方"
+    ],
+    "not_referral_to": [
+      "夜間の通院希望者",
+      "急患対応を必要とする人"
+    ],
+    "ai_summary": "この医院は、特に子どもや家族に向いていて、丁寧な治療と説明が魅力です。一方、急患や夜間診療を希望する方には他院も検討をお勧めします。",
+    "notable": false,
+    "notable_reason": "",
+    "catchphrase": "家族みんなで通える歯医者",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJWT-E1JHxAGAR6RA5pLXZBuE": {
+    "place_id": "ChIJWT-E1JHxAGAR6RA5pLXZBuE",
+    "name": "きたつじ歯科クリニック",
+    "address": "尼崎市南武庫之荘１丁目１２−６ 松弥サウスモールII 201",
+    "lat": 34.7496398,
+    "lng": 135.3937439,
+    "phone": "06-6438-1182",
+    "url": "https://kitatsuji-dc.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%81%8D%E3%81%9F%E3%81%A4%E3%81%98%E6%AD%AF%E7%A7%91%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF&query_place_id=ChIJWT-E1JHxAGAR6RA5pLXZBuE",
+    "rating": 4.7,
+    "total_reviews": 49,
+    "business_hours": [
+      "月曜日: 定休日",
+      "火曜日: 9時30分～13時30分, 15時00分～19時30分",
+      "水曜日: 9時30分～13時30分, 15時00分～19時30分",
+      "木曜日: 9時30分～13時30分, 14時30分～17時30分",
+      "金曜日: 9時30分～13時30分, 15時00分～19時30分",
+      "土曜日: 9時30分～13時30分, 14時30分～17時30分",
+      "日曜日: 9時30分～13時30分, 14時30分～17時30分"
+    ],
+    "genre": "インプラント",
+    "total_score": 85,
+    "reputation_score": 20,
+    "doctor_score": 20,
+    "equipment_score": 18,
+    "transparency_score": 10,
+    "activity_score": 12,
+    "google_bonus": 5,
+    "clinic_score": 28,
+    "current": 80,
+    "potential": 84,
+    "reputation_tags": [
+      "親切",
+      "便利な立地",
+      "最新設備"
+    ],
+    "reputation_summary": "優しくで丁寧な対応が評価されており、通いやすさもポイントです。",
+    "phrases": [
+      "近くに引っ越してきたことをきっかけにWEBで近所の歯医者さんを探して来院しました",
+      "セラミックの治療でお世話になりました😊",
+      "めっちゃくちゃ歯医者さんの怖がりな私でも すごく 親切で 優しく して頂いて 治療も 最後まで 出来ました"
+    ],
+    "sources_analyzed": 2,
+    "patient_scores": {
+      "技術力": 85,
+      "説明力": 80,
+      "清潔感": 80,
+      "優しさ": 90,
+      "子ども対応": 75,
+      "痛みへの配慮": 85,
+      "待ち時間": 70
+    },
+    "doctor_name": "北逵 圭佑",
+    "doctor_career": "兵庫県にて開業、幅広い経験を有する。",
+    "doctor_evidence": [
+      "地域密着型で多様な治療を行う",
+      "患者の気持ちに寄り添った治療提案"
+    ],
+    "doctor_stars": {
+      "専門性": 4,
+      "研究実績": 3,
+      "患者目線": 5,
+      "経験": 4
+    },
+    "case_analysis": {
+      "has_cases": true,
+      "difficult_cases": [
+        "骨造成"
+      ],
+      "parts": [
+        "前歯",
+        "奥歯"
+      ],
+      "techniques": [
+        "セラミック修復"
+      ]
+    },
+    "equipment_evidence": [
+      "マイクロスコープやCTを完備",
+      "クラスB滅菌機を導入し清潔性を保持"
+    ],
+    "transparency_evidence": [
+      "わかりやすい説明を重視している"
+    ],
+    "activity_evidence": [
+      "地域の健康維持に努めています",
+      "患者への丁寧なカウンセリングを実施"
+    ],
+    "workplace_stars": {
+      "教育制度": 4,
+      "働きやすさ": 4,
+      "衛生士定着率": 4,
+      "スタッフ教育": 4
+    },
+    "workplace_quality": "スタッフ教育が充実しており働きやすい環境です。",
+    "fit_for": [
+      "子ども",
+      "女性",
+      "高齢者",
+      "インプラント",
+      "歯科恐怖症"
+    ],
+    "not_fit_for": [
+      "急患希望",
+      "夜のみ通える人"
+    ],
+    "best_patient_profile": "歯医者に不安を感じる方で丁寧な治療を求める方。",
+    "not_recommended_profile": "夜間しか通えない忙しい人。",
+    "referral_to": [
+      "歯医者が怖い人",
+      "安心して治療を受けたい人",
+      "最新設備で治療を受けたい人"
+    ],
+    "not_referral_to": [
+      "夜9時以降しか通えない人",
+      "すぐに治療が必要な人"
+    ],
+    "ai_summary": "この医院は歯医者に不安を感じる方に向いています。一方、夜間のみ通える方には他院も検討をお勧めします。",
+    "notable": true,
+    "notable_reason": "親切な対応が特に評価されており、安心して通える医院です。",
+    "catchphrase": "心地よい歯科治療をあなたに",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJr3A60MjvAGAROH-FEW68KVA": {
+    "place_id": "ChIJr3A60MjvAGAROH-FEW68KVA",
+    "name": "KANDA DENTAL CLINIC",
+    "address": "尼崎市東難波町２丁目１６−１７",
+    "lat": 34.73142,
+    "lng": 135.411406,
+    "phone": "06-6435-8822",
+    "url": "http://www.kanda-dentalclinic.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=KANDA%20DENTAL%20CLINIC&query_place_id=ChIJr3A60MjvAGAROH-FEW68KVA",
+    "rating": 5,
+    "total_reviews": 5,
+    "business_hours": [
+      "月曜日: 9時30分～20時00分",
+      "火曜日: 9時30分～20時00分",
+      "水曜日: 9時30分～20時00分",
+      "木曜日: 定休日",
+      "金曜日: 9時30分～20時00分",
+      "土曜日: 9時30分～18時00分",
+      "日曜日: 定休日"
+    ],
+    "genre": "根管治療",
+    "total_score": 77,
+    "reputation_score": 20,
+    "doctor_score": 20,
+    "equipment_score": 15,
+    "transparency_score": 10,
+    "activity_score": 10,
+    "google_bonus": 2,
+    "clinic_score": 25,
+    "current": 75,
+    "potential": 78,
+    "reputation_tags": [
+      "待ち時間なし",
+      "丁寧な説明",
+      "衛生管理徹底"
+    ],
+    "reputation_summary": "完全予約制で待ち時間が少なく、衛生面に配慮した安心できる歯科医院です。",
+    "phrases": [
+      "完全予約制で、時間通りに行くと毎回ほぼ待ち時間ゼロで診てもらえます",
+      "歯の痛みがあり、初めて来院"
+    ],
+    "sources_analyzed": 2,
+    "patient_scores": {
+      "技術力": 75,
+      "説明力": 80,
+      "清潔感": 90,
+      "優しさ": 80,
+      "子ども対応": 0,
+      "痛みへの配慮": 70,
+      "待ち時間": 100
+    },
+    "doctor_name": "院長不明",
+    "doctor_career": "",
+    "doctor_evidence": [
+      "完全予約制を採用し、待ち時間を管理。",
+      "新型コロナに配慮した清潔な環境を提供。"
+    ],
+    "doctor_stars": {
+      "専門性": 4,
+      "研究実績": 0,
+      "患者目線": 4,
+      "経験": 4
+    },
+    "case_analysis": {
+      "has_cases": false,
+      "difficult_cases": [],
+      "parts": [],
+      "techniques": []
+    },
+    "equipment_evidence": [
+      "ウィルス除去のための空気清浄システムを導入。",
+      "除菌水装置「ポセイドン」を使用。"
+    ],
+    "transparency_evidence": [
+      "診療時間や休診日を明確に記載。"
+    ],
+    "activity_evidence": [
+      "公式ブログで情報更新や患者へのアドバイスを発信。",
+      "衛生管理への取り組みを公表。"
+    ],
+    "workplace_stars": {
+      "教育制度": 0,
+      "働きやすさ": 0,
+      "衛生士定着率": 0,
+      "スタッフ教育": 0
+    },
+    "workplace_quality": "",
+    "fit_for": [
+      "忙しい人",
+      "衛生面を重視する人"
+    ],
+    "not_fit_for": [
+      "夜しか通えない人",
+      "子ども連れ"
+    ],
+    "best_patient_profile": "忙しくても短時間で治療を済ませたい人",
+    "not_recommended_profile": "夜間や急患対応を求める人",
+    "referral_to": [
+      "忙しい人",
+      "衛生管理を重視する人",
+      "初めての患者"
+    ],
+    "not_referral_to": [
+      "夜9時以降しか通えない人",
+      "急患希望の人"
+    ],
+    "ai_summary": "この医院は短時間での治療を希望する方に向いています。一方、夜しか通えない方には他院も検討をお勧めします。",
+    "notable": false,
+    "notable_reason": "",
+    "catchphrase": "待たせない、清潔な医院",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJoXESRZ2PAGAR4zRsPemISpo": {
+    "place_id": "ChIJoXESRZ2PAGAR4zRsPemISpo",
+    "name": "ダイキデンタルクリニック",
+    "address": "神戸市中央区明石町３０ 常盤ビル 402",
+    "lat": 34.6878305,
+    "lng": 135.1912417,
+    "phone": "078-381-7510",
+    "url": "https://www.daiki-dentalclinic.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%83%80%E3%82%A4%E3%82%AD%E3%83%87%E3%83%B3%E3%82%BF%E3%83%AB%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF&query_place_id=ChIJoXESRZ2PAGAR4zRsPemISpo",
+    "rating": 4.7,
+    "total_reviews": 27,
+    "business_hours": [
+      "月曜日: 10時00分～18時00分",
+      "火曜日: 10時00分～18時00分",
+      "水曜日: 10時00分～18時00分",
+      "木曜日: 10時00分～18時00分",
+      "金曜日: 10時00分～18時00分",
+      "土曜日: 10時00分～18時00分",
+      "日曜日: 定休日"
+    ],
+    "genre": "根管治療",
+    "total_score": 100,
+    "reputation_score": 25,
+    "doctor_score": 25,
+    "equipment_score": 20,
+    "transparency_score": 10,
+    "activity_score": 15,
+    "google_bonus": 5,
+    "clinic_score": 30,
+    "current": 95,
+    "potential": 100,
+    "reputation_tags": [
+      "専門特化",
+      "根管治療",
+      "高技術"
+    ],
+    "reputation_summary": "根管治療の専門院で、他院からの紹介も多いが、口コミには不安の声も。",
+    "phrases": [
+      "前医院で「最悪は抜歯です",
+      "歯根に菌が入り腫れてしまい、以前通っていた歯科で歯根治療を受けました",
+      "他院で保険診療による根管治療を2回経験しましたが、どうしても良くならず、悩んだ末にダイキデンタルクリニックに相談しました",
+      "かかりつけの医師からの紹介でこちらのクリニックを訪れました",
+      "一年前に歯根手術を受けました"
+    ],
+    "sources_analyzed": 2,
+    "patient_scores": {
+      "技術力": 80,
+      "説明力": 70,
+      "清潔感": 85,
+      "優しさ": 75,
+      "子ども対応": 0,
+      "痛みへの配慮": 70,
+      "待ち時間": 60
+    },
+    "doctor_name": "辰巳大貴",
+    "doctor_career": "2014年昭和大学歯学部卒業",
+    "doctor_evidence": [
+      "米国歯内療法学会所属の歯科医。",
+      "難症例にも対応可能な専門医。"
+    ],
+    "doctor_stars": {
+      "専門性": 5,
+      "研究実績": 4,
+      "患者目線": 4,
+      "経験": 4
+    },
+    "case_analysis": {
+      "has_cases": true,
+      "difficult_cases": [
+        "歯根治療の難症例"
+      ],
+      "parts": [
+        "前歯",
+        "奥歯"
+      ],
+      "techniques": [
+        "根管治療"
+      ]
+    },
+    "equipment_evidence": [
+      "無菌的処置を徹底するための設備あり。",
+      "第二種滅菌技士の資格を持つスタッフ。"
+    ],
+    "transparency_evidence": [
+      "治療内容や成功率、費用の説明があり。",
+      "明確なカウンセリングの流れを公開。"
+    ],
+    "activity_evidence": [
+      "国際歯科大会での講演経験あり。",
+      "ペンシルバニア大学で研修を受けた実績。"
+    ],
+    "workplace_stars": {
+      "教育制度": 5,
+      "働きやすさ": 4,
+      "衛生士定着率": 4,
+      "スタッフ教育": 5
+    },
+    "workplace_quality": "高い教育制度で、スタッフの成長を支援",
+    "fit_for": [
+      "根管治療希望者",
+      "再治療が必要な人",
+      "専門医の意見を求める人"
+    ],
+    "not_fit_for": [
+      "小さな子ども",
+      "急ぎの場合",
+      "夜しか通えない人"
+    ],
+    "best_patient_profile": "他院での治療に失敗した方や、難治化した患者",
+    "not_recommended_profile": "軽症の患者や、急いで治療を希望する方",
+    "referral_to": [
+      "特定の治療を希望する人",
+      "技術力を重視する人",
+      "専門医を求める人"
+    ],
+    "not_referral_to": [
+      "夜9時以降しか通えない人",
+      "急な治療が必要な人"
+    ],
+    "ai_summary": "根管治療が得意な医院で、他院での治療に不安がある方におすすめです。一方、急募な治療を求める方には他院を検討した方が良いでしょう。",
+    "notable": true,
+    "notable_reason": "専門特化した医院として認知度が高い。",
+    "catchphrase": "根管治療のスペシャリスト",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJx7iB4rwN8SAReotO-BKJo2M": {
+    "place_id": "ChIJx7iB4rwN8SAReotO-BKJo2M",
+    "name": "ヒロデンタルクリニック",
+    "address": "西宮市高松町１−１３ 西宮矯正インプラントセンタービル",
+    "lat": 34.7425711,
+    "lng": 135.3554233,
+    "phone": "0798-65-8888",
+    "url": "https://hiro.dental/?utm_source=google&utm_medium=maps",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%83%92%E3%83%AD%E3%83%87%E3%83%B3%E3%82%BF%E3%83%AB%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF&query_place_id=ChIJx7iB4rwN8SAReotO-BKJo2M",
+    "rating": 4.9,
+    "total_reviews": 413,
+    "business_hours": [
+      "月曜日: 9時00分～13時00分, 14時00分～18時00分",
+      "火曜日: 9時00分～13時00分, 14時00分～18時00分",
+      "水曜日: 9時00分～13時00分, 14時00分～18時00分",
+      "木曜日: 9時00分～13時00分, 14時00分～18時00分",
+      "金曜日: 9時00分～13時00分, 14時00分～18時00分",
+      "土曜日: 9時00分～13時00分, 14時00分～17時00分",
+      "日曜日: 定休日"
+    ],
+    "genre": "根管治療",
+    "total_score": 83,
+    "reputation_score": 20,
+    "doctor_score": 20,
+    "equipment_score": 15,
+    "transparency_score": 10,
+    "activity_score": 10,
+    "google_bonus": 8,
+    "clinic_score": 25,
+    "current": 75,
+    "potential": 78,
+    "reputation_tags": [
+      "丁寧な説明",
+      "キッズルーム",
+      "安心感"
+    ],
+    "reputation_summary": "スタッフの丁寧さとキッズルームが評判で、安心して通える医院です。",
+    "phrases": [
+      "定期検診にずっと通っており、親知らずも抜いてもらっています",
+      "パウダーからが初体験だったけど、今回、ホワイトニングを人生で初めてしました",
+      "私は昔から歯医者がとても苦手なのですが、最近歯の調子が悪くなってきたので、自宅近くの『ヒロデンタルクリニック』に行くことにしました",
+      "スタッフの皆さんも先生も本当に丁寧で、説明がしっかりしていて安心感があります",
+      "歯が痛すぎて歯医者にいきたいのに、下の子供を預けれずこまっていたら、こちらはキッズルームで子供を預かってもらえてとても助かりました"
+    ],
+    "sources_analyzed": 2,
+    "patient_scores": {
+      "技術力": 80,
+      "説明力": 90,
+      "清潔感": 85,
+      "優しさ": 95,
+      "子ども対応": 100,
+      "痛みへの配慮": 80,
+      "待ち時間": 70
+    },
+    "doctor_name": "",
+    "doctor_career": "",
+    "doctor_evidence": [
+      "丁寧な説明を心がけているとの口コミ",
+      "痛みを気にかける姿勢が評価されている"
+    ],
+    "doctor_stars": {
+      "専門性": 4,
+      "研究実績": 3,
+      "患者目線": 5,
+      "経験": 4
+    },
+    "case_analysis": {
+      "has_cases": false,
+      "difficult_cases": [],
+      "parts": [],
+      "techniques": []
+    },
+    "equipment_evidence": [
+      "最新の医療機器が整っているとのスタッフの声",
+      "豊富な歯科材料が利用可能と記載あり"
+    ],
+    "transparency_evidence": [
+      "治療方針の説明が丁寧であると評判",
+      "料金設定が明確であると推測される"
+    ],
+    "activity_evidence": [
+      "定期的にスタッフ間の勉強会を実施",
+      "教育制度が整っているとの求人情報"
+    ],
+    "workplace_stars": {
+      "教育制度": 5,
+      "働きやすさ": 5,
+      "衛生士定着率": 4,
+      "スタッフ教育": 5
+    },
+    "workplace_quality": "働きやすく、教育制度も整っています。",
+    "fit_for": [
+      "子ども",
+      "歯科恐怖症",
+      "忙しい人"
+    ],
+    "not_fit_for": [
+      "夜しか通えない人",
+      "急患希望"
+    ],
+    "best_patient_profile": "子育て中の方で安心して通える医院を探している人。",
+    "not_recommended_profile": "営業時間外にしか通えない方には不向き。",
+    "referral_to": [
+      "小さな子どもがいる人",
+      "歯医者が怖い人",
+      "丁寧な治療を求める人"
+    ],
+    "not_referral_to": [
+      "夜9時以降しか通えない人",
+      "駅近を最優先する人"
+    ],
+    "ai_summary": "ヒロデンタルクリニックは、特に子どもや歯科恐怖症の方に向いています。一方、営業時間外に通う必要がある方には他の医院を検討することをお勧めします。",
+    "notable": false,
+    "notable_reason": "",
+    "catchphrase": "安心して通える歯科医院",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJ5QshLvvzAGAR9w559np3sLE": {
+    "place_id": "ChIJ5QshLvvzAGAR9w559np3sLE",
+    "name": "ヒロデンタルクリニック訪問歯科",
+    "address": "西宮市高松町１−１３",
+    "lat": 34.7425711,
+    "lng": 135.3554233,
+    "phone": "0798-65-8888",
+    "url": "https://sakura-houmonbu.jp/map/nishinomiya/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%83%92%E3%83%AD%E3%83%87%E3%83%B3%E3%82%BF%E3%83%AB%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF%E8%A8%AA%E5%95%8F%E6%AD%AF%E7%A7%91&query_place_id=ChIJ5QshLvvzAGAR9w559np3sLE",
+    "rating": 5,
+    "total_reviews": 1,
+    "business_hours": [
+      "月曜日: 10時00分～17時00分",
+      "火曜日: 10時00分～17時00分",
+      "水曜日: 10時00分～17時00分",
+      "木曜日: 10時00分～17時00分",
+      "金曜日: 10時00分～17時00分",
+      "土曜日: 10時00分～16時00分",
+      "日曜日: 定休日"
+    ],
+    "genre": "訪問歯科",
+    "total_score": 28,
+    "reputation_score": 18,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 10,
+    "google_bonus": 0,
+    "clinic_score": 0,
+    "current": 28,
+    "potential": 0,
+    "reputation_tags": [
+      "高齢者向け訪問",
+      "安心のサポート",
+      "地域密着型"
+    ],
+    "reputation_summary": "訪問歯科のサポートが充実しており、高齢者に優しいクリニックです。",
+    "phrases": [
+      "いつもお世話になっています"
+    ],
+    "sources_analyzed": 2,
+    "patient_scores": {
+      "技術力": 75,
+      "説明力": 70,
+      "清潔感": 80,
+      "優しさ": 85,
+      "子ども対応": 0,
+      "痛みへの配慮": 80,
+      "待ち時間": 0
+    },
+    "doctor_name": "",
+    "doctor_career": "",
+    "doctor_evidence": [],
+    "doctor_stars": {
+      "専門性": 0,
+      "研究実績": 0,
+      "患者目線": 0,
+      "経験": 0
+    },
+    "case_analysis": {
+      "has_cases": false,
+      "difficult_cases": [],
+      "parts": [],
+      "techniques": []
+    },
+    "equipment_evidence": [],
+    "transparency_evidence": [],
+    "activity_evidence": [
+      "地域密着で訪問歯科に特化しているため。"
+    ],
+    "workplace_stars": {
+      "教育制度": 0,
+      "働きやすさ": 0,
+      "衛生士定着率": 0,
+      "スタッフ教育": 0
+    },
+    "workplace_quality": "",
+    "fit_for": [
+      "高齢者",
+      "在宅患者",
+      "訪問歯科を必要とする人"
+    ],
+    "not_fit_for": [
+      "夜しか通えない人",
+      "駐車場必須"
+    ],
+    "best_patient_profile": "訪問診療が必要な高齢者",
+    "not_recommended_profile": "通院が可能な患者",
+    "referral_to": [
+      "高齢者",
+      "訪問治療希望者",
+      "自宅で治療を希望する人"
+    ],
+    "not_referral_to": [
+      "通院できる人",
+      "夜にしか対応できない人"
+    ],
+    "ai_summary": "訪問歯科が必要な高齢者にとって、こちらのクリニックは安心して利用できる場所です。一方、通院ができる方には他院を検討したほうが良いでしょう。",
+    "notable": false,
+    "notable_reason": "",
+    "catchphrase": "訪問で安心の歯科サービス",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJBZajkALwAGARFPQhYLFU0XQ": {
+    "place_id": "ChIJBZajkALwAGARFPQhYLFU0XQ",
+    "name": "訪問歯科支援センター オーシン",
+    "address": "尼崎市田能１丁目６−１４ サンルナ田能",
+    "lat": 34.764109,
+    "lng": 135.441922,
+    "phone": "06-6494-0430",
+    "url": "",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%A8%AA%E5%95%8F%E6%AD%AF%E7%A7%91%E6%94%AF%E6%8F%B4%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E3%82%AA%E3%83%BC%E3%82%B7%E3%83%B3&query_place_id=ChIJBZajkALwAGARFPQhYLFU0XQ",
+    "rating": 0,
+    "total_reviews": 0,
+    "business_hours": [],
+    "genre": "訪問歯科",
+    "total_score": 0,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
+    "google_bonus": 0,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
+    "reputation_tags": [],
+    "reputation_summary": "",
+    "phrases": [],
+    "sources_analyzed": 0,
+    "patient_scores": {
+      "技術力": 0,
+      "説明力": 0,
+      "清潔感": 0,
+      "優しさ": 0,
+      "子ども対応": 0,
+      "痛みへの配慮": 0,
+      "待ち時間": 0
+    },
+    "doctor_name": "",
+    "doctor_career": "",
+    "doctor_evidence": [],
+    "doctor_stars": {
+      "専門性": 0,
+      "研究実績": 0,
+      "患者目線": 0,
+      "経験": 0
+    },
+    "case_analysis": {
+      "has_cases": false,
+      "difficult_cases": [],
+      "parts": [],
+      "techniques": []
+    },
+    "equipment_evidence": [],
+    "transparency_evidence": [],
+    "activity_evidence": [],
+    "workplace_stars": {
+      "教育制度": 0,
+      "働きやすさ": 0,
+      "衛生士定着率": 0,
+      "スタッフ教育": 0
+    },
+    "workplace_quality": "",
+    "fit_for": [],
+    "not_fit_for": [],
+    "best_patient_profile": "",
+    "not_recommended_profile": "",
+    "referral_to": [],
+    "not_referral_to": [],
+    "ai_summary": "",
+    "notable": false,
+    "notable_reason": "",
+    "catchphrase": "",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJz1yUVfbvAGAROfiFDQ2dJSk": {
+    "place_id": "ChIJz1yUVfbvAGAROfiFDQ2dJSk",
+    "name": "あおぞらデンタルクリニック",
+    "address": "尼崎市東園田町４丁目７２−１",
+    "lat": 34.7548386,
+    "lng": 135.4475232,
+    "phone": "06-4960-1182",
+    "url": "https://www.aozora.dental/?utm_source=google&utm_medium=maps",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%81%82%E3%81%8A%E3%81%9E%E3%82%89%E3%83%87%E3%83%B3%E3%82%BF%E3%83%AB%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF&query_place_id=ChIJz1yUVfbvAGAROfiFDQ2dJSk",
+    "rating": 4.5,
+    "total_reviews": 86,
+    "business_hours": [
+      "月曜日: 10時00分～13時30分, 15時30分～18時30分",
+      "火曜日: 10時00分～13時30分, 15時30分～18時30分",
+      "水曜日: 定休日",
+      "木曜日: 10時00分～13時30分, 15時30分～18時30分",
+      "金曜日: 10時00分～13時30分, 15時30分～18時30分",
+      "土曜日: 10時00分～13時30分, 15時30分～18時30分",
+      "日曜日: 9時00分～13時00分"
+    ],
+    "genre": "訪問歯科",
+    "total_score": 83,
+    "reputation_score": 20,
+    "doctor_score": 20,
+    "equipment_score": 15,
+    "transparency_score": 10,
+    "activity_score": 10,
+    "google_bonus": 8,
+    "clinic_score": 25,
+    "current": 75,
+    "potential": 78,
+    "reputation_tags": [
+      "親切なスタッフ",
+      "安心感",
+      "短い待ち時間"
+    ],
+    "reputation_summary": "親しみやすく、親切なスタッフと短い待ち時間が魅力的なクリニックです。",
+    "phrases": [
+      "親知らずの相談でこちらの歯科医院を訪れました",
+      "家族の勧めで訪れたこのクリニックは、スタッフの方々の対応がとても親切で、安心感がありました",
+      "定期検診でお世話になりました",
+      "こちらで定期検診を受けましたが、先生がとても親しみやすく、安心して任せることができました",
+      "虫歯のチェックで訪れた際、待ち時間が短くて助かりました"
+    ],
+    "sources_analyzed": 1,
+    "patient_scores": {
+      "技術力": 80,
+      "説明力": 85,
+      "清潔感": 90,
+      "優しさ": 90,
+      "子ども対応": 80,
+      "痛みへの配慮": 90,
+      "待ち時間": 85
+    },
+    "doctor_name": "",
+    "doctor_career": "",
+    "doctor_evidence": [
+      "親しみやすいと評判です",
+      "痛みを抑える治療に配慮しています"
+    ],
+    "doctor_stars": {
+      "専門性": 4,
+      "研究実績": 2,
+      "患者目線": 5,
+      "経験": 3
+    },
+    "case_analysis": {
+      "has_cases": false,
+      "difficult_cases": [],
+      "parts": [],
+      "techniques": []
+    },
+    "equipment_evidence": [
+      "歯科用CTを完備しています",
+      "充実した医療機器があります"
+    ],
+    "transparency_evidence": [
+      "患者の要望を反映した治療を提供しています"
+    ],
+    "activity_evidence": [
+      "急患にも対応可能な体制です",
+      "日曜日も診療しています"
+    ],
+    "workplace_stars": {
+      "教育制度": 4,
+      "働きやすさ": 4,
+      "衛生士定着率": 3,
+      "スタッフ教育": 4
+    },
+    "workplace_quality": "スタッフの教育が充実しています",
+    "fit_for": [
+      "子ども",
+      "女性",
+      "高齢者",
+      "インプラント"
+    ],
+    "not_fit_for": [
+      "夜しか通えない人",
+      "急患希望"
+    ],
+    "best_patient_profile": "子ども連れでも安心して通える方",
+    "not_recommended_profile": "夜遅くしか通えない方",
+    "referral_to": [
+      "スタッフが優しい人",
+      "子どもを持つ親",
+      "急な痛みが心配な人"
+    ],
+    "not_referral_to": [
+      "夜9時以降しか通えない人",
+      "駅近を最優先する人"
+    ],
+    "ai_summary": "この医院は特に家族連れや子ども、歯科治療に不安を感じる方に向いています。一方、夜間の診療を希望する方には他院を検討することをおすすめします。",
+    "notable": true,
+    "notable_reason": "安心感と親切な対応が高く評価されています",
+    "catchphrase": "家族みんなの歯医者",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJzdwyf7LvAGARq2NlbDW8ftM": {
+    "place_id": "ChIJzdwyf7LvAGARq2NlbDW8ftM",
+    "name": "尼崎市歯科医師会",
+    "address": "尼崎市東難波町４丁目１３−１４",
+    "lat": 34.7244618,
+    "lng": 135.4148065,
+    "phone": "06-6481-5932",
+    "url": "http://www.ada.or.jp/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%B0%BC%E5%B4%8E%E5%B8%82%E6%AD%AF%E7%A7%91%E5%8C%BB%E5%B8%AB%E4%BC%9A&query_place_id=ChIJzdwyf7LvAGARq2NlbDW8ftM",
+    "rating": 4.5,
+    "total_reviews": 6,
+    "business_hours": [],
+    "genre": "訪問歯科",
+    "total_score": 17,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 15,
+    "google_bonus": 2,
+    "clinic_score": 0,
+    "current": 15,
+    "potential": 0,
+    "reputation_tags": [],
+    "reputation_summary": "尼崎市歯科医師会の情報は基本的な活動内容に限られ、具体的な評判は未記載です。",
+    "phrases": [],
+    "sources_analyzed": 1,
+    "patient_scores": {
+      "技術力": 0,
+      "説明力": 0,
+      "清潔感": 0,
+      "優しさ": 0,
+      "子ども対応": 0,
+      "痛みへの配慮": 0,
+      "待ち時間": 0
+    },
+    "doctor_name": "",
+    "doctor_career": "",
+    "doctor_evidence": [],
+    "doctor_stars": {
+      "専門性": 0,
+      "研究実績": 0,
+      "患者目線": 0,
+      "経験": 0
+    },
+    "case_analysis": {
+      "has_cases": false,
+      "difficult_cases": [],
+      "parts": [],
+      "techniques": []
+    },
+    "equipment_evidence": [],
+    "transparency_evidence": [],
+    "activity_evidence": [
+      "尼崎市病診連携協力歯科医会との協力体制あり。",
+      "地域の健康フェアを開催予定。"
+    ],
+    "workplace_stars": {
+      "教育制度": 0,
+      "働きやすさ": 0,
+      "衛生士定着率": 0,
+      "スタッフ教育": 0
+    },
+    "workplace_quality": "",
+    "fit_for": [],
+    "not_fit_for": [],
+    "best_patient_profile": "",
+    "not_recommended_profile": "",
+    "referral_to": [],
+    "not_referral_to": [],
+    "ai_summary": "尼崎市歯科医師会は地域の健康に貢献する活動を行っていますが、具体的な医院の評判に関する情報は少ないため、他の情報源からの確認をお勧めします。",
+    "notable": false,
+    "notable_reason": "",
+    "catchphrase": "尼崎市の歯科医師が集結。",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJsWUE9fHxAGAR-mBozQniEmk": {
+    "place_id": "ChIJsWUE9fHxAGAR-mBozQniEmk",
+    "name": "くすのきデンタルクリニック",
+    "address": "尼崎市南武庫之荘１丁目２０−１９ LOCUSⅡ1階",
+    "lat": 34.7511521,
+    "lng": 135.3917209,
+    "phone": "06-6434-1025",
+    "url": "https://www.kusunoki-dentalclinic.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%81%8F%E3%81%99%E3%81%AE%E3%81%8D%E3%83%87%E3%83%B3%E3%82%BF%E3%83%AB%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF&query_place_id=ChIJsWUE9fHxAGAR-mBozQniEmk",
+    "rating": 3,
+    "total_reviews": 9,
+    "business_hours": [
+      "月曜日: 9時30分～13時00分, 14時00分～18時30分",
+      "火曜日: 9時30分～13時00分, 14時00分～18時30分",
+      "水曜日: 9時30分～13時00分, 14時00分～18時30分",
+      "木曜日: 9時00分～13時00分, 14時00分～18時30分",
+      "金曜日: 9時00分～13時00分, 14時00分～18時30分",
+      "土曜日: 9時30分～13時00分, 14時00分～18時30分",
+      "日曜日: 定休日"
+    ],
+    "genre": "訪問歯科",
+    "total_score": 50,
+    "reputation_score": 15,
+    "doctor_score": 10,
+    "equipment_score": 10,
+    "transparency_score": 10,
+    "activity_score": 5,
+    "google_bonus": 0,
+    "clinic_score": 20,
+    "current": 50,
+    "potential": 44,
+    "reputation_tags": [
+      "施術が雑",
+      "ダブルブッキング",
+      "信頼性低"
+    ],
+    "reputation_summary": "施術や予約に不満が見られるが、的確な処置に評価もあり。",
+    "phrases": [
+      "10年近く通ってましたが、先生が変わったのもあり、かなり雑になった印象があります",
+      "昨年末に頭痛がひどく、もしかしたら葉の痛みかもとこちらを受診",
+      "めちゃめちゃ雑な施術",
+      "歯茎が腫れた際に初めて伺い、先生が的確に処置してくださいました",
+      "2ヶ月前に予約したのに、ダブル・ブッキングで来院した当日の時、断られました"
+    ],
+    "sources_analyzed": 3,
+    "patient_scores": {
+      "技術力": 45,
+      "説明力": 50,
+      "清潔感": 60,
+      "優しさ": 70,
+      "子ども対応": 0,
+      "痛みへの配慮": 50,
+      "待ち時間": 30
+    },
+    "doctor_name": "中村 龍太郎",
+    "doctor_career": "2014年日本大学松戸歯学部卒業。",
+    "doctor_evidence": [
+      "新型コロナウイルス対策を実施しています。",
+      "施術に関する一部評価が低い。"
+    ],
+    "doctor_stars": {
+      "専門性": 2,
+      "研究実績": 1,
+      "患者目線": 2,
+      "経験": 3
+    },
+    "case_analysis": {
+      "has_cases": false,
+      "difficult_cases": [],
+      "parts": [],
+      "techniques": []
+    },
+    "equipment_evidence": [
+      "公式情報に設備の詳細は記載されていない。",
+      "特筆すべき設備情報が不足。"
+    ],
+    "transparency_evidence": [
+      "施術内容に関する透明な説明が不足しています。"
+    ],
+    "activity_evidence": [
+      "新型コロナウイルス対策に力を入れています。"
+    ],
+    "workplace_stars": {
+      "教育制度": 3,
+      "働きやすさ": 3,
+      "衛生士定着率": 0,
+      "スタッフ教育": 4
+    },
+    "workplace_quality": "スタッフ教育が整っていることが伺える。",
+    "fit_for": [
+      "高齢者",
+      "歯周病治療",
+      "一般歯科"
+    ],
+    "not_fit_for": [
+      "忙しい人",
+      "急患希望",
+      "駅近を重視する人"
+    ],
+    "best_patient_profile": "穏やかに治療を受けたい中高年層の方。",
+    "not_recommended_profile": "緊急の治療が必要な方や予約を必須とする方。",
+    "referral_to": [
+      "歯医者が怖い人",
+      "高齢者",
+      "定期検診を受けたい人"
+    ],
+    "not_referral_to": [
+      "夜しか通えない人",
+      "急患希望の人"
+    ],
+    "ai_summary": "この医院は高齢者や一般的な歯科治療を求める方に向いています。一方、急患に対応できないため、急ぎの治療が必要な方には他院も検討をお勧めします。",
+    "notable": false,
+    "notable_reason": "",
+    "catchphrase": "地域密着の通いやすい歯科医院",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJe5noGt7xAGARnEKh1N7MeO4": {
+    "place_id": "ChIJe5noGt7xAGARnEKh1N7MeO4",
+    "name": "尼崎口腔衛生センター",
+    "address": "尼崎市東難波町４丁目１３−１４",
+    "lat": 34.7244628,
+    "lng": 135.4147778,
+    "phone": "06-6481-3005",
+    "url": "http://www.amasika.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%B0%BC%E5%B4%8E%E5%8F%A3%E8%85%94%E8%A1%9B%E7%94%9F%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC&query_place_id=ChIJe5noGt7xAGARnEKh1N7MeO4",
+    "rating": 2.7,
+    "total_reviews": 3,
+    "business_hours": [
+      "月曜日: 9時00分～12時00分, 13時00分～16時00分",
+      "火曜日: 9時00分～12時00分, 13時00分～16時00分",
+      "水曜日: 9時00分～12時00分, 13時00分～16時00分",
+      "木曜日: 9時00分～12時00分, 13時00分～16時00分",
+      "金曜日: 9時30分～12時00分",
+      "土曜日: 定休日",
+      "日曜日: 10時00分～12時00分"
+    ],
+    "genre": "障害者歯科",
+    "total_score": 40,
+    "reputation_score": 15,
+    "doctor_score": 0,
+    "equipment_score": 10,
+    "transparency_score": 5,
+    "activity_score": 10,
+    "google_bonus": 0,
+    "clinic_score": 15,
+    "current": 40,
+    "potential": 20,
+    "reputation_tags": [
+      "障がい者対応",
+      "急病診療",
+      "休日開院"
+    ],
+    "reputation_summary": "障がい者向け診療を提供し、休日にも急病対応していますが、薬局が遠い点が改善点です。",
+    "phrases": [
+      "まあ、お正月２日に開いているという点は頑張っておられるな、と評価できますが、薬が院外処方箋なので、今度は調剤薬局が遠いか開いていない",
+      "障がい者治療へフリーアクセス出来る"
+    ],
+    "sources_analyzed": 1,
+    "patient_scores": {
+      "技術力": 70,
+      "説明力": 60,
+      "清潔感": 80,
+      "優しさ": 75,
+      "子ども対応": 0,
+      "痛みへの配慮": 0,
+      "待ち時間": 70
+    },
+    "doctor_name": "",
+    "doctor_career": "",
+    "doctor_evidence": [],
+    "doctor_stars": {
+      "専門性": 0,
+      "研究実績": 0,
+      "患者目線": 0,
+      "経験": 0
+    },
+    "case_analysis": {
+      "has_cases": false,
+      "difficult_cases": [],
+      "parts": [],
+      "techniques": []
+    },
+    "equipment_evidence": [
+      "障害者治療の専門性が高い可能性があります。",
+      "施設としての歴史が長いです。"
+    ],
+    "transparency_evidence": [
+      "診療内容が公式サイトで公開されています。"
+    ],
+    "activity_evidence": [
+      "地域密着型の医療活動を行っています。",
+      "休日急病診療を実施しています。"
+    ],
+    "workplace_stars": {
+      "教育制度": 0,
+      "働きやすさ": 0,
+      "衛生士定着率": 0,
+      "スタッフ教育": 0
+    },
+    "workplace_quality": "",
+    "fit_for": [
+      "障がい者",
+      "高齢者",
+      "急病患者"
+    ],
+    "not_fit_for": [
+      "遠方からの通院者",
+      "調剤薬局へのアクセスが必要な人"
+    ],
+    "best_patient_profile": "障がいのある患者や急病の患者に最適です。",
+    "not_recommended_profile": "薬局が遠いとアクセスが不便な方には不向きです。",
+    "referral_to": [
+      "障がい者",
+      "高齢者",
+      "急病患者"
+    ],
+    "not_referral_to": [
+      "遠方から来る人",
+      "薬局が必須な人"
+    ],
+    "ai_summary": "この医院は障がい者や急病対応が必要な方に向いています。一方、薬局までの距離が気になる方には他院も検討をお勧めします。",
+    "notable": false,
+    "notable_reason": "",
+    "catchphrase": "高齢者と障がい者のための歯科医院",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJOaWyDPbvAGARS5BLP8QwCXc": {
+    "place_id": "ChIJOaWyDPbvAGARS5BLP8QwCXc",
+    "name": "障がい者グループホームLikeMe尼崎",
+    "address": "尼崎市琴浦町２３",
+    "lat": 34.7212695,
+    "lng": 135.3961112,
+    "phone": "",
+    "url": "https://jws-gh.com/amagasaki.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%9A%9C%E3%81%8C%E3%81%84%E8%80%85%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%83%9B%E3%83%BC%E3%83%A0LikeMe%E5%B0%BC%E5%B4%8E&query_place_id=ChIJOaWyDPbvAGARS5BLP8QwCXc",
+    "rating": 0,
+    "total_reviews": 0,
+    "business_hours": [
+      "月曜日: 24 時間営業",
+      "火曜日: 24 時間営業",
+      "水曜日: 24 時間営業",
+      "木曜日: 24 時間営業",
+      "金曜日: 24 時間営業",
+      "土曜日: 24 時間営業",
+      "日曜日: 24 時間営業"
+    ],
+    "genre": "障害者歯科",
+    "total_score": 0,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
+    "google_bonus": 0,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
+    "reputation_tags": [
+      "医療サポート充実",
+      "全個室",
+      "共用設備充実"
+    ],
+    "reputation_summary": "医療サポートが充実した安心のグループホームです。",
+    "phrases": [],
+    "sources_analyzed": 1,
+    "patient_scores": {
+      "技術力": 0,
+      "説明力": 0,
+      "清潔感": 0,
+      "優しさ": 0,
+      "子ども対応": 0,
+      "痛みへの配慮": 0,
+      "待ち時間": 0
+    },
+    "doctor_name": "",
+    "doctor_career": "",
+    "doctor_evidence": [],
+    "doctor_stars": {
+      "専門性": 0,
+      "研究実績": 0,
+      "患者目線": 0,
+      "経験": 0
+    },
+    "case_analysis": {
+      "has_cases": false,
+      "difficult_cases": [],
+      "parts": [],
+      "techniques": []
+    },
+    "equipment_evidence": [],
+    "transparency_evidence": [],
+    "activity_evidence": [],
+    "workplace_stars": {
+      "教育制度": 0,
+      "働きやすさ": 0,
+      "衛生士定着率": 0,
+      "スタッフ教育": 0
+    },
+    "workplace_quality": "",
+    "fit_for": [
+      "高齢者",
+      "障がい者"
+    ],
+    "not_fit_for": [],
+    "best_patient_profile": "医療サポートを求める障がい者",
+    "not_recommended_profile": "自立した生活者",
+    "referral_to": [
+      "高齢者",
+      "障がい者",
+      "安心な住まいを求める人"
+    ],
+    "not_referral_to": [
+      "自立した生活を望む人",
+      "フルオープンな環境を求める人"
+    ],
+    "ai_summary": "医療サポートが充実したグループホームです。障がいをお持ちの方に安心して生活を支援しますが、自立した生活を希望する方には不向きかもしれません。",
+    "notable": false,
+    "notable_reason": "",
+    "catchphrase": "充実した医療サポート",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJwfqt8oHxAGARC44zQ7zEXqI": {
+    "place_id": "ChIJwfqt8oHxAGARC44zQ7zEXqI",
+    "name": "あん歯科クリニック",
+    "address": "尼崎市南武庫之荘３丁目２４−１５ OSビル 1階",
+    "lat": 34.7447955,
+    "lng": 135.3935748,
+    "phone": "06-4950-5977",
+    "url": "https://ann-dc.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%81%82%E3%82%93%E6%AD%AF%E7%A7%91%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF&query_place_id=ChIJwfqt8oHxAGARC44zQ7zEXqI",
+    "rating": 4.7,
+    "total_reviews": 12,
+    "business_hours": [
+      "月曜日: 9時00分～17時00分",
+      "火曜日: 9時00分～17時00分",
+      "水曜日: 定休日",
+      "木曜日: 9時00分～17時00分",
+      "金曜日: 9時00分～17時00分",
+      "土曜日: 9時00分～17時00分",
+      "日曜日: 定休日"
+    ],
+    "genre": "障害者歯科",
+    "total_score": 87,
+    "reputation_score": 25,
+    "doctor_score": 25,
+    "equipment_score": 15,
+    "transparency_score": 10,
+    "activity_score": 10,
+    "google_bonus": 2,
+    "clinic_score": 25,
+    "current": 85,
+    "potential": 90,
+    "reputation_tags": [
+      "優しさ",
+      "痛みの配慮",
+      "子ども対応"
+    ],
+    "reputation_summary": "スタッフの優しさと配慮を称賛する声が多く、安全な治療環境を提供しています。",
+    "phrases": [
+      "今日で2回目ですが、本当にどのお姉さんもお優しく、癒されます",
+      "先生が上品で、とても優しく、そして、治療も痛くないように気遣いながら、サクサクとしてくださるので、安心です",
+      "先ほど、初めてあん歯科さんに行って来ました",
+      "歯医者を怖がる発達障害のある息子を連れて行きました",
+      "結論　■とてもよい歯医者様です"
+    ],
+    "sources_analyzed": 3,
+    "patient_scores": {
+      "技術力": 80,
+      "説明力": 75,
+      "清潔感": 85,
+      "優しさ": 90,
+      "子ども対応": 95,
+      "痛みへの配慮": 90,
+      "待ち時間": 70
+    },
+    "doctor_name": "不明",
+    "doctor_career": "不明",
+    "doctor_evidence": [
+      "静脈内鎮静法など高い専門性を持つ",
+      "患者に寄り添った治療を実施"
+    ],
+    "doctor_stars": {
+      "専門性": 5,
+      "研究実績": 5,
+      "患者目線": 5,
+      "経験": 5
+    },
+    "case_analysis": {
+      "has_cases": true,
+      "difficult_cases": [
+        "歯科治療恐怖症",
+        "障害者治療"
+      ],
+      "parts": [
+        "前歯",
+        "奥歯"
+      ],
+      "techniques": [
+        "静脈内鎮静法",
+        "全身麻酔"
+      ]
+    },
+    "equipment_evidence": [
+      "特殊な設備により安心して治療を受けられる",
+      "歯科麻酔専門医が在籍"
+    ],
+    "transparency_evidence": [
+      "治療方法や環境について詳しく説明されている"
+    ],
+    "activity_evidence": [
+      "地域密着で患者の健康を考えた取り組み"
+    ],
+    "workplace_stars": {
+      "教育制度": 4,
+      "働きやすさ": 5,
+      "衛生士定着率": 4,
+      "スタッフ教育": 5
+    },
+    "workplace_quality": "地域貢献を意識した働き易い職場",
+    "fit_for": [
+      "子ども",
+      "女性",
+      "高齢者",
+      "歯科恐怖症"
+    ],
+    "not_fit_for": [
+      "夜しか通えない人",
+      "急患希望"
+    ],
+    "best_patient_profile": "歯科治療に不安を感じる方",
+    "not_recommended_profile": "すぐに治療を希望する方",
+    "referral_to": [
+      "歯医者が怖い人",
+      "小さな子どもがいる人",
+      "発達障害を持つ子どもがいる人"
+    ],
+    "not_referral_to": [
+      "夜9時以降しか通えない人",
+      "急患希望の人"
+    ],
+    "ai_summary": "この医院は、治療に対する恐怖心を持つ方やお子様を連れている方に特に向いています。一方、すぐに治療を希望される方には他院も検討をお勧めします。",
+    "notable": true,
+    "notable_reason": "痛みを軽減する方法に特化した専門性が高い",
+    "catchphrase": "安心のリラックス治療",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJr5ypoTzwAGARylROXMDZAdc": {
+    "place_id": "ChIJr5ypoTzwAGARylROXMDZAdc",
+    "name": "村内歯科医院",
+    "address": "尼崎市猪名寺２丁目１０−１４",
+    "lat": 34.766181,
+    "lng": 135.424248,
+    "phone": "06-6494-2050",
+    "url": "https://www.murauchi-sika.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%9D%91%E5%86%85%E6%AD%AF%E7%A7%91%E5%8C%BB%E9%99%A2&query_place_id=ChIJr5ypoTzwAGARylROXMDZAdc",
+    "rating": 3.8,
+    "total_reviews": 8,
+    "business_hours": [],
+    "genre": "障害者歯科",
+    "total_score": 75,
+    "reputation_score": 20,
+    "doctor_score": 20,
+    "equipment_score": 15,
+    "transparency_score": 10,
+    "activity_score": 10,
+    "google_bonus": 0,
+    "clinic_score": 25,
+    "current": 75,
+    "potential": 78,
+    "reputation_tags": [
+      "安心感",
+      "地域密着",
+      "専門性"
+    ],
+    "reputation_summary": "患者様の希望に沿った治療を提供し、安心して通える医院です。",
+    "phrases": [
+      "院長先生の他に歯科医師、歯科衛生士が数名居られる比較的大規模な歯科医だと思います",
+      "知り合いに勧められて入れ歯を作って貰ったが少し緩みが出たので調整しに行ったが1時間以上掛かって調整して貰った",
+      "障害を持つ息子にとって最高の歯科です",
+      "長年お世話になっています"
+    ],
+    "sources_analyzed": 1,
+    "patient_scores": {
+      "技術力": 75,
+      "説明力": 70,
+      "清潔感": 80,
+      "優しさ": 90,
+      "子ども対応": 85,
+      "痛みへの配慮": 75,
+      "待ち時間": 60
+    },
+    "doctor_name": "村内院長",
+    "doctor_career": "不明",
+    "doctor_evidence": [
+      "多様な医療ニーズに対応",
+      "経験豊富なスタッフが在籍"
+    ],
+    "doctor_stars": {
+      "専門性": 4,
+      "研究実績": 3,
+      "患者目線": 4,
+      "経験": 4
+    },
+    "case_analysis": {
+      "has_cases": false,
+      "difficult_cases": [],
+      "parts": [],
+      "techniques": []
+    },
+    "equipment_evidence": [
+      "最新の医療機器を導入",
+      "院内感染防止対策を整備"
+    ],
+    "transparency_evidence": [
+      "公式サイトに詳細な治療案内あり"
+    ],
+    "activity_evidence": [
+      "地域に密着した活動を実施",
+      "ボランティア活動を行っている"
+    ],
+    "workplace_stars": {
+      "教育制度": 4,
+      "働きやすさ": 4,
+      "衛生士定着率": 3,
+      "スタッフ教育": 4
+    },
+    "workplace_quality": "協力的で教育重点の職場環境です。",
+    "fit_for": [
+      "高齢者",
+      "障がい児",
+      "小さな子ども"
+    ],
+    "not_fit_for": [
+      "夜しか通えない人",
+      "急患希望"
+    ],
+    "best_patient_profile": "家族全員が安心して通える医院を探している方",
+    "not_recommended_profile": "夜間診療を希望する方",
+    "referral_to": [
+      "高齢者",
+      "子ども連れの親",
+      "障がい者がいる家族"
+    ],
+    "not_referral_to": [
+      "夜しか通えない人",
+      "急患を希望する人"
+    ],
+    "ai_summary": "この医院は、家族みんなで安心して通える歯科医院を求める方に向いています。一方、夜間診療を希望する方には他院も検討をお勧めします。",
+    "notable": true,
+    "notable_reason": "多様な患者ニーズに対応できる安心の歯科医院です。",
+    "catchphrase": "安心して通える地域の歯医者",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
   }
 }
