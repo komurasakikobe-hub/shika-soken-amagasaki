@@ -10,11 +10,12 @@
   "contact_email": "komurasaki.kobe@gmail.com",
   "ga4_measurement_id": "",
   "stats": {
-    "clinics_analyzed": 0,
-    "reviews_parsed": 0,
-    "sites_crawled": 0,
-    "clinics_published": 0,
-    "reviews_published": 0
+    "clinics_analyzed": 352,
+    "reviews_parsed": 8252,
+    "sites_crawled": 218,
+    "clinics_published": 209,
+    "reviews_published": 4969,
+    "ai_analyzed": 171
   },
   "_stats_note": "データ収集完了後に実数を入れる",
   "_official_stat_note": "兵庫県「令和6年医療施設調査」統計表1（厚生労働省 令和6年医療施設（動態）調査に基づく、基準日2024-10-01）：尼崎市内の歯科診療所237施設。収集完了後、この数値との乖離を監査の目安にする。"
