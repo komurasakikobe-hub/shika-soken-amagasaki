@@ -27546,11 +27546,10 @@
       "女性"
     ],
     "not_fit_for": [
-      "子ども",
-      "夜しか通えない人"
+      "子ども"
     ],
     "best_patient_profile": "初めてホワイトニングを試したい方。",
-    "not_recommended_profile": "子ども連れや夜のみ通える方。",
+    "not_recommended_profile": "子どもには向いていない可能性があります。",
     "referral_to": [
       "初めてホワイトニングをする人",
       "白い歯を求める人",
@@ -27560,7 +27559,7 @@
       "夜しか通えない人",
       "子どもを連れた人"
     ],
-    "ai_summary": "この医院はホワイトニングを希望する方に非常に向いています。一方で、急な歯科治療が必要な方には他院も検討をお勧めします。",
+    "ai_summary": "Lipsy JR尼崎店は、ホワイトニングに特化した丁寧なサービスが評判で、リラックスできる環境が魅力です。受診前に診療時間や対応内容を公式サイトでご確認ください。",
     "notable": true,
     "notable_reason": "丁寧な対応と高い安心感で、初めての方にもおすすめ。",
     "catchphrase": "安心して白い歯へ！",
@@ -27621,7 +27620,8 @@
     "nearest_ic": {
       "name": "尼崎IC",
       "distance_m": 1912
-    }
+    },
+    "grounding_fixed": "2026-07-11"
   },
   "ChIJrxZxLpbvAGARJ8ogfyBmjvo": {
     "place_id": "ChIJrxZxLpbvAGARJ8ogfyBmjvo",
@@ -28087,11 +28087,10 @@
       "成人"
     ],
     "not_fit_for": [
-      "夜しか通えない人",
       "急患希望"
     ],
     "best_patient_profile": "安心して矯正治療を受けたいお子様",
-    "not_recommended_profile": "急を要する治療を希望する方",
+    "not_recommended_profile": "急患希望の方",
     "referral_to": [
       "歯医者が怖い人",
       "お子さんの矯正を考えている人",
@@ -28101,7 +28100,7 @@
       "夜9時以降しか通えない人",
       "急患希望の人"
     ],
-    "ai_summary": "この医院は、しっかりとした矯正治療を希望する方に向いています。一方、短期間で結果を求める方には他院も検討をお勧めします。",
+    "ai_summary": "かわばた矯正歯科は、信頼できる矯正専門の医院で、子どもから大人まで幅広く対応しています。急患希望の方には向いていない可能性があります。",
     "notable": true,
     "notable_reason": "質の高い矯正治療を提供している医院",
     "catchphrase": "笑顔を支える矯正歯科",
@@ -28175,7 +28174,8 @@
     "nearest_ic": {
       "name": "尼崎IC",
       "distance_m": 2338
-    }
+    },
+    "grounding_fixed": "2026-07-11"
   },
   "ChIJo3ozZgDvAGARdR4vkiTpNik": {
     "place_id": "ChIJo3ozZgDvAGARdR4vkiTpNik",
@@ -30911,7 +30911,7 @@
       "子ども"
     ],
     "best_patient_profile": "定期的に通院し、丁寧な診療を求める人",
-    "not_recommended_profile": "急を要する治療を希望する人",
+    "not_recommended_profile": "急患希望の方",
     "referral_to": [
       "歯医者が怖い人",
       "定期検診をする人",
@@ -30921,7 +30921,7 @@
       "夜遅くしか通えない人",
       "子どもを連れて行く人"
     ],
-    "ai_summary": "この医院はアットホームで優しい対応を重視しています。一方、急患や夜間通院が必要な方には他院を検討した方が良いでしょう。",
+    "ai_summary": "山口歯科医院は、丁寧な診察とアットホームな雰囲気で信頼が厚い医院です。急患希望の方には向いていない可能性があります。",
     "notable": true,
     "notable_reason": "地域密着で信頼の厚い医院として評価されているため。",
     "catchphrase": "信頼のある家族の歯科医",
@@ -30982,7 +30982,8 @@
     "specialty_tags": [
       "予防歯科",
       "駐車場"
-    ]
+    ],
+    "grounding_fixed": "2026-07-11"
   },
   "ChIJQTtPw9DvAGARMqZsmhyAico": {
     "place_id": "ChIJQTtPw9DvAGARMqZsmhyAico",
@@ -31437,11 +31438,10 @@
       "歯科恐怖症"
     ],
     "not_fit_for": [
-      "夜しか通えない人",
       "急患希望"
     ],
     "best_patient_profile": "親切に治療を受けたい方",
-    "not_recommended_profile": "急いで治療を希望する方",
+    "not_recommended_profile": "急患希望の方",
     "referral_to": [
       "歯医者が怖い人",
       "小さな子どもがいる人",
@@ -31451,7 +31451,7 @@
       "夜9時以降しか通えない人",
       "駅近を最優先する人"
     ],
-    "ai_summary": "この医院は、歯科治療に不安を抱える方や子連れの方に向いています。一方、急を要する治療を必要とする方には他院の検討をお勧めします。",
+    "ai_summary": "尼崎市ほほえみ歯科は、親切丁寧な対応と清潔感のある環境が評判の歯科医院です。急患希望の方には向いていない可能性があります。",
     "notable": true,
     "notable_reason": "患者に寄り添った治療を提供する姿勢が際立つため",
     "catchphrase": "痛みを抑えた治療",
@@ -31532,7 +31532,8 @@
     "nearest_ic": {
       "name": "豊中IC",
       "distance_m": 2034
-    }
+    },
+    "grounding_fixed": "2026-07-11"
   },
   "ChIJAaxke4zlAGARn5eMTaPsBJ0": {
     "place_id": "ChIJAaxke4zlAGARn5eMTaPsBJ0",
@@ -32221,11 +32222,10 @@
       "高齢者"
     ],
     "not_fit_for": [
-      "急患希望",
-      "夜しか通えない人"
+      "急患希望"
     ],
     "best_patient_profile": "家族で通える歯科医院を探している方。",
-    "not_recommended_profile": "夜間しか通院不可な方。",
+    "not_recommended_profile": "急患希望の方",
     "referral_to": [
       "歯医者が怖い人",
       "小さな子どもがいる人",
@@ -32235,7 +32235,7 @@
       "夜9時以降しか通えない人",
       "急患を希望する人"
     ],
-    "ai_summary": "この医院は丁寧な対応で、小さなお子さんや歯科治療に不安がある方に向いています。一方、急な対応が必要な方には他院も検討をお勧めします。",
+    "ai_summary": "ふくだ歯科は、丁寧な対応で小児から高齢者まで親しまれており、特に小児歯科や予防治療に力を入れています。急患希望の方には向いていない可能性がありますので、受診前に診療時間や対応内容を公式サイトでご確認ください。",
     "notable": true,
     "notable_reason": "地域に根ざした温かい診療が評価されています。",
     "catchphrase": "家族みんなで通える歯科医院",
@@ -32306,7 +32306,8 @@
       "小児歯科",
       "予防歯科",
       "バリアフリー"
-    ]
+    ],
+    "grounding_fixed": "2026-07-11"
   },
   "ChIJoaOWaezxAGARYG35CIuYje0": {
     "place_id": "ChIJoaOWaezxAGARYG35CIuYje0",
@@ -32411,11 +32412,10 @@
       "忙しい人"
     ],
     "not_fit_for": [
-      "急患希望",
-      "夜しか通えない人"
+      "急患希望"
     ],
     "best_patient_profile": "親子で長く通う患者様",
-    "not_recommended_profile": "急ぎの歯科治療が必要な方",
+    "not_recommended_profile": "急患希望の方",
     "referral_to": [
       "家族で通いたい人",
       "痛みに配慮を求める人",
@@ -32425,7 +32425,7 @@
       "急患希望の方",
       "夜9時以降しか通えない人"
     ],
-    "ai_summary": "杉本歯科クリニックは、優しい対応と専門的な治療を求める方に向いています。一方、夜の診療を希望される方には他院をお勧めします。",
+    "ai_summary": "杉本歯科クリニックは、親切な対応と患者に寄り添った治療が評判のクリニックです。急患希望の方には向いていない可能性があります。",
     "notable": true,
     "notable_reason": "地域に根ざし、患者視点を大切にする治療方針が評価されている。",
     "catchphrase": "心と体にやさしい治療",
@@ -32484,7 +32484,8 @@
       "インプラント",
       "口腔外科",
       "予防歯科"
-    ]
+    ],
+    "grounding_fixed": "2026-07-11"
   },
   "ChIJma0CyOnxAGAR9qvSXh2bGOE": {
     "place_id": "ChIJma0CyOnxAGAR9qvSXh2bGOE",
@@ -32578,11 +32579,10 @@
       "忙しい人"
     ],
     "not_fit_for": [
-      "夜しか通えない人",
       "急患希望"
     ],
     "best_patient_profile": "歯医者が苦手でも通える方",
-    "not_recommended_profile": "通院時間が限られている方",
+    "not_recommended_profile": "急患希望の方",
     "referral_to": [
       "歯医者が怖い人",
       "忙しい人",
@@ -32592,7 +32592,7 @@
       "夜9時以降しか通えない人",
       "急患希望の人"
     ],
-    "ai_summary": "歯医者が怖い方や、短時間で治療を済ませたい方に向いています。一方、特別な治療が必要な方には他院も検討をお勧めします。",
+    "ai_summary": "まなべ歯科は、安心感と優れた技術を持つ医院で、特に歯科恐怖症の方や忙しい方に適しています。急患希望の方には向いていない可能性がありますので、受診前に診療時間や対応内容を公式サイトでご確認ください。",
     "notable": true,
     "notable_reason": "安心して通院できる歯科医院として地域に根差した実績があるため。",
     "catchphrase": "安心して通える歯医者",
@@ -32658,7 +32658,8 @@
     },
     "specialty_tags": [
       "予防歯科"
-    ]
+    ],
+    "grounding_fixed": "2026-07-11"
   },
   "ChIJ187CNOjxAGARMcTOOudTnFc": {
     "place_id": "ChIJ187CNOjxAGARMcTOOudTnFc",
@@ -33009,11 +33010,9 @@
       "高齢者",
       "忙しい人"
     ],
-    "not_fit_for": [
-      "夜しか通えない人"
-    ],
+    "not_fit_for": [],
     "best_patient_profile": "患者を第一に考える方",
-    "not_recommended_profile": "急患希望の方",
+    "not_recommended_profile": "",
     "referral_to": [
       "歯医者が怖い人",
       "初めての方",
@@ -33023,7 +33022,7 @@
       "夜9時以降しか通えない人",
       "急患希望の方"
     ],
-    "ai_summary": "この医院は、穏やかな性格のベテラン医師のもとで安心して治療を受けたい方に向いています。一方、急な治療が必要な方には他院も検討をお勧めします。",
+    "ai_summary": "坂歯科医院は、穏やかで患者を第一に考える凄腕のベテラン医師がいる歯科医院です。診療時間は夜間帯の最終が20時00分までで、土日いずれかの診療も行っていますので、受診前に診療時間や対応内容を公式サイトでご確認ください。",
     "notable": true,
     "notable_reason": "患者への配慮が非常に高い医院です。",
     "catchphrase": "穏やかな凄腕歯科医",
@@ -33066,7 +33065,8 @@
       "自由診療も検討": 0,
       "保険中心": 0
     },
-    "specialty_tags": []
+    "specialty_tags": [],
+    "grounding_fixed": "2026-07-11"
   },
   "ChIJ6V1sxunxAGAR6OeO6FOXIZU": {
     "place_id": "ChIJ6V1sxunxAGAR6OeO6FOXIZU",
@@ -33353,11 +33353,10 @@
       "歯科恐怖症"
     ],
     "not_fit_for": [
-      "急患希望",
-      "夜しか通えない人"
+      "急患希望"
     ],
     "best_patient_profile": "最新の矯正治療を受けたい方",
-    "not_recommended_profile": "急いで治療を希望する方",
+    "not_recommended_profile": "急患希望の方",
     "referral_to": [
       "歯科恐怖症",
       "小さな子どもがいる人",
@@ -33367,7 +33366,7 @@
       "駐車場必須",
       "夜9時以降しか通えない人"
     ],
-    "ai_summary": "この医院はインプラントや矯正治療を希望する方に最適です。しかし、保険治療中心の方には合わない可能性があります。",
+    "ai_summary": "武庫之荘駅前かい矯正歯科は、専門特化した治療と充実した設備を備えた安心の歯科医院です。急患希望の方には向いていない可能性があります。",
     "notable": false,
     "notable_reason": "",
     "catchphrase": "生涯の健康を見守る歯科医院",
@@ -33438,7 +33437,8 @@
     "specialty_tags": [
       "インプラント",
       "矯正歯科"
-    ]
+    ],
+    "grounding_fixed": "2026-07-11"
   },
   "ChIJKXgZpBHxAGARQPa9iUzgfh0": {
     "place_id": "ChIJKXgZpBHxAGARQPa9iUzgfh0",
@@ -33674,11 +33674,10 @@
     ],
     "not_fit_for": [
       "急患希望",
-      "夜しか通えない人",
-      "駅近希望の人"
+      "夜しか通えない人"
     ],
     "best_patient_profile": "子ども連れで安心して通院したい方。",
-    "not_recommended_profile": "治療後の痛みを重視する方。",
+    "not_recommended_profile": "急患希望の方や夜しか通えない方",
     "referral_to": [
       "歯医者が怖い人",
       "小さな子どもがいる人",
@@ -33688,7 +33687,7 @@
       "急患希望の人",
       "夜9時以降しか通えない人"
     ],
-    "ai_summary": "ハイズ歯科は、特に子ども連れの家族に適した医院ですが、待ち時間の長さや治療の質に不安がある方には他院を勧めます。",
+    "ai_summary": "ハイズ歯科・矯正歯科クリニックは、家族で通院できる環境を整えており、予防歯科や小児・成人矯正に注力しています。急患希望や夜間の通院が難しい方は、受診前に診療時間や対応内容を公式サイトでご確認ください。",
     "notable": false,
     "notable_reason": "",
     "catchphrase": "安心して通える歯科医院",
@@ -33756,7 +33755,8 @@
       "矯正歯科",
       "予防歯科",
       "駐車場"
-    ]
+    ],
+    "grounding_fixed": "2026-07-11"
   },
   "ChIJfzH6TYzxAGARbntZLz0CQ58": {
     "place_id": "ChIJfzH6TYzxAGARbntZLz0CQ58",
@@ -34213,11 +34213,10 @@
       "高齢者"
     ],
     "not_fit_for": [
-      "夜しか通えない人",
       "駐車場必須"
     ],
     "best_patient_profile": "矯正治療を希望する親子に適しています。",
-    "not_recommended_profile": "急な治療を求める方には不向きです。",
+    "not_recommended_profile": "駐車場が必須の方",
     "referral_to": [
       "小さな子どもがいる人",
       "歯医者が怖い人",
@@ -34227,7 +34226,7 @@
       "急患希望の方",
       "夜9時以降しか通えない人"
     ],
-    "ai_summary": "この医院は信頼できる矯正専門医による治療を希望する方に向いています。一方、通院に時間的余裕がない方には他院も検討をお勧めします。",
+    "ai_summary": "たまむら矯正歯科 武庫之荘院は、技術力の高い矯正専門医が親切に対応し、子供から大人まで安心して受診できると評判です。駐車場が必須の方には向いていない可能性があります。",
     "notable": true,
     "notable_reason": "経験豊富で、患者に寄り添った治療を提供する医院",
     "catchphrase": "個別対応の矯正専門医院",
@@ -34293,7 +34292,8 @@
       "矯正歯科",
       "子供の矯正",
       "外科矯正"
-    ]
+    ],
+    "grounding_fixed": "2026-07-11"
   },
   "ChIJWTbAEejxAGARzuXyYliFSoA": {
     "place_id": "ChIJWTbAEejxAGARzuXyYliFSoA",
@@ -34397,11 +34397,10 @@
       "忙しい人"
     ],
     "not_fit_for": [
-      "急患希望",
-      "夜しか通えない人"
+      "急患希望"
     ],
     "best_patient_profile": "丁寧な治療を求めるすべての患者",
-    "not_recommended_profile": "夜だけ通える人",
+    "not_recommended_profile": "急患希望の方",
     "referral_to": [
       "歯医者が怖い人",
       "小さな子どもがいる人",
@@ -34411,7 +34410,7 @@
       "夜9時以降しか通えない人",
       "急患希望の人"
     ],
-    "ai_summary": "【AI総評】丁寧で優しい治療が受けられる医院です。歯科が苦手な方や、安心して治療を受けたい方に適しています。一方、急な治療を求める方には不向きです。",
+    "ai_summary": "はたい歯科醫院は、親身で丁寧な治療が高く評価されており、多くの患者から信頼されています。急患希望の方には向いていない可能性があります。",
     "notable": true,
     "notable_reason": "患者への配慮と予防歯科に重きを置いた医院です。",
     "catchphrase": "笑顔があふれる毎日を！",
@@ -34487,7 +34486,8 @@
       "ホワイトニング",
       "矯正歯科",
       "小児歯科"
-    ]
+    ],
+    "grounding_fixed": "2026-07-11"
   },
   "ChIJb2xNscLxAGARzncMB_Dg5Q4": {
     "place_id": "ChIJb2xNscLxAGARzncMB_Dg5Q4",
@@ -35655,7 +35655,7 @@
       "急患希望"
     ],
     "best_patient_profile": "歯科が苦手でも通いやすい方",
-    "not_recommended_profile": "通院が難しい身体の方",
+    "not_recommended_profile": "駐車場必須、急患希望の方",
     "referral_to": [
       "歯医者が怖い人",
       "小さな子どもがいる人",
@@ -35665,7 +35665,7 @@
       "夜9時以降しか通えない人",
       "駐車場必須の人"
     ],
-    "ai_summary": "小島歯科医院は、リラックスして治療を受けたい方に適しています。一方、急患希望や夜しか通えない方には他院を検討することをお勧めします。",
+    "ai_summary": "小島歯科医院は、痛みが少なくリラックスできる環境で、通いやすい立地が魅力です。駐車場が必要な方や急患の方には向いていない可能性があります。",
     "notable": true,
     "notable_reason": "リラックスできる環境で痛みへの配慮があり、評価が高い",
     "catchphrase": "あなたの身近な歯医者",
@@ -35719,7 +35719,8 @@
     "specialty_tags": [
       "小児歯科",
       "訪問歯科"
-    ]
+    ],
+    "grounding_fixed": "2026-07-11"
   },
   "ChIJgysfccTxAGARVZ8oTtN5lVw": {
     "place_id": "ChIJgysfccTxAGARVZ8oTtN5lVw",
@@ -35991,11 +35992,10 @@
       "忙しい人"
     ],
     "not_fit_for": [
-      "急患希望",
-      "夜しか通えない人"
+      "急患希望"
     ],
     "best_patient_profile": "優しい治療を求める患者",
-    "not_recommended_profile": "すぐに対応を求める患者",
+    "not_recommended_profile": "急患希望の方",
     "referral_to": [
       "歯医者が怖い人",
       "高齢者",
@@ -36005,7 +36005,7 @@
       "急患希望の人",
       "夜しか通えない人"
     ],
-    "ai_summary": "この医院は、痛みを恐れる方や定期的な受診を希望する方に向いています。一方、夜間しか通えない方には別の医院も検討をお勧めします。",
+    "ai_summary": "きしもと歯科は、親切なスタッフによる明確な説明と地域密着型のサービスを提供し、患者からの評価も高い医院です。急患希望の方には向いていない可能性があります。",
     "notable": true,
     "notable_reason": "地域の信頼される歯科医として患者思いの治療が評価されています。",
     "catchphrase": "優しさが伝わる歯科医院",
@@ -36061,7 +36061,8 @@
       "小児歯科",
       "予防歯科",
       "歯周病"
-    ]
+    ],
+    "grounding_fixed": "2026-07-11"
   },
   "ChIJ7cVo8dbxAGARixvLxWFRPUk": {
     "place_id": "ChIJ7cVo8dbxAGARixvLxWFRPUk",
@@ -36152,11 +36153,10 @@
       "高齢者"
     ],
     "not_fit_for": [
-      "夜しか通えない人",
       "急患希望"
     ],
     "best_patient_profile": "丁寧な診療を求める患者。",
-    "not_recommended_profile": "夜間に通院希望の患者。",
+    "not_recommended_profile": "急患希望の方",
     "referral_to": [
       "小さな子どもがいる人",
       "歯医者が怖い人",
@@ -36166,7 +36166,7 @@
       "夜9時以降しか通えない人",
       "急患希望の人"
     ],
-    "ai_summary": "菅原歯科クリニックは、特に丁寧な対応を必要とする方に向いています。一方で、時間に余裕がない方には他院も検討をお勧めします。",
+    "ai_summary": "菅原歯科クリニックは、丁寧な診療と優しい対応が高く評価されている医院です。急患希望の方には向いていない可能性があります。",
     "notable": true,
     "notable_reason": "安心感と丁寧さが深く評価されています。",
     "catchphrase": "削らない、抜かない治療",
@@ -36241,7 +36241,8 @@
       "小児歯科",
       "審美歯科",
       "予防歯科"
-    ]
+    ],
+    "grounding_fixed": "2026-07-11"
   },
   "ChIJNRvgf6HxAGARQo91VsHljfg": {
     "place_id": "ChIJNRvgf6HxAGARQo91VsHljfg",
@@ -39048,11 +39049,10 @@
       "女性"
     ],
     "not_fit_for": [
-      "夜しか通えない人",
-      "急患希望"
+      "夜しか通えない人"
     ],
     "best_patient_profile": "短時間でサクッと治療を希望する患者",
-    "not_recommended_profile": "丁寧な説明を重視する患者",
+    "not_recommended_profile": "夜しか通えない人",
     "referral_to": [
       "女性",
       "忙しい人",
@@ -39062,7 +39062,7 @@
       "夜しか通えない人",
       "説明重視の人"
     ],
-    "ai_summary": "この医院は、短時間で迅速な治療を希望する方に向いています。一方、丁寧な説明を必要とする方には他院も検討をお勧めします。",
+    "ai_summary": "ピーチ歯科は、サバサバした女医さんが的確で親切な治療を行う医院です。夜しか通えない方には向いていない可能性があります。",
     "notable": true,
     "notable_reason": "スピーディーで満足度の高い治療を提供する女医が活躍する医院です。",
     "catchphrase": "サクッと治療！",
@@ -39113,7 +39113,8 @@
     "nearest_ic": {
       "name": "尼崎IC",
       "distance_m": 2370
-    }
+    },
+    "grounding_fixed": "2026-07-11"
   },
   "ChIJAfMqb-jvAGAR06CrSUHlplU": {
     "place_id": "ChIJAfMqb-jvAGAR06CrSUHlplU",
@@ -39219,11 +39220,10 @@
     ],
     "not_fit_for": [
       "夜しか通えない人",
-      "駐車場必須",
       "急患希望"
     ],
     "best_patient_profile": "矯正治療に関心がある方。",
-    "not_recommended_profile": "夜間通院希望の方・駐車場重視の方。",
+    "not_recommended_profile": "夜しか通えない方や急患希望の方",
     "referral_to": [
       "矯正を考えている人",
       "専門医を探している人",
@@ -39233,7 +39233,7 @@
       "夜9時以降しか通えない人",
       "駐車場重視の人"
     ],
-    "ai_summary": "にしうら歯科クリニックは、矯正治療に特化しており、患者に寄り添ったサービスを提供しています。一方、夜間に通院が必要な患者には他院をおすすめします。",
+    "ai_summary": "にしうら歯科クリニックは、歯科矯正に定評があり、親切なスタッフが高評価を得ています。夜しか通えない方や急患希望の方には向いていない可能性があります。",
     "notable": true,
     "notable_reason": "矯正に特化した信頼できるクリニックです。",
     "catchphrase": "矯正治療の専門家",
@@ -39303,7 +39303,8 @@
     "nearest_ic": {
       "name": "尼崎IC",
       "distance_m": 2084
-    }
+    },
+    "grounding_fixed": "2026-07-11"
   },
   "ChIJd0RBFd3vAGARlnigg0jyZKw": {
     "place_id": "ChIJd0RBFd3vAGARlnigg0jyZKw",
@@ -39969,11 +39970,10 @@
       "忙しい人"
     ],
     "not_fit_for": [
-      "夜しか通えない人",
       "急患希望"
     ],
     "best_patient_profile": "優しい治療を希望する患者",
-    "not_recommended_profile": "時間に余裕のない患者",
+    "not_recommended_profile": "急患希望の方",
     "referral_to": [
       "歯医者が怖い人",
       "優しい治療を求める人",
@@ -39983,7 +39983,7 @@
       "急患希望",
       "夜9時以降しか通えない人"
     ],
-    "ai_summary": "この医院は、痛みを少なく、患者に優しい治療を求める方に向いています。一方、急患や夜間のみ通院する方には他院を検討することをおすすめします。",
+    "ai_summary": "Cocoro Dental Clinicは、患者に優しく、痛みを少なくする治療を心掛けている医院です。急患希望の方には向いていない可能性があります。",
     "notable": true,
     "notable_reason": "優しさと痛みへの配慮が高く評価されているため。",
     "catchphrase": "痛みを抑えた歯科治療",
@@ -40026,7 +40026,8 @@
       "自由診療も検討": 0,
       "保険中心": 0
     },
-    "specialty_tags": []
+    "specialty_tags": [],
+    "grounding_fixed": "2026-07-11"
   },
   "ChIJ59IGZ_bvAGAR1EOe5qVQfxY": {
     "place_id": "ChIJ59IGZ_bvAGAR1EOe5qVQfxY",
@@ -40431,11 +40432,10 @@
       "女性"
     ],
     "not_fit_for": [
-      "夜しか通えない人",
       "急患希望"
     ],
     "best_patient_profile": "定期的な歯のメンテナンスを求める高齢者",
-    "not_recommended_profile": "急いで治療を希望する患者",
+    "not_recommended_profile": "急患希望の方には向いていない可能性があります。",
     "referral_to": [
       "高齢者",
       "インプラント希望者",
@@ -40445,7 +40445,7 @@
       "夜10時以降しか通えない人",
       "急患対応を求める人"
     ],
-    "ai_summary": "やとみ歯科はアクセスの良さを重視する方に向いています。一方、高額な治療費を気にする方には他院をお勧めします。",
+    "ai_summary": "やとみ歯科は、駅から徒歩約1分のアクセス良好な立地で、むし歯治療や予防歯科に力を入れています。急患希望の方には向いていない可能性があります。",
     "notable": true,
     "notable_reason": "丁寧な説明と予防に力を入れる医院として推奨。",
     "catchphrase": "アクセス良好、丁寧治療",
@@ -40511,7 +40511,8 @@
     "specialty_tags": [
       "予防歯科",
       "小児歯科"
-    ]
+    ],
+    "grounding_fixed": "2026-07-11"
   },
   "ChIJec5aL_TvAGARwLRwf3A-XDU": {
     "place_id": "ChIJec5aL_TvAGARwLRwf3A-XDU",
@@ -40606,11 +40607,10 @@
       "忙しい人"
     ],
     "not_fit_for": [
-      "急患希望",
-      "夜しか通えない人"
+      "急患希望"
     ],
     "best_patient_profile": "子ども連れのファミリーや歯医者が苦手な方",
-    "not_recommended_profile": "夜しか通えない方や即日治療希望の方",
+    "not_recommended_profile": "急患希望の方",
     "referral_to": [
       "歯医者が怖い人",
       "小さな子どもがいる人",
@@ -40620,7 +40620,7 @@
       "夜9時以降しか通えない人",
       "急患希望の人"
     ],
-    "ai_summary": "この医院は、歯医者が怖い方や小さな子どもがいる方に最適です。一方、夜しか通えない方には他の医院を考慮することをお勧めします。",
+    "ai_summary": "細川歯科医院は、穏やかなスタッフと若い先生が信頼できる医院です。急患希望の方には向いていない可能性があります。",
     "notable": true,
     "notable_reason": "安心して通える環境を提供する医院です。",
     "catchphrase": "安心して通える歯科医院",
@@ -40673,7 +40673,8 @@
     "specialty_tags": [
       "小児歯科",
       "キッズルーム"
-    ]
+    ],
+    "grounding_fixed": "2026-07-11"
   },
   "ChIJtQPhfvbvAGARWTToCPeYBpU": {
     "place_id": "ChIJtQPhfvbvAGARWTToCPeYBpU",
@@ -41277,11 +41278,10 @@
       "高齢者"
     ],
     "not_fit_for": [
-      "夜しか通えない人",
       "急患希望"
     ],
     "best_patient_profile": "レーザー治療を試してみたい方",
-    "not_recommended_profile": "待ち時間が気になる方",
+    "not_recommended_profile": "急患希望の方",
     "referral_to": [
       "子どもがいる家族",
       "痛みを嫌う人",
@@ -41291,7 +41291,7 @@
       "夜遅くしか通えない人",
       "急患が必要な人"
     ],
-    "ai_summary": "この医院はリラックスした治療を求める方に向いています。一方、急患や短時間での治療を希望する方には他院を検討することをお勧めします。",
+    "ai_summary": "大野歯科は、女性医師によるリラックスした治療とレーザー治療に定評があります。急患希望の方には向いていない可能性があります。",
     "notable": false,
     "notable_reason": "",
     "catchphrase": "リラックスして治療を受けられる",
@@ -41351,7 +41351,8 @@
     "specialty_tags": [
       "小児歯科",
       "レーザー治療"
-    ]
+    ],
+    "grounding_fixed": "2026-07-11"
   },
   "ChIJQ0Zgod7vAGAR1szSJFXgyuQ": {
     "place_id": "ChIJQ0Zgod7vAGAR1szSJFXgyuQ",
@@ -42207,11 +42208,10 @@
       "忙しい人"
     ],
     "not_fit_for": [
-      "夜しか通えない人",
       "急患希望"
     ],
     "best_patient_profile": "丁寧な治療を望む子どもや高齢者の方",
-    "not_recommended_profile": "夜遅くしか通えない忙しい方",
+    "not_recommended_profile": "急患希望の方",
     "referral_to": [
       "歯医者が怖い人",
       "小さな子どもがいる人",
@@ -42221,7 +42221,7 @@
       "夜9時以降しか通えない人",
       "急患希望の人"
     ],
-    "ai_summary": "この医院は、丁寧な説明と親切な対応を大切にしている方に向いています。一方、夜間しか通院できない方や急患希望の方には他院も検討をお勧めします。",
+    "ai_summary": "ながとし歯科医院は、丁寧で親切な治療を提供し、患者の安心感を大切にしています。急患希望の方には向いていない可能性があります。",
     "notable": true,
     "notable_reason": "地域密着型で患者に寄り添った治療方針が評価されているため。",
     "catchphrase": "地域に優しい歯科医院",
@@ -42292,7 +42292,8 @@
     "nearest_ic": {
       "name": "尼崎IC",
       "distance_m": 3489
-    }
+    },
+    "grounding_fixed": "2026-07-11"
   },
   "ChIJN4CDa5LxAGARiVuO2z4H8PM": {
     "place_id": "ChIJN4CDa5LxAGARiVuO2z4H8PM",
@@ -42526,12 +42527,11 @@
       "高齢者"
     ],
     "not_fit_for": [
-      "夜しか通えない人",
       "急患希望",
       "駐車場必須"
     ],
     "best_patient_profile": "家族全員が通える歯科医院を探している方",
-    "not_recommended_profile": "夜にしか通院できない方",
+    "not_recommended_profile": "急患希望の方には向いていない可能性があります。",
     "referral_to": [
       "子供がいる人",
       "歯が苦手な人",
@@ -42541,7 +42541,7 @@
       "夜9時以降しか通えない人",
       "急患を希望する人"
     ],
-    "ai_summary": "この医院は丁寧な説明を受けながら、安心して治療を受けたい方に向いています。一方、診療時間に厳しい方には他院も検討することをお勧めします。",
+    "ai_summary": "水野歯科医院は、丁寧な説明とリニューアルによる通いやすさが評判の医院です。土日の診療は行っていないため、受診前に診療時間や対応内容を公式サイトでご確認ください。",
     "notable": true,
     "notable_reason": "丁寧なケアと子供向けの環境が優れていることから推薦",
     "catchphrase": "家族みんなの歯科医院",
@@ -42600,7 +42600,8 @@
       "小児歯科",
       "予防歯科",
       "審美歯科"
-    ]
+    ],
+    "grounding_fixed": "2026-07-11"
   },
   "ChIJ__8DsLjxAGARe3W_Q3SqlfQ": {
     "place_id": "ChIJ__8DsLjxAGARe3W_Q3SqlfQ",
@@ -43990,11 +43991,10 @@
       "忙しい人"
     ],
     "not_fit_for": [
-      "急患希望",
-      "夜しか通えない人"
+      "急患希望"
     ],
     "best_patient_profile": "家族で通いやすいクリニックを求める方",
-    "not_recommended_profile": "即日治療を望む方",
+    "not_recommended_profile": "急患希望の方",
     "referral_to": [
       "小さな子どもがいる人",
       "歯医者が怖い人",
@@ -44004,7 +44004,7 @@
       "急患希望の人",
       "夜に通う人"
     ],
-    "ai_summary": "この医院は、丁寧な説明と高い技術力を求める方に向いています。一方、急な処置が必要な方には他院も検討をお勧めします。",
+    "ai_summary": "鎌谷歯科医院は、信頼できる治療と分かりやすい説明が評価されており、痛みが少ない治療を提供しています。急患希望の方には向いていない可能性がありますので、受診前に診療時間や対応内容を公式サイトでご確認ください。",
     "notable": true,
     "notable_reason": "信頼できる治療と説明が好評な医院です。",
     "catchphrase": "安心・快適な歯科医院",
@@ -44067,7 +44067,8 @@
       "審美歯科",
       "キッズルーム",
       "駐車場"
-    ]
+    ],
+    "grounding_fixed": "2026-07-11"
   },
   "ChIJKXrfeFXxAGARhuOsxfyj66o": {
     "place_id": "ChIJKXrfeFXxAGARhuOsxfyj66o",
@@ -45361,11 +45362,10 @@
       "定期的なメンテナンス"
     ],
     "not_fit_for": [
-      "混雑している医院希望",
-      "子ども連れ"
+      "混雑している医院希望"
     ],
     "best_patient_profile": "虫歯治療とその後のケアを重視する人",
-    "not_recommended_profile": "賑やかな医院が好きな人",
+    "not_recommended_profile": "混雑している医院希望",
     "referral_to": [
       "虫歯が気になる人",
       "静かな環境が好きな人",
@@ -45375,7 +45375,7 @@
       "賑やかな医院が好きな人",
       "子どもを連れて行く人"
     ],
-    "ai_summary": "この医院は虫歯治療を受けたい方に向いています。一方、混雑した環境を好む方には他の医院を探した方が良いでしょう。",
+    "ai_summary": "内田歯科医院は虫歯治療や定期的なメンテナンスに対応しており、患者からの評価もあります。混雑している医院を希望される方には向いていない可能性があります。",
     "notable": false,
     "notable_reason": "",
     "catchphrase": "不安はあるが治療は受けられる",
@@ -45425,7 +45425,8 @@
     "nearest_ic": {
       "name": "豊中南出口",
       "distance_m": 2550
-    }
+    },
+    "grounding_fixed": "2026-07-11"
   },
   "ChIJrw5_OODvAGAR_h81ghn80_4": {
     "place_id": "ChIJrw5_OODvAGAR_h81ghn80_4",
@@ -45524,11 +45525,10 @@
       "急患"
     ],
     "not_fit_for": [
-      "夜しか通えない人",
       "駐車場必須"
     ],
     "best_patient_profile": "急な治療が必要な方や不安な方に最適",
-    "not_recommended_profile": "長時間の待機を避けたい方",
+    "not_recommended_profile": "駐車場が必要な方",
     "referral_to": [
       "歯医者が怖い人",
       "急患の方",
@@ -45538,7 +45538,7 @@
       "夜9時以降しか通えない人",
       "駅近を最優先する人"
     ],
-    "ai_summary": "この医院は、丁寧な説明と優しさを重要視する方に向いています。一方、急いで治療を受けたい方には他院も検討をお勧めします。",
+    "ai_summary": "みちざわ歯科・口腔外科は、患者思いの優しい先生が丁寧に対応してくれる歯科医院です。駐車場が必要な方には向いていない可能性があります。",
     "notable": true,
     "notable_reason": "患者思いで専門的な治療が受けられる",
     "catchphrase": "患者目線の安心治療",
@@ -45595,7 +45595,8 @@
     "deep_status": "ok",
     "equipment_stars": {},
     "patient_fit": {},
-    "specialty_tags": []
+    "specialty_tags": [],
+    "grounding_fixed": "2026-07-11"
   },
   "ChIJNylczSHwAGARPZSlpiwolgE": {
     "place_id": "ChIJNylczSHwAGARPZSlpiwolgE",
@@ -45913,11 +45914,10 @@
       "忙しい人"
     ],
     "not_fit_for": [
-      "夜しか通えない人",
       "急患希望"
     ],
     "best_patient_profile": "子供を連れて通院したい方",
-    "not_recommended_profile": "夜しか予約できない方",
+    "not_recommended_profile": "急患希望の方には向いていない可能性があります。",
     "referral_to": [
       "子ども連れの方",
       "優しい歯医者を探す方",
@@ -45927,7 +45927,7 @@
       "夜にしか通えない方",
       "急患の方"
     ],
-    "ai_summary": "いちば歯科医院は、子供連れの患者に最適な環境です。しかし、職場の雰囲気が気になる方には他院を推奨します。",
+    "ai_summary": "いちば歯科医院は、子供連れでも通いやすく、優しい院長がいるため、家族での受診に適しています。土日の診療は行っていないため、受診前に診療時間や対応内容を公式サイトでご確認ください。",
     "notable": false,
     "notable_reason": "",
     "catchphrase": "子供も安心して通える歯科",
@@ -45971,7 +45971,8 @@
     "nearest_ic": {
       "name": "豊中南出口",
       "distance_m": 1949
-    }
+    },
+    "grounding_fixed": "2026-07-11"
   },
   "ChIJmSHcxFnlAGARN5QGCCEZ1QM": {
     "place_id": "ChIJmSHcxFnlAGARN5QGCCEZ1QM",
@@ -46310,11 +46311,10 @@
       "インプラント"
     ],
     "not_fit_for": [
-      "夜しか通えない人",
       "急患希望"
     ],
     "best_patient_profile": "痛みを恐れず治療を受けたい方",
-    "not_recommended_profile": "接遇に敏感な方",
+    "not_recommended_profile": "急患希望",
     "referral_to": [
       "歯医者が怖い人",
       "働きながら通いたい人",
@@ -46324,7 +46324,7 @@
       "夜9時以降しか通えない人",
       "急患希望の人"
     ],
-    "ai_summary": "この医院は痛みを軽減した治療を求める方に向いています。一方、接遇に厳しい方には他院を検討することをお勧めします。",
+    "ai_summary": "治療法に対する評価が分かれ、スタッフ対応には満足の声もあります。急患希望には向いていない可能性があります。",
     "notable": false,
     "notable_reason": "",
     "catchphrase": "痛みを感じさせない歯科治療",
@@ -46373,7 +46373,8 @@
     "deep_status": "ok",
     "equipment_stars": {},
     "patient_fit": {},
-    "specialty_tags": []
+    "specialty_tags": [],
+    "grounding_fixed": "2026-07-11"
   },
   "ChIJawG92vnvAGARV7SRYlH0hNY": {
     "place_id": "ChIJawG92vnvAGARV7SRYlH0hNY",
@@ -49290,11 +49291,10 @@
       "歯科恐怖症"
     ],
     "not_fit_for": [
-      "急患希望",
-      "夜のみ通える人"
+      "急患希望"
     ],
     "best_patient_profile": "歯医者に不安を感じる方で丁寧な治療を求める方。",
-    "not_recommended_profile": "夜間しか通えない忙しい人。",
+    "not_recommended_profile": "急患希望の方",
     "referral_to": [
       "歯医者が怖い人",
       "安心して治療を受けたい人",
@@ -49304,7 +49304,7 @@
       "夜9時以降しか通えない人",
       "すぐに治療が必要な人"
     ],
-    "ai_summary": "この医院は歯医者に不安を感じる方に向いています。一方、夜間のみ通える方には他院も検討をお勧めします。",
+    "ai_summary": "きたつじ歯科クリニックは、親切で丁寧な対応が評価されており、便利な立地と最新設備を備えています。急患希望の方には向いていない可能性があります。",
     "notable": true,
     "notable_reason": "親切な対応が特に評価されており、安心して通える医院です。",
     "catchphrase": "心地よい歯科治療をあなたに",
@@ -49354,7 +49354,8 @@
     "deep_status": "ok",
     "equipment_stars": {},
     "patient_fit": {},
-    "specialty_tags": []
+    "specialty_tags": [],
+    "grounding_fixed": "2026-07-11"
   },
   "ChIJr3A60MjvAGAROH-FEW68KVA": {
     "place_id": "ChIJr3A60MjvAGAROH-FEW68KVA",
@@ -49446,11 +49447,10 @@
       "衛生面を重視する人"
     ],
     "not_fit_for": [
-      "夜しか通えない人",
       "子ども連れ"
     ],
     "best_patient_profile": "忙しくても短時間で治療を済ませたい人",
-    "not_recommended_profile": "夜間や急患対応を求める人",
+    "not_recommended_profile": "子ども連れの方",
     "referral_to": [
       "忙しい人",
       "衛生管理を重視する人",
@@ -49460,7 +49460,7 @@
       "夜9時以降しか通えない人",
       "急患希望の人"
     ],
-    "ai_summary": "この医院は短時間での治療を希望する方に向いています。一方、夜しか通えない方には他院も検討をお勧めします。",
+    "ai_summary": "KANDA DENTAL CLINICは完全予約制で待ち時間が少なく、衛生面に配慮した安心できる歯科医院です。子ども連れの方には向いていない可能性があります。",
     "notable": false,
     "notable_reason": "",
     "catchphrase": "待たせない、清潔な医院",
@@ -49507,7 +49507,8 @@
     "nearest_ic": {
       "name": "尼崎IC",
       "distance_m": 1184
-    }
+    },
+    "grounding_fixed": "2026-07-11"
   },
   "ChIJoXESRZ2PAGAR4zRsPemISpo": {
     "place_id": "ChIJoXESRZ2PAGAR4zRsPemISpo",
@@ -50442,11 +50443,10 @@
     ],
     "not_fit_for": [
       "忙しい人",
-      "急患希望",
-      "駅近を重視する人"
+      "急患希望"
     ],
     "best_patient_profile": "穏やかに治療を受けたい中高年層の方。",
-    "not_recommended_profile": "緊急の治療が必要な方や予約を必須とする方。",
+    "not_recommended_profile": "忙しい人",
     "referral_to": [
       "歯医者が怖い人",
       "高齢者",
@@ -50456,7 +50456,7 @@
       "夜しか通えない人",
       "急患希望の人"
     ],
-    "ai_summary": "この医院は高齢者や一般的な歯科治療を求める方に向いています。一方、急患に対応できないため、急ぎの治療が必要な方には他院も検討をお勧めします。",
+    "ai_summary": "くすのきデンタルクリニックは、一般歯科や歯周病治療に力を入れており、的確な処置が評価されています。忙しい人には向いていない可能性がありますので、受診前に診療時間や対応内容を公式サイトでご確認ください。",
     "notable": false,
     "notable_reason": "",
     "catchphrase": "地域密着の通いやすい歯科医院",
@@ -50504,7 +50504,8 @@
     "deep_status": "ok",
     "equipment_stars": {},
     "patient_fit": {},
-    "specialty_tags": []
+    "specialty_tags": [],
+    "grounding_fixed": "2026-07-11"
   },
   "ChIJe5noGt7xAGARnEKh1N7MeO4": {
     "place_id": "ChIJe5noGt7xAGARnEKh1N7MeO4",
