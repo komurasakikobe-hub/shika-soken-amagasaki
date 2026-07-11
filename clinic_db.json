@@ -11471,7 +11471,7 @@
       "凄く忙しい人"
     ],
     "best_patient_profile": "歯医者が苦手な方や小さなお子様に最適な医院",
-    "not_recommended_profile": "急患対応が必要な方には向かない",
+    "not_recommended_profile": "急患希望の方",
     "referral_to": [
       "歯医者が怖い人",
       "小さな子どもがいる人",
@@ -11481,7 +11481,7 @@
       "急患希望",
       "忙しくて通院しづらい人"
     ],
-    "ai_summary": "この医院は、優しい治療が特徴で、特に子ども連れや歯科恐怖症の方に向いています。一方、夜遅くの受診を希望する方には他院も検討をお勧めします。",
+    "ai_summary": "アクア畠中歯科は、優しい先生とスタッフが揃い、家族で安心して通える歯科医院です。急患希望の方には向いていない可能性があります。",
     "notable": true,
     "notable_reason": "患者目線の丁寧な治療を心がける医院として評判",
     "catchphrase": "気軽に通える町の歯医者",
@@ -11551,7 +11551,8 @@
       "小児歯科",
       "予防歯科",
       "駐車場"
-    ]
+    ],
+    "grounding_fixed": "2026-07-11"
   },
   "ChIJa_BS90_uAGARc0mbjZQnfTI": {
     "place_id": "ChIJa_BS90_uAGARc0mbjZQnfTI",
@@ -11742,12 +11743,10 @@
       "忙しい人"
     ],
     "not_fit_for": [
-      "夜しか通えない人",
-      "子ども嫌い",
       "急いで治療を希望する人"
     ],
     "best_patient_profile": "忙しくても通いやすい診療時間を持つ患者。",
-    "not_recommended_profile": "夜の診療時間しか通えない患者。",
+    "not_recommended_profile": "急いで治療を希望する人",
     "referral_to": [
       "技術力を重視する人",
       "週末も診療を希望する人",
@@ -11757,7 +11756,7 @@
       "夜9時以降しか通えない人",
       "治療費を最優先する人"
     ],
-    "ai_summary": "この医院は親子連れや忙しい方に最適です。一方、夜しか通えない方は他院も検討をお勧めします。",
+    "ai_summary": "そえだ歯科医院は、21時まで診療を行っており、腕のいい先生が親切に対応してくれます。急いで治療を希望する方には向いていない可能性があります。",
     "notable": false,
     "notable_reason": "",
     "catchphrase": "親切で信頼できる歯科医院",
@@ -11812,7 +11811,8 @@
     "specialty_tags": [
       "小児歯科",
       "駐車場"
-    ]
+    ],
+    "grounding_fixed": "2026-07-11"
   },
   "ChIJAXROHkzuAGARO8qGdIcAO_8": {
     "place_id": "ChIJAXROHkzuAGARO8qGdIcAO_8",
@@ -12657,11 +12657,10 @@
       "地域住民"
     ],
     "not_fit_for": [
-      "夜しか通えない人",
       "急患希望"
     ],
     "best_patient_profile": "温かいスタッフに囲まれたい患者さん。",
-    "not_recommended_profile": "夜間のみ通院可能な方。",
+    "not_recommended_profile": "急患希望の方",
     "referral_to": [
       "安心して通える歯医者",
       "高齢者の方",
@@ -12671,7 +12670,7 @@
       "夜9時以降しか通えない人",
       "急患を優先する人"
     ],
-    "ai_summary": "この医院は、優しい対応と安心感を求める方に向いています。一方、夜間のみ通院したい方には他院も検討をお勧めします。",
+    "ai_summary": "ひさい歯科医院は、温かい対応と確かな技術で安心できる歯科医院です。急患希望の方には向いていない可能性があります。",
     "notable": true,
     "notable_reason": "安心感を提供する温かい診療が高く評価されている。",
     "catchphrase": "地域に根ざした安心の歯科医療",
@@ -12739,7 +12738,8 @@
       "小児歯科",
       "訪問歯科",
       "駐車場"
-    ]
+    ],
+    "grounding_fixed": "2026-07-11"
   },
   "ChIJ5yR84U3uAGAR72I7tR0UeT8": {
     "place_id": "ChIJ5yR84U3uAGAR72I7tR0UeT8",
@@ -12827,11 +12827,10 @@
       "忙しい人"
     ],
     "not_fit_for": [
-      "急患希望",
-      "夜しか通えない人"
+      "急患希望"
     ],
     "best_patient_profile": "丁寧な対応を求める方",
-    "not_recommended_profile": "技術面に厳しい方",
+    "not_recommended_profile": "急患希望の方",
     "referral_to": [
       "丁寧な治療が必要な人",
       "長年通える歯科を探している人",
@@ -12841,7 +12840,7 @@
       "急な治療を希望する人",
       "夜しか通えない人"
     ],
-    "ai_summary": "この医院は、長年信頼を寄せている患者が多く、丁寧な対応で安心感があります。一方で、技術面に不安を抱える患者には他院も検討をお勧めします。",
+    "ai_summary": "なかやま歯科は、長年の信頼を得ている医院で、患者に対して丁寧な対応を心掛けています。一方で、急患希望の方には向いていない可能性があります。",
     "notable": false,
     "notable_reason": "",
     "catchphrase": "丁寧な歯科治療",
@@ -12886,7 +12885,8 @@
       "自由診療も検討": 0,
       "保険中心": 0
     },
-    "specialty_tags": []
+    "specialty_tags": [],
+    "grounding_fixed": "2026-07-11"
   },
   "ChIJIzUNdFLuAGAR78uI1Nolk10": {
     "place_id": "ChIJIzUNdFLuAGAR78uI1Nolk10",
@@ -12978,11 +12978,10 @@
       "忙しい人"
     ],
     "not_fit_for": [
-      "夜しか通えない人",
       "急患希望"
     ],
     "best_patient_profile": "痛みに配慮した歯科治療を求める方",
-    "not_recommended_profile": "夜間の診療を希望する方",
+    "not_recommended_profile": "急患希望の方",
     "referral_to": [
       "歯医者が怖い人",
       "小さな子どもがいる人",
@@ -12992,7 +12991,7 @@
       "夜9時以降しか通えない人",
       "駅近を最優先する人"
     ],
-    "ai_summary": "この医院は丁寧で清潔な治療を求める方に向いています。一方、夜通しの診療を希望する方には不向きです。",
+    "ai_summary": "延原歯科医院は、丁寧で綺麗な治療が評判の医院です。急患希望の方には向いていない可能性があります。",
     "notable": true,
     "notable_reason": "地域に根ざした丁寧な対応が高評価です。",
     "catchphrase": "安心・丁寧な治療",
@@ -13049,7 +13048,8 @@
       "予防歯科",
       "審美歯科",
       "駐車場"
-    ]
+    ],
+    "grounding_fixed": "2026-07-11"
   },
   "ChIJ49GrVVLuAGARh1nuyGURDn4": {
     "place_id": "ChIJ49GrVVLuAGARh1nuyGURDn4",
@@ -13266,12 +13266,9 @@
       "忙しい人",
       "高齢者"
     ],
-    "not_fit_for": [
-      "夜しか通えない人",
-      "急患希望"
-    ],
+    "not_fit_for": [],
     "best_patient_profile": "良質な治療を求める人",
-    "not_recommended_profile": "施術時間を重視する人",
+    "not_recommended_profile": "",
     "referral_to": [
       "優しい治療を希望する人",
       "定期検診を考えている人",
@@ -13281,7 +13278,7 @@
       "夜9時以降しか通えない人",
       "短時間での施術希望者"
     ],
-    "ai_summary": "【AI総評】まじま歯科医院は、定期的なケアを求める高齢者や働く方に適した医院です。一方、短時間の治療を希望する方には向かないかもしれません。",
+    "ai_summary": "まじま歯科医院は、丁寧な対応と高い技術力を持ち、患者への配慮が行き届いた治療を提供しています。夜間診療や土日の診療も行っていますが、受診前に診療時間や対応内容を公式サイトでご確認ください。",
     "notable": false,
     "notable_reason": "",
     "catchphrase": "技術と優しさの歯科医院",
@@ -13346,7 +13343,8 @@
       "入れ歯治療",
       "歯周病科",
       "予防歯科"
-    ]
+    ],
+    "grounding_fixed": "2026-07-11"
   },
   "ChIJlb_H2E7uAGAR1_7K84XcNeM": {
     "place_id": "ChIJlb_H2E7uAGAR1_7K84XcNeM",
@@ -13442,11 +13440,10 @@
       "痛みを感じたくない人"
     ],
     "not_fit_for": [
-      "急患希望",
-      "夜しか通えない人"
+      "急患希望"
     ],
     "best_patient_profile": "丁寧な対応を求める患者さんに。",
-    "not_recommended_profile": "急ぎの治療が必要な方には不向きです。",
+    "not_recommended_profile": "急患希望の方",
     "referral_to": [
       "痛みが辛い人",
       "小さな子どもがいる人",
@@ -13456,7 +13453,7 @@
       "夜9時以降しか通えない人",
       "急に通いたい人"
     ],
-    "ai_summary": "この医院は、安心して治療を受けたい方や丁寧な診療が求められる方に向いています。一方、急患に対して素早い対応を必要とする方には他院も検討をお勧めします。",
+    "ai_summary": "さとう歯科は、丁寧な対応とスムーズな診療で安心感を提供しています。急患希望の方には向いていない可能性があります。",
     "notable": true,
     "notable_reason": "患者一人ひとりに向き合う姿勢が評価されています。",
     "catchphrase": "安心して通える歯医者",
@@ -13519,7 +13516,8 @@
       "小児歯科",
       "予防歯科",
       "ホワイトニング"
-    ]
+    ],
+    "grounding_fixed": "2026-07-11"
   },
   "ChIJlUYmZU3uAGARBUBmoIUw2WU": {
     "place_id": "ChIJlUYmZU3uAGARBUBmoIUw2WU",
@@ -14696,11 +14694,10 @@
       "歯科恐怖症"
     ],
     "not_fit_for": [
-      "急患希望",
-      "夜しか通えない人"
+      "急患希望"
     ],
     "best_patient_profile": "優しい医師に治療されたい方",
-    "not_recommended_profile": "急な処置を希望する患者",
+    "not_recommended_profile": "急患希望の方",
     "referral_to": [
       "歯医者が怖い人",
       "女性医師を希望する人",
@@ -14710,7 +14707,7 @@
       "急患希望の方",
       "深夜診療を必要とする人"
     ],
-    "ai_summary": "尼崎駅前歯科・矯正歯科は、女性医師の優しい対応が評判ですが、技術に疑問を持つ方もいます。歯科恐怖症の方には特に向いていますが、技術を重視する方には他院を検討した方が良いでしょう。",
+    "ai_summary": "尼崎駅前歯科・矯正歯科では、女性医師による優しい対応が評価されています。急患希望の方には向いていない可能性があります。",
     "notable": false,
     "notable_reason": "",
     "catchphrase": "優しさが伝わる歯科医院",
@@ -14788,7 +14785,8 @@
       "小児歯科",
       "バリアフリー",
       "駐車場"
-    ]
+    ],
+    "grounding_fixed": "2026-07-11"
   },
   "ChIJ-yBW0gnvAGARzu1C5PQ5knY": {
     "place_id": "ChIJ-yBW0gnvAGARzu1C5PQ5knY",
@@ -15050,11 +15048,10 @@
       "歯科恐怖症"
     ],
     "not_fit_for": [
-      "子供連れ",
       "急患希望"
     ],
     "best_patient_profile": "優しくて痛みを怖がる人",
-    "not_recommended_profile": "小さな子供がいる家族",
+    "not_recommended_profile": "急患希望の方",
     "referral_to": [
       "歯医者が怖い人",
       "忙しい人",
@@ -15064,7 +15061,7 @@
       "急患希望の人",
       "子供連れの家族"
     ],
-    "ai_summary": "この医院は歯科恐怖症の方や子ども連れの方に特に向いています。一方、急な対応が必要な方には他院を検討することをお勧めします。",
+    "ai_summary": "白岡歯科医院は、優しい対応と通いやすさが特徴で、特に子供に対する配慮が高く評価されています。急患希望の方には向いていない可能性があります。",
     "notable": true,
     "notable_reason": "患者の恐怖心を理解し、優しく対応しているため。",
     "catchphrase": "あなたに寄り添う歯科医院",
@@ -15128,7 +15125,8 @@
       "予防歯科",
       "審美歯科",
       "駐車場"
-    ]
+    ],
+    "grounding_fixed": "2026-07-11"
   },
   "ChIJq6v5VkbvAGARo4HHPNSCO28": {
     "place_id": "ChIJq6v5VkbvAGARo4HHPNSCO28",
@@ -15408,11 +15406,10 @@
       "忙しい人"
     ],
     "not_fit_for": [
-      "夜しか通えない人",
       "急患希望"
     ],
     "best_patient_profile": "定期検診を受けたい方",
-    "not_recommended_profile": "急を要する治療が必要な方",
+    "not_recommended_profile": "急患希望の方",
     "referral_to": [
       "大学の講師から学ぶ医療",
       "小さな医院に通いたい人",
@@ -15422,7 +15419,7 @@
       "夜9時以降しか通えない人",
       "急患対応を希望する人"
     ],
-    "ai_summary": "この医院は親切で専門性の高い先生による安心な医療を求める方に向いています。一方、遅い時間に通えない方には他院も検討をお勧めします。",
+    "ai_summary": "たかおか歯科医院は、親切で教授のような先生が安心で確実な医療を提供する医院です。急患希望の方には向いていない可能性があります。",
     "notable": true,
     "notable_reason": "親切かつ専門的な診療を提供する医院",
     "catchphrase": "安心・親切な歯科医療",
@@ -15481,7 +15478,8 @@
       "自由診療も検討": 0,
       "保険中心": 0
     },
-    "specialty_tags": []
+    "specialty_tags": [],
+    "grounding_fixed": "2026-07-11"
   },
   "ChIJ5-XMDq_vAGARLRr0B3rZF9E": {
     "place_id": "ChIJ5-XMDq_vAGARLRr0B3rZF9E",
@@ -16175,7 +16173,7 @@
       "駐車場必須"
     ],
     "best_patient_profile": "アットホームな環境で安心して治療を受けたい方",
-    "not_recommended_profile": "急な治療が必要な方や夜の診療が必須な方",
+    "not_recommended_profile": "急患希望の方や駐車場が必須な方",
     "referral_to": [
       "歯医者が怖い人",
       "アットホームな医院を希望する人",
@@ -16185,7 +16183,7 @@
       "急患希望の人",
       "夜9時以降しか通えない人"
     ],
-    "ai_summary": "この医院はアットホームな雰囲気で安心して治療を受けたい方に向いています。一方、夜間にしか通えない方は他院も検討をお勧めします。",
+    "ai_summary": "ひらき歯科は、アットホームな雰囲気で安心して通える歯科医院です。急患希望の方や駐車場が必要な方には向いていない可能性があります。",
     "notable": false,
     "notable_reason": "",
     "catchphrase": "安心して通える歯科医院",
@@ -16238,7 +16236,8 @@
       "自由診療も検討": 0,
       "保険中心": 0
     },
-    "specialty_tags": []
+    "specialty_tags": [],
+    "grounding_fixed": "2026-07-11"
   },
   "ChIJ7Yr8nXrvAGARUXB1_LClflo": {
     "place_id": "ChIJ7Yr8nXrvAGARUXB1_LClflo",
@@ -16724,11 +16723,10 @@
       "忙しい人"
     ],
     "not_fit_for": [
-      "子ども",
       "夜しか通えない人"
     ],
     "best_patient_profile": "しっかりとした治療を望む中高年層の患者",
-    "not_recommended_profile": "子ども連れや短期間での治療希望者",
+    "not_recommended_profile": "夜しか通えない人",
     "referral_to": [
       "忙しい人",
       "高齢者",
@@ -16738,7 +16736,7 @@
       "子ども連れの家族",
       "急患希望の人"
     ],
-    "ai_summary": "この医院は、丁寧で迅速な治療を好む方に向いています。一方、あまり説明を受けたくない方には他院も検討をお勧めします。",
+    "ai_summary": "牛嶋歯科医院は、予防治療を重視し、迅速で丁寧な施術が評判の歯科医院です。夜間帯の診療は行っていないため、夜しか通えない方には向いていません。",
     "notable": true,
     "notable_reason": "予防治療に力を入れ、患者ニーズに応える医院を推奨します。",
     "catchphrase": "予防から始まる健康な歯の未来",
@@ -16808,7 +16806,8 @@
     "specialty_tags": [
       "予防歯科",
       "個室"
-    ]
+    ],
+    "grounding_fixed": "2026-07-11"
   },
   "ChIJK3XRyGTvAGAR8eann-5Pe1Y": {
     "place_id": "ChIJK3XRyGTvAGAR8eann-5Pe1Y",
@@ -17955,7 +17954,15 @@
     "lng": 135.3890229,
     "equipment_stars": {},
     "patient_fit": {},
-    "specialty_tags": []
+    "specialty_tags": [],
+    "nearest_bus_stop": {
+      "name": "尼崎西消防署前",
+      "distance_m": 114
+    },
+    "nearest_ic": {
+      "name": "武庫川出口",
+      "distance_m": 1764
+    }
   },
   "ChIJcwygvxnuAGARrFoxOv5rcMw": {
     "place_id": "ChIJcwygvxnuAGARrFoxOv5rcMw",
@@ -18245,7 +18252,15 @@
       "自由診療も検討": 0,
       "保険中心": 0
     },
-    "specialty_tags": []
+    "specialty_tags": [],
+    "nearest_bus_stop": {
+      "name": "東大島",
+      "distance_m": 53
+    },
+    "nearest_ic": {
+      "name": "尼崎西出口",
+      "distance_m": 1570
+    }
   },
   "ChIJle_HBxfuAGARP5Ipmzy3w-c": {
     "place_id": "ChIJle_HBxfuAGARP5Ipmzy3w-c",
@@ -18344,7 +18359,15 @@
     "lng": 135.390133,
     "equipment_stars": {},
     "patient_fit": {},
-    "specialty_tags": []
+    "specialty_tags": [],
+    "nearest_bus_stop": {
+      "name": "東大島",
+      "distance_m": 8
+    },
+    "nearest_ic": {
+      "name": "尼崎西出口",
+      "distance_m": 1620
+    }
   },
   "ChIJ1Ta5NQDvAGARKPq-sk8gAjw": {
     "place_id": "ChIJ1Ta5NQDvAGARKPq-sk8gAjw",
@@ -18443,7 +18466,15 @@
     "lng": 135.389395,
     "equipment_stars": {},
     "patient_fit": {},
-    "specialty_tags": []
+    "specialty_tags": [],
+    "nearest_bus_stop": {
+      "name": "東大島",
+      "distance_m": 57
+    },
+    "nearest_ic": {
+      "name": "尼崎西出口",
+      "distance_m": 1598
+    }
   },
   "ChIJ7Vgk-BXuAGARYDdLd6UmDqY": {
     "place_id": "ChIJ7Vgk-BXuAGARYDdLd6UmDqY",
@@ -18839,7 +18870,15 @@
       "小児歯科",
       "予防歯科",
       "駐車場"
-    ]
+    ],
+    "nearest_bus_stop": {
+      "name": "西難波中",
+      "distance_m": 135
+    },
+    "nearest_ic": {
+      "name": "尼崎IC",
+      "distance_m": 1489
+    }
   },
   "ChIJvab12zbuAGARRCnc93ylH9w": {
     "place_id": "ChIJvab12zbuAGARRCnc93ylH9w",
@@ -19251,7 +19290,15 @@
     },
     "specialty_tags": [
       "バリアフリー"
-    ]
+    ],
+    "nearest_bus_stop": {
+      "name": "上下水道庁舎前",
+      "distance_m": 107
+    },
+    "nearest_ic": {
+      "name": "尼崎IC",
+      "distance_m": 1090
+    }
   },
   "ChIJvavJD6XvAGARYTlXb7MJxoY": {
     "place_id": "ChIJvavJD6XvAGARYTlXb7MJxoY",
@@ -19448,7 +19495,15 @@
       "小児歯科",
       "予防歯科",
       "審美歯科"
-    ]
+    ],
+    "nearest_bus_stop": {
+      "name": "JR尼崎（南）",
+      "distance_m": 81
+    },
+    "nearest_ic": {
+      "name": "尼崎IC",
+      "distance_m": 2246
+    }
   },
   "ChIJmbxLRZjvAGARU9pno-uc07M": {
     "place_id": "ChIJmbxLRZjvAGARU9pno-uc07M",
@@ -19643,7 +19698,15 @@
     },
     "specialty_tags": [
       "予防歯科"
-    ]
+    ],
+    "nearest_bus_stop": {
+      "name": "JR尼崎（南）",
+      "distance_m": 104
+    },
+    "nearest_ic": {
+      "name": "尼崎IC",
+      "distance_m": 2280
+    }
   },
   "ChIJryV6mOPvAGARhch-13mUFg8": {
     "place_id": "ChIJryV6mOPvAGARhch-13mUFg8",
@@ -19828,7 +19891,15 @@
       "予防歯科",
       "個室",
       "キッズルーム"
-    ]
+    ],
+    "nearest_bus_stop": {
+      "name": "長洲本通",
+      "distance_m": 81
+    },
+    "nearest_ic": {
+      "name": "尼崎東出口",
+      "distance_m": 2011
+    }
   },
   "ChIJXSy9jgnvAGARJVL1-mDqCnU": {
     "place_id": "ChIJXSy9jgnvAGARJVL1-mDqCnU",
@@ -19932,11 +20003,10 @@
       "女性"
     ],
     "not_fit_for": [
-      "夜しか通えない人",
-      "駐車場必須"
+      "夜しか通えない人"
     ],
     "best_patient_profile": "初めて歯医者を訪れる人に最適です。",
-    "not_recommended_profile": "夜間診療を希望する人には不向きです。",
+    "not_recommended_profile": "夜しか通えない人",
     "referral_to": [
       "歯医者が怖い人",
       "まずは相談したい人",
@@ -19946,7 +20016,7 @@
       "夜9時以降しか通えない人",
       "長時間待たされることが嫌な人"
     ],
-    "ai_summary": "この医院は、痛みを抑えた優しい治療を求める方に向いています。一方、夜しか通えない方には他院を検討することをお勧めします。",
+    "ai_summary": "アップル歯科尼崎駅前は、丁寧なカウンセリングと痛みの少ない治療が高く評価されており、通いやすい環境が魅力です。夜しか通えない方には向いていない可能性があります。",
     "notable": true,
     "notable_reason": "信頼性の高い治療で多数の患者が安心して通院しているから。",
     "catchphrase": "安心・優しい治療を提供",
@@ -20012,7 +20082,16 @@
       "インプラント",
       "予防歯科",
       "矯正歯科"
-    ]
+    ],
+    "nearest_bus_stop": {
+      "name": "JR尼崎(南)",
+      "distance_m": 72
+    },
+    "nearest_ic": {
+      "name": "尼崎IC",
+      "distance_m": 2179
+    },
+    "grounding_fixed": "2026-07-11"
   },
   "ChIJj6lCQIfvAGARYrGwW8RT7tc": {
     "place_id": "ChIJj6lCQIfvAGARYrGwW8RT7tc",
@@ -20117,11 +20196,10 @@
       "忙しい人"
     ],
     "not_fit_for": [
-      "急患希望",
-      "夜しか通えない人"
+      "急患希望"
     ],
     "best_patient_profile": "子どもを持つ親で安心して通院したい方",
-    "not_recommended_profile": "治療の一貫性を重視する方",
+    "not_recommended_profile": "急患希望の方",
     "referral_to": [
       "歯医者が怖い人",
       "小さな子どもがいる人",
@@ -20131,7 +20209,7 @@
       "夜9時以降しか通えない人",
       "急な治療が必要な人"
     ],
-    "ai_summary": "尼崎N’s歯科口腔クリニックは、丁寧な治療を重視し、子ども連れの方に配慮した環境が整っています。一方、治療の精度を求める方には合わない可能性があります。",
+    "ai_summary": "尼崎N’s歯科口腔クリニックは、丁寧な対応と通いやすさが評価されており、充実した設備を備えています。急患希望の方には向いていない可能性がありますので、受診前に診療時間や対応内容を公式サイトでご確認ください。",
     "notable": false,
     "notable_reason": "",
     "catchphrase": "地域密着の丁寧な診療",
@@ -20210,7 +20288,16 @@
       "個室",
       "駐車場",
       "キッズルーム"
-    ]
+    ],
+    "nearest_bus_stop": {
+      "name": "JR尼崎（南）",
+      "distance_m": 92
+    },
+    "nearest_ic": {
+      "name": "尼崎IC",
+      "distance_m": 2245
+    },
+    "grounding_fixed": "2026-07-11"
   },
   "ChIJjZ2wQ5nvAGARLwKTzw5wjEw": {
     "place_id": "ChIJjZ2wQ5nvAGARLwKTzw5wjEw",
@@ -20461,7 +20548,7 @@
       "夜しか通えない人"
     ],
     "best_patient_profile": "丁寧な治療を求める方に最適です。",
-    "not_recommended_profile": "忙しく通院できない方には向いていません。",
+    "not_recommended_profile": "急患希望の方や夜しか通えない方",
     "referral_to": [
       "親切な歯科医を求める人",
       "新たな治療法を探している人",
@@ -20471,7 +20558,7 @@
       "急患希望の人",
       "夜遅くしか通院できない人"
     ],
-    "ai_summary": "この医院は丁寧で優しい治療を求める方に向いています。一方、急患や土日祝に通いたい方には不向きです。",
+    "ai_summary": "すずき歯科クリニックは、丁寧で優しい歯科衛生士が揃い、地域密着型のアットホームな歯科医院です。急患希望の方や夜しか通えない方には向いていない可能性があります。",
     "notable": true,
     "notable_reason": "地域に根ざし、信頼と実績がある医院です。",
     "catchphrase": "あなたのお口を守ります。",
@@ -20541,7 +20628,16 @@
       "小児歯科",
       "予防歯科",
       "審美歯科"
-    ]
+    ],
+    "nearest_bus_stop": {
+      "name": "JR尼崎",
+      "distance_m": 98
+    },
+    "nearest_ic": {
+      "name": "尼崎IC",
+      "distance_m": 2054
+    },
+    "grounding_fixed": "2026-07-11"
   },
   "ChIJo2CEvLXvAGAR8jClVScoNPY": {
     "place_id": "ChIJo2CEvLXvAGAR8jClVScoNPY",
@@ -20635,11 +20731,10 @@
       "忙しい人"
     ],
     "not_fit_for": [
-      "夜しか通えない人",
       "駐車場必須"
     ],
     "best_patient_profile": "フレンドリーな雰囲気を求める方",
-    "not_recommended_profile": "治療内容を細かく指定する方",
+    "not_recommended_profile": "駐車場が必須の方",
     "referral_to": [
       "歯医者が怖い人",
       "小さな子どもがいる人",
@@ -20649,7 +20744,7 @@
       "夜9時以降しか通えない人",
       "駅近を最優先する人"
     ],
-    "ai_summary": "この医院は歯医者が苦手な方や、アクセスを重視する方に向いています。一方、夜遅くの通院が必要な方には他院も検討をお勧めします。",
+    "ai_summary": "はぴねす歯科・矯正歯科 尼崎駅前クリニックは、フレンドリーな対応と痛みへの配慮が評価されており、アクセスも良好です。駐車場が必須の方には向いていない可能性があります。",
     "notable": true,
     "notable_reason": "患者に優しい雰囲気で安心感があるため。",
     "catchphrase": "通いやすいフレンドリーな歯科",
@@ -20716,7 +20811,16 @@
       "矯正歯科",
       "予防歯科",
       "審美歯科"
-    ]
+    ],
+    "nearest_bus_stop": {
+      "name": "JR尼崎(北)",
+      "distance_m": 101
+    },
+    "nearest_ic": {
+      "name": "尼崎IC",
+      "distance_m": 2073
+    },
+    "grounding_fixed": "2026-07-11"
   },
   "ChIJHzltzJnvAGARXLHoE1H8hNs": {
     "place_id": "ChIJHzltzJnvAGARXLHoE1H8hNs",
@@ -20820,11 +20924,10 @@
       "歯科恐怖症"
     ],
     "not_fit_for": [
-      "夜しか通えない人",
       "急患希望"
     ],
     "best_patient_profile": "安心して通院したい方",
-    "not_recommended_profile": "特定の時間にしか通えない方",
+    "not_recommended_profile": "急患希望の方",
     "referral_to": [
       "歯医者が怖い人",
       "小さな子どもがいる人",
@@ -20834,7 +20937,7 @@
       "夜9時以降しか通えない人",
       "駅近を最優先する人"
     ],
-    "ai_summary": "JR尼崎駅前やすだ歯科は、優しい治療と高い技術力が魅力です。特に歯科恐怖症の方や高齢者に向いています。一方、短時間での治療を希望する方には不向きかもしれません。",
+    "ai_summary": "JR尼崎駅前やすだ歯科は、治療がスムーズで患者に優しい歯科医院です。急患希望の方には向いていない可能性がありますので、受診前に診療時間や対応内容を公式サイトでご確認ください。",
     "notable": true,
     "notable_reason": "地域の信頼を得ている歯科医院として推薦できます。",
     "catchphrase": "安心の歯科治療を提供",
@@ -20889,7 +20992,16 @@
       "インプラント",
       "小児歯科",
       "予防歯科"
-    ]
+    ],
+    "nearest_bus_stop": {
+      "name": "ＪＲ尼崎（北）",
+      "distance_m": 43
+    },
+    "nearest_ic": {
+      "name": "尼崎IC",
+      "distance_m": 2233
+    },
+    "grounding_fixed": "2026-07-11"
   },
   "ChIJpVsPVVTvAGARfLW5eylG-Rw": {
     "place_id": "ChIJpVsPVVTvAGARfLW5eylG-Rw",
@@ -20984,12 +21096,11 @@
       "忙しい人"
     ],
     "not_fit_for": [
-      "夜しか通えない人",
       "急患希望",
       "女性医師が苦手な人"
     ],
     "best_patient_profile": "丁寧な説明を求める患者の方",
-    "not_recommended_profile": "厳しい対応を避けたい患者の方",
+    "not_recommended_profile": "急患希望の方や女性医師が苦手な方には向いていない可能性があります。",
     "referral_to": [
       "治療を丁寧に受けたい人",
       "痛みを気にする人",
@@ -20999,7 +21110,7 @@
       "夜遅くしか通えない人",
       "急な治療が必要な人"
     ],
-    "ai_summary": "この医院は丁寧で痛みの少ない治療を求める方に向いています。一方で、対人スキルに不安を感じる方には他院も検討をお勧めします。",
+    "ai_summary": "ブライトデンタルクリニック あまがさきキューズモールは、丁寧な説明と痛みの少ない施術で、安心して通えると好評です。一部の患者からは常勤の女性医師の対応に課題が指摘されています。",
     "notable": false,
     "notable_reason": "",
     "catchphrase": "安心して通える歯科医院",
@@ -21064,7 +21175,16 @@
       "小児歯科",
       "予防歯科",
       "審美歯科"
-    ]
+    ],
+    "nearest_bus_stop": {
+      "name": "JR尼崎(北)",
+      "distance_m": 140
+    },
+    "nearest_ic": {
+      "name": "尼崎IC",
+      "distance_m": 2026
+    },
+    "grounding_fixed": "2026-07-11"
   },
   "ChIJFYaump3vAGARZpBylO6gyyU": {
     "place_id": "ChIJFYaump3vAGARZpBylO6gyyU",
@@ -23614,11 +23734,10 @@
     ],
     "not_fit_for": [
       "夜しか通えない人",
-      "急患希望",
       "子ども"
     ],
     "best_patient_profile": "入れ歯など複雑な治療が必要な人",
-    "not_recommended_profile": "早急な治療が求められる人",
+    "not_recommended_profile": "夜しか通えない人",
     "referral_to": [
       "歯医者が怖い人",
       "高齢者",
@@ -23628,7 +23747,7 @@
       "急患希望の人",
       "夜9時以降しか通えない人"
     ],
-    "ai_summary": "この医院は、特に入れ歯や神経治療に悩む方に向いています。一方で、駅近を重視する方には不向きかもしれません。",
+    "ai_summary": "くろだ歯科医院は、親切で丁寧な治療が好評で、特にセカンドオピニオンを受けやすい雰囲気があります。夜しか通えない方には向いていない可能性がありますので、受診前に診療時間や対応内容を公式サイトでご確認ください。",
     "notable": true,
     "notable_reason": "信頼できる技術と丁寧な対応が高評価であるため。",
     "catchphrase": "患者を大切にする歯科医院",
@@ -23696,7 +23815,8 @@
       "入れ歯",
       "審美歯科",
       "感染対策"
-    ]
+    ],
+    "grounding_fixed": "2026-07-11"
   },
   "ChIJO7ZtiuLxAGARUFeMuhPskG8": {
     "place_id": "ChIJO7ZtiuLxAGARUFeMuhPskG8",
@@ -23954,7 +24074,15 @@
     "q_excluded": false,
     "equipment_stars": {},
     "patient_fit": {},
-    "specialty_tags": []
+    "specialty_tags": [],
+    "nearest_bus_stop": {
+      "name": "尼崎西消防署前",
+      "distance_m": 37
+    },
+    "nearest_ic": {
+      "name": "武庫川出口",
+      "distance_m": 1885
+    }
   },
   "ChIJpWsB1FvvAGARhZZbvlS3s3E": {
     "place_id": "ChIJpWsB1FvvAGARhZZbvlS3s3E",
@@ -24229,11 +24357,10 @@
       "インプラント"
     ],
     "not_fit_for": [
-      "忙しい人",
-      "夜しか通えない人"
+      "忙しい人"
     ],
     "best_patient_profile": "治療内容を丁寧に説明してほしい方",
-    "not_recommended_profile": "急患対応を求める方",
+    "not_recommended_profile": "忙しい人",
     "referral_to": [
       "子どもがいる人",
       "歯医者が怖い方",
@@ -24243,7 +24370,7 @@
       "夜遅くしか通えない人",
       "急患希望の方"
     ],
-    "ai_summary": "永田歯科医院は特にお子様や高齢者に優しい環境です。反面、夜に通院が必要な方には不向きです。",
+    "ai_summary": "永田歯科医院は、患者に寄り添った丁寧な治療が好評で、特に小児歯科や入れ歯治療、矯正歯科などに力を入れています。忙しい方には通院が難しい場合がありますので、受診前に診療時間や対応内容を公式サイトでご確認ください。",
     "notable": false,
     "notable_reason": "",
     "catchphrase": "安心して通える歯科医院",
@@ -24308,7 +24435,8 @@
       "矯正歯科",
       "予防歯科",
       "バリアフリー"
-    ]
+    ],
+    "grounding_fixed": "2026-07-11"
   },
   "ChIJbUFNe1_vAGARwPEQixq0yrg": {
     "place_id": "ChIJbUFNe1_vAGARwPEQixq0yrg",
@@ -24956,7 +25084,7 @@
       "急患希望"
     ],
     "best_patient_profile": "定期的に通院することができる方。",
-    "not_recommended_profile": "急な治療が必要な方。",
+    "not_recommended_profile": "子ども",
     "referral_to": [
       "歯医者が怖い人",
       "高齢者",
@@ -24966,7 +25094,7 @@
       "急患希望",
       "子ども連れの家族"
     ],
-    "ai_summary": "『寺浦歯科医院』は、長年通院している患者が多く、信頼できる院です。清掃や治療に満足している方に向いています。一方で、夜の診療を希望する方には向かないかもしれません。",
+    "ai_summary": "寺浦歯科医院は、多くの患者が長期間通院し、清掃や治療に満足している信頼できる医院です。急患希望の方には向いていない可能性があります。",
     "notable": true,
     "notable_reason": "多くの患者が長年通院しており、高い信頼度を持つ医院です。",
     "catchphrase": "長年の信頼を受ける歯科医院",
@@ -25012,7 +25140,8 @@
       "自由診療も検討": 0,
       "保険中心": 0
     },
-    "specialty_tags": []
+    "specialty_tags": [],
+    "grounding_fixed": "2026-07-11"
   },
   "ChIJiyn22VvvAGARI5zFuISl3Ps": {
     "place_id": "ChIJiyn22VvvAGARI5zFuISl3Ps",
@@ -25115,11 +25244,10 @@
       "歯科恐怖症"
     ],
     "not_fit_for": [
-      "急患希望",
-      "夜しか通えない人"
+      "急患希望"
     ],
     "best_patient_profile": "丁寧で安心できる治療を求める方",
-    "not_recommended_profile": "医師の態度が気になる方",
+    "not_recommended_profile": "急患希望の方",
     "referral_to": [
       "心理的サポートが必要な人",
       "小さな子どもがいる人",
@@ -25129,7 +25257,7 @@
       "医師の態度に敏感な人",
       "駅近にこだわる人"
     ],
-    "ai_summary": "この医院は、親切で丁寧な治療を求める方に向いています。一方、医師の態度を重要視される方には他院も検討をお勧めします。",
+    "ai_summary": "中島歯科医院は、親切で丁寧な治療を提供し、地域に密着したサービスを展開しています。急患希望の方には向いていない可能性があります。",
     "notable": false,
     "notable_reason": "",
     "catchphrase": "丁寧な治療で安心サポート",
@@ -25203,7 +25331,8 @@
       "予防歯科",
       "審美歯科",
       "駐車場"
-    ]
+    ],
+    "grounding_fixed": "2026-07-11"
   },
   "ChIJUcQRqDzuAGAR3g7k0lv5xYQ": {
     "place_id": "ChIJUcQRqDzuAGAR3g7k0lv5xYQ",
@@ -25995,11 +26124,10 @@
       "忙しい人"
     ],
     "not_fit_for": [
-      "夜しか通えない人",
       "急患希望"
     ],
     "best_patient_profile": "優しい対応を求める方に最適な医院です。",
-    "not_recommended_profile": "即時対応を必要とする方には不向きです。",
+    "not_recommended_profile": "急患希望の方",
     "referral_to": [
       "歯医者が怖い人",
       "高齢者",
@@ -26009,7 +26137,7 @@
       "夜9時以降しか通えない人",
       "急報が必要な人"
     ],
-    "ai_summary": "こばやしデンタルクリニックは、優しさを求める方に向いています。一方で、急な対応を希望する方には他院をお勧めします。",
+    "ai_summary": "こばやしデンタルクリニックは、優しいスタッフと丁寧な対応で安心感を提供する医院です。急患希望の方には向いていない可能性があります。",
     "notable": true,
     "notable_reason": "患者目線の対応が感じられ、高評価な先生です。",
     "catchphrase": "安心・丁寧な歯科治療",
@@ -26076,7 +26204,8 @@
       "小児歯科",
       "個室",
       "駐車場"
-    ]
+    ],
+    "grounding_fixed": "2026-07-11"
   },
   "ChIJ9y3dLXrvAGARnt_qJzXOCaE": {
     "place_id": "ChIJ9y3dLXrvAGARnt_qJzXOCaE",
@@ -26380,7 +26509,15 @@
       "自由診療も検討": 0,
       "保険中心": 0
     },
-    "specialty_tags": []
+    "specialty_tags": [],
+    "nearest_bus_stop": {
+      "name": "尾浜",
+      "distance_m": 56
+    },
+    "nearest_ic": {
+      "name": "尼崎IC",
+      "distance_m": 981
+    }
   },
   "ChIJu9e9XMnvAGAR_TXDLiXUmno": {
     "place_id": "ChIJu9e9XMnvAGAR_TXDLiXUmno",
@@ -26541,7 +26678,15 @@
       "虫歯",
       "歯周病",
       "定期健診"
-    ]
+    ],
+    "nearest_bus_stop": {
+      "name": "尾浜町2丁目",
+      "distance_m": 120
+    },
+    "nearest_ic": {
+      "name": "尼崎IC",
+      "distance_m": 687
+    }
   },
   "ChIJMUe5hr3vAGARuz5jCbV2I1A": {
     "place_id": "ChIJMUe5hr3vAGARuz5jCbV2I1A",
@@ -26723,7 +26868,15 @@
       "小児歯科",
       "個室",
       "訪問診療"
-    ]
+    ],
+    "nearest_bus_stop": {
+      "name": "潮江１丁目",
+      "distance_m": 211
+    },
+    "nearest_ic": {
+      "name": "尼崎IC",
+      "distance_m": 1593
+    }
   },
   "ChIJM6R_8r3vAGARmSN3pi_7ZeI": {
     "place_id": "ChIJM6R_8r3vAGARmSN3pi_7ZeI",
@@ -26814,11 +26967,10 @@
       "高齢者"
     ],
     "not_fit_for": [
-      "夜しか通えない人",
       "急患希望"
     ],
     "best_patient_profile": "歯医者に不安がある子どもや高齢者",
-    "not_recommended_profile": "急な治療を希望する患者",
+    "not_recommended_profile": "急患希望の方",
     "referral_to": [
       "子どもがいる人",
       "歯医者恐怖症の人",
@@ -26828,7 +26980,7 @@
       "急患希望の人",
       "夜遅くしか通えない人"
     ],
-    "ai_summary": "この医院は、丁寧でわかりやすい治療を求める方に向いています。一方、受付対応に敏感な方には他院も検討をお勧めします。",
+    "ai_summary": "にしだ歯科は、親切かつ丁寧な診察が評価されており、特に子どもや高齢者に向いています。急患希望の方には向いていない可能性がありますので、受診前に診療時間や対応内容を公式サイトでご確認ください。",
     "notable": false,
     "notable_reason": "",
     "catchphrase": "親切丁寧な地域密着歯科",
@@ -26890,7 +27042,16 @@
     "specialty_tags": [
       "小児歯科",
       "予防歯科"
-    ]
+    ],
+    "nearest_bus_stop": {
+      "name": "潮江１丁目",
+      "distance_m": 65
+    },
+    "nearest_ic": {
+      "name": "尼崎IC",
+      "distance_m": 1857
+    },
+    "grounding_fixed": "2026-07-11"
   },
   "ChIJ7WcHRJfvAGARlz6oDraEHS0": {
     "place_id": "ChIJ7WcHRJfvAGARlz6oDraEHS0",
@@ -27022,7 +27183,15 @@
       "自由診療も検討": 0,
       "保険中心": 0
     },
-    "specialty_tags": []
+    "specialty_tags": [],
+    "nearest_bus_stop": {
+      "name": "アミング潮江前",
+      "distance_m": 91
+    },
+    "nearest_ic": {
+      "name": "尼崎IC",
+      "distance_m": 2274
+    }
   },
   "ChIJBXGRrpfvAGARL-LNSOcvkrk": {
     "place_id": "ChIJBXGRrpfvAGARL-LNSOcvkrk",
@@ -27112,11 +27281,9 @@
       "インプラント",
       "忙しい人"
     ],
-    "not_fit_for": [
-      "夜しか通えない人"
-    ],
+    "not_fit_for": [],
     "best_patient_profile": "夜遅くまで通える方で、丁寧な説明を好む方",
-    "not_recommended_profile": "急な治療が必要な方や夜9時以降しか通えない方",
+    "not_recommended_profile": "",
     "referral_to": [
       "夜診察を希望する方",
       "治療説明を重視する方",
@@ -27126,7 +27293,7 @@
       "夜9時以降しか通えない人",
       "急患希望の方"
     ],
-    "ai_summary": "この医院は、インプラントに不安を感じる方や、夜遅くまで通える歯科医院を探している方に向いています。一方、急患希望や駐車場重視な方には他院も検討をお勧めします。",
+    "ai_summary": "やすらぎ歯科医院は、患者に寄り添った治療とわかりやすい説明が評価されています。診療時間は夜間帯もあり、最終診療は20時00分までですので、受診前に診療時間や対応内容を公式サイトでご確認ください。",
     "notable": false,
     "notable_reason": "",
     "catchphrase": "夜遅くまで通える歯科医院",
@@ -27174,7 +27341,16 @@
     },
     "specialty_tags": [
       "インプラント"
-    ]
+    ],
+    "nearest_bus_stop": {
+      "name": "アミング潮江前",
+      "distance_m": 215
+    },
+    "nearest_ic": {
+      "name": "尼崎IC",
+      "distance_m": 2107
+    },
+    "grounding_fixed": "2026-07-11"
   },
   "ChIJLR1svpfvAGAR9V_JJdPmpU0": {
     "place_id": "ChIJLR1svpfvAGAR9V_JJdPmpU0",
@@ -27271,7 +27447,15 @@
     "q_excluded": false,
     "equipment_stars": {},
     "patient_fit": {},
-    "specialty_tags": []
+    "specialty_tags": [],
+    "nearest_bus_stop": {
+      "name": "JR尼崎(北)",
+      "distance_m": 105
+    },
+    "nearest_ic": {
+      "name": "尼崎IC",
+      "distance_m": 2105
+    }
   },
   "ChIJW7jBS0bxAGAR1OzlC9E-e8s": {
     "place_id": "ChIJW7jBS0bxAGAR1OzlC9E-e8s",
@@ -27429,7 +27613,15 @@
     "specialty_tags": [
       "ホワイトニング",
       "個室"
-    ]
+    ],
+    "nearest_bus_stop": {
+      "name": "潮江１丁目",
+      "distance_m": 299
+    },
+    "nearest_ic": {
+      "name": "尼崎IC",
+      "distance_m": 1912
+    }
   },
   "ChIJrxZxLpbvAGARJ8ogfyBmjvo": {
     "place_id": "ChIJrxZxLpbvAGARJ8ogfyBmjvo",
@@ -27603,7 +27795,15 @@
     "specialty_tags": [
       "インプラント",
       "審美歯科"
-    ]
+    ],
+    "nearest_bus_stop": {
+      "name": "潮江１丁目",
+      "distance_m": 188
+    },
+    "nearest_ic": {
+      "name": "尼崎IC",
+      "distance_m": 1997
+    }
   },
   "ChIJ1XC4BJfvAGARdc5UnCTOzL0": {
     "place_id": "ChIJ1XC4BJfvAGARdc5UnCTOzL0",
@@ -27774,7 +27974,15 @@
     "specialty_tags": [
       "予防歯科",
       "個室"
-    ]
+    ],
+    "nearest_bus_stop": {
+      "name": "アミング潮江前",
+      "distance_m": 122
+    },
+    "nearest_ic": {
+      "name": "尼崎IC",
+      "distance_m": 2169
+    }
   },
   "ChIJ-ZMquJfvAGARG4qsUtc_XzI": {
     "place_id": "ChIJ-ZMquJfvAGARG4qsUtc_XzI",
@@ -27959,7 +28167,15 @@
     "specialty_tags": [
       "矯正歯科",
       "子ども矯正"
-    ]
+    ],
+    "nearest_bus_stop": {
+      "name": "潮江",
+      "distance_m": 65
+    },
+    "nearest_ic": {
+      "name": "尼崎IC",
+      "distance_m": 2338
+    }
   },
   "ChIJo3ozZgDvAGARdR4vkiTpNik": {
     "place_id": "ChIJo3ozZgDvAGARdR4vkiTpNik",
@@ -28094,7 +28310,15 @@
       "自由診療も検討": 0,
       "保険中心": 0
     },
-    "specialty_tags": []
+    "specialty_tags": [],
+    "nearest_bus_stop": {
+      "name": "次屋２丁目",
+      "distance_m": 84
+    },
+    "nearest_ic": {
+      "name": "尼崎IC",
+      "distance_m": 2323
+    }
   },
   "ChIJ6yBCKIXvAGAReE2DTrqXaaw": {
     "place_id": "ChIJ6yBCKIXvAGAReE2DTrqXaaw",
@@ -28227,7 +28451,15 @@
       "自由診療も検討": 0,
       "保険中心": 0
     },
-    "specialty_tags": []
+    "specialty_tags": [],
+    "nearest_bus_stop": {
+      "name": "浜",
+      "distance_m": 100
+    },
+    "nearest_ic": {
+      "name": "加島出口",
+      "distance_m": 2003
+    }
   },
   "ChIJuQS-gI_vAGARrL7EwepSSDQ": {
     "place_id": "ChIJuQS-gI_vAGARrL7EwepSSDQ",
@@ -28324,7 +28556,15 @@
     "q_excluded": false,
     "equipment_stars": {},
     "patient_fit": {},
-    "specialty_tags": []
+    "specialty_tags": [],
+    "nearest_bus_stop": {
+      "name": "次屋",
+      "distance_m": 150
+    },
+    "nearest_ic": {
+      "name": "加島出口",
+      "distance_m": 2122
+    }
   },
   "ChIJHcONPoXvAGARE92R1PJBKnk": {
     "place_id": "ChIJHcONPoXvAGARE92R1PJBKnk",
@@ -28512,7 +28752,15 @@
       "予防歯科",
       "個室",
       "駐車場"
-    ]
+    ],
+    "nearest_bus_stop": {
+      "name": "次屋",
+      "distance_m": 105
+    },
+    "nearest_ic": {
+      "name": "加島出口",
+      "distance_m": 2047
+    }
   },
   "ChIJ7W6qj5PvAGARa-bUrkmE_7g": {
     "place_id": "ChIJ7W6qj5PvAGARa-bUrkmE_7g",
@@ -28609,7 +28857,15 @@
     "q_excluded": false,
     "equipment_stars": {},
     "patient_fit": {},
-    "specialty_tags": []
+    "specialty_tags": [],
+    "nearest_bus_stop": {
+      "name": "下坂部",
+      "distance_m": 122
+    },
+    "nearest_ic": {
+      "name": "尼崎IC",
+      "distance_m": 2242
+    }
   },
   "ChIJ98OFxKDlAGARlAt8CxSB0_o": {
     "place_id": "ChIJ98OFxKDlAGARlAt8CxSB0_o",
@@ -31067,7 +31323,15 @@
     "specialty_tags": [
       "予防歯科",
       "子ども"
-    ]
+    ],
+    "nearest_bus_stop": {
+      "name": "上坂部",
+      "distance_m": 202
+    },
+    "nearest_ic": {
+      "name": "尼崎IC",
+      "distance_m": 1858
+    }
   },
   "ChIJ1cjChSLvAGARKTfLAdXc6nI": {
     "place_id": "ChIJ1cjChSLvAGARKTfLAdXc6nI",
@@ -31260,7 +31524,15 @@
       "予防歯科",
       "個室",
       "駐車場"
-    ]
+    ],
+    "nearest_bus_stop": {
+      "name": "五反田",
+      "distance_m": 130
+    },
+    "nearest_ic": {
+      "name": "豊中IC",
+      "distance_m": 2034
+    }
   },
   "ChIJAaxke4zlAGARn5eMTaPsBJ0": {
     "place_id": "ChIJAaxke4zlAGARn5eMTaPsBJ0",
@@ -38681,7 +38953,15 @@
       "個室",
       "駐車場",
       "バリアフリー"
-    ]
+    ],
+    "nearest_bus_stop": {
+      "name": "御園団地",
+      "distance_m": 186
+    },
+    "nearest_ic": {
+      "name": "尼崎IC",
+      "distance_m": 2292
+    }
   },
   "ChIJJ_pBMufvAGAR-FQ2EkTClu8": {
     "place_id": "ChIJJ_pBMufvAGAR-FQ2EkTClu8",
@@ -38825,7 +39105,15 @@
       "自由診療も検討": 0,
       "保険中心": 0
     },
-    "specialty_tags": []
+    "specialty_tags": [],
+    "nearest_bus_stop": {
+      "name": "御園団地",
+      "distance_m": 7
+    },
+    "nearest_ic": {
+      "name": "尼崎IC",
+      "distance_m": 2370
+    }
   },
   "ChIJAfMqb-jvAGAR06CrSUHlplU": {
     "place_id": "ChIJAfMqb-jvAGAR06CrSUHlplU",
@@ -39007,7 +39295,15 @@
       "小児歯科",
       "審美歯科",
       "駐車場"
-    ]
+    ],
+    "nearest_bus_stop": {
+      "name": "若王寺",
+      "distance_m": 72
+    },
+    "nearest_ic": {
+      "name": "尼崎IC",
+      "distance_m": 2084
+    }
   },
   "ChIJd0RBFd3vAGARlnigg0jyZKw": {
     "place_id": "ChIJd0RBFd3vAGARlnigg0jyZKw",
@@ -39142,7 +39438,15 @@
       "自由診療も検討": 0,
       "保険中心": 0
     },
-    "specialty_tags": []
+    "specialty_tags": [],
+    "nearest_bus_stop": {
+      "name": "上坂部",
+      "distance_m": 40
+    },
+    "nearest_ic": {
+      "name": "尼崎IC",
+      "distance_m": 1879
+    }
   },
   "ChIJJ5UacOjvAGARPDDQOktOfJE": {
     "place_id": "ChIJJ5UacOjvAGARPDDQOktOfJE",
@@ -39315,7 +39619,15 @@
       "予防歯科",
       "小児歯科",
       "審美歯科"
-    ]
+    ],
+    "nearest_bus_stop": {
+      "name": "若王寺",
+      "distance_m": 34
+    },
+    "nearest_ic": {
+      "name": "尼崎IC",
+      "distance_m": 2138
+    }
   },
   "ChIJ8XF_HvLvAGAR7fug6H8VHuo": {
     "place_id": "ChIJ8XF_HvLvAGAR7fug6H8VHuo",
@@ -41972,7 +42284,15 @@
       "予防歯科",
       "バリアフリー",
       "駐車場"
-    ]
+    ],
+    "nearest_bus_stop": {
+      "name": "西武庫公園",
+      "distance_m": 45
+    },
+    "nearest_ic": {
+      "name": "尼崎IC",
+      "distance_m": 3489
+    }
   },
   "ChIJN4CDa5LxAGARiVuO2z4H8PM": {
     "place_id": "ChIJN4CDa5LxAGARiVuO2z4H8PM",
@@ -42541,7 +42861,15 @@
     "q_excluded": false,
     "equipment_stars": {},
     "patient_fit": {},
-    "specialty_tags": []
+    "specialty_tags": [],
+    "nearest_bus_stop": {
+      "name": "北町",
+      "distance_m": 97
+    },
+    "nearest_ic": {
+      "name": "尼崎IC",
+      "distance_m": 2161
+    }
   },
   "ChIJi35FqczxAGARbcjF9JY06dA": {
     "place_id": "ChIJi35FqczxAGARbcjF9JY06dA",
@@ -45089,7 +45417,15 @@
     "deep_status": "ok",
     "equipment_stars": {},
     "patient_fit": {},
-    "specialty_tags": []
+    "specialty_tags": [],
+    "nearest_bus_stop": {
+      "name": "尼崎御園郵便局前",
+      "distance_m": 174
+    },
+    "nearest_ic": {
+      "name": "豊中南出口",
+      "distance_m": 2550
+    }
   },
   "ChIJrw5_OODvAGAR_h81ghn80_4": {
     "place_id": "ChIJrw5_OODvAGAR_h81ghn80_4",
@@ -45627,7 +45963,15 @@
     "deep_status": "ok",
     "equipment_stars": {},
     "patient_fit": {},
-    "specialty_tags": []
+    "specialty_tags": [],
+    "nearest_bus_stop": {
+      "name": "田能口",
+      "distance_m": 88
+    },
+    "nearest_ic": {
+      "name": "豊中南出口",
+      "distance_m": 1949
+    }
   },
   "ChIJmSHcxFnlAGARN5QGCCEZ1QM": {
     "place_id": "ChIJmSHcxFnlAGARN5QGCCEZ1QM",
@@ -46712,7 +47056,15 @@
     "q_excluded": false,
     "equipment_stars": {},
     "patient_fit": {},
-    "specialty_tags": []
+    "specialty_tags": [],
+    "nearest_bus_stop": {
+      "name": "髭茶屋",
+      "distance_m": 52
+    },
+    "nearest_ic": {
+      "name": "尼崎IC",
+      "distance_m": 4466
+    }
   },
   "ChIJf2ThUgDxAGARlMN_LG3cnYM": {
     "place_id": "ChIJf2ThUgDxAGARlMN_LG3cnYM",
@@ -49147,7 +49499,15 @@
     "deep_status": "ok",
     "equipment_stars": {},
     "patient_fit": {},
-    "specialty_tags": []
+    "specialty_tags": [],
+    "nearest_bus_stop": {
+      "name": "上下水道庁舎前",
+      "distance_m": 59
+    },
+    "nearest_ic": {
+      "name": "尼崎IC",
+      "distance_m": 1184
+    }
   },
   "ChIJoXESRZ2PAGAR4zRsPemISpo": {
     "place_id": "ChIJoXESRZ2PAGAR4zRsPemISpo",
@@ -49701,7 +50061,15 @@
     "q_excluded": false,
     "equipment_stars": {},
     "patient_fit": {},
-    "specialty_tags": []
+    "specialty_tags": [],
+    "nearest_bus_stop": {
+      "name": "田能口",
+      "distance_m": 52
+    },
+    "nearest_ic": {
+      "name": "豊中南出口",
+      "distance_m": 1808
+    }
   },
   "ChIJz1yUVfbvAGAROfiFDQ2dJSk": {
     "place_id": "ChIJz1yUVfbvAGAROfiFDQ2dJSk",
