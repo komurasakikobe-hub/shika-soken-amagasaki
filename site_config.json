@@ -6,6 +6,7 @@
   "site_name": "尼崎歯科総研",
   "site_name_en": "AMAGASAKI DENTAL RESEARCH",
   "domain": "amagasaki.shikasoken.com",
+  "stations_module": "amagasaki_stations",
   "_domain_note": "仮ドメイン。公開前にユーザーが決定する",
   "industry": "歯科",
   "contact_email": "komurasaki.kobe@gmail.com",
